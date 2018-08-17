@@ -5,6 +5,9 @@ disqusShortname = "the-world-as-a-stage"
 paginate        = 6
 title = "The world as a stage"
 
+googleAnalytics = "UA-37300513-2"
+
+
 # SectionPagesMenu = "main"
 rssLimit = 15
 pygmentsUseClassic=false
@@ -20,7 +23,7 @@ publishDir = "docs"
   cover       = ""
   description = "Here is a description of your site."
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-37300513-2"
   customCSS = ["overrides.css","syntax.css"]
   RSSLink = ""
 
