@@ -1,4 +1,4 @@
-baseURL = "http://theworldasastage.github.io/hugo/"
+baseURL = "https://theworldasastage.github.io/hugo/"
 theme           = "casper-two"
 languageCode = "en-us"
 disqusShortname = ""
