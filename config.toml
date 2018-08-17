@@ -1,12 +1,12 @@
 baseURL = "https://theworldasastage.github.io/hugo/"
 theme           = "casper-two"
 languageCode = "en-us"
-disqusShortname = ""
+disqusShortname = "the-world-as-a-stage"
 paginate        = 6
 title = "The world as a stage"
 
 # SectionPagesMenu = "main"
-
+rssLimit = 15
 pygmentsUseClassic=false
 pygmentsCodefences=true
 pygmentsUseClasses=true
@@ -29,15 +29,15 @@ publishDir = "docs"
   githubName = "bcoulange"
 
   logo = ""
-  orgName = "NT"
+  orgName = "Nicotupe"
   orgWebsite = ""
   orgDescription = ""
 
-  author = "Nicolas Tupégabet"
+  author = "Baptiste Coulange"
   authorAvatar = "img/avatar-tupe-chaplin.jpg"
   authorLocation = "Barcelona, Spain"
   authorWebsite = ""
-  authorDescription = "Describe yourself.."
+  authorDescription = "Remote CTO at @cornis_SAS / socially acceptable maths nerd of @podcastscience / always improvising"
 
   pageNotFoundTitle = "404 - Page not found"
 

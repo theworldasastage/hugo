@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+    <channel>
     <title>Creativity on The world as a stage</title>
     <link>https://theworldasastage.github.io/hugo/tags/creativity/</link>
     <description>Recent content in Creativity on The world as a stage</description>
@@ -8,17 +8,229 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://theworldasastage.github.io/hugo/tags/creativity/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://theworldasastage.github.io/hugo/tags/creativity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creativity and programming languages</title>
-      <link>https://theworldasastage.github.io/hugo/creativity-and-programming-languages/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://theworldasastage.github.io/hugo/creativity-and-programming-languages/</guid>
-      <description>Since the second half of the 20th century, we know that every language in which we can write a Turing Machine is a language with which we can write every single possible algorithm ever possible to write. Another way to say it is that since many years we know that all the programming language are equivalent, no one is able of more than any other, end of the story.</description>
+        <title>Creativity and programming languages</title>
+        <link>https://theworldasastage.github.io/hugo/creativity-and-programming-languages/</link>
+        <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://theworldasastage.github.io/hugo/creativity-and-programming-languages/</guid>
+        <description>
+
+&lt;p&gt;Since the second half of the 20th century, we know that every language in which we can write a Turing Machine is a language with which we can write every single possible algorithm ever possible to write. Another way to say it is that since many years we know that all the programming language are equivalent, no one is able of more than any other, end of the story.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.github.io/hugo/img/dropmic.gif&#34; alt=&#34;Drop mic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a consequence we could live happy in a world where every programmer is using the same language to talk to machines but it&amp;rsquo;s absolutely not the case. &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_programming_languages&#34;&gt;According to Wikipedia&lt;/a&gt;, there is more than 700 languages (and with no doubt all programming language ever created is not in this page). And it&amp;rsquo;s only the &lt;em&gt;programming languages&lt;/em&gt;, we can add libraries that sometimes modify so much a programming language that you can&amp;rsquo;t recognize it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.github.io/hugo/img/programminglang-timeline.jpg&#34; alt=&#34;Timeline of programming languages&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Programming languages are actually the hidden place of a huge creativity. I love art, cinema, theater and it&amp;rsquo;s in this particular field that I&amp;rsquo;ve been the most surprised by all the new idea we can discover.&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t believe me, this post is for you, I&amp;rsquo;ll try to answer to these three questions :&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Why do we still create new languages?&lt;/p&gt;
+
+&lt;p&gt;Are they really different?&lt;/p&gt;
+
+&lt;p&gt;Why is it a creative activity?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;the-ultimate-programming-language&#34;&gt;The ultimate programming language&lt;/h2&gt;
+
+&lt;p&gt;The ultimate programming language has been tried long ago and it didn&amp;rsquo;t stop the creation of new ones. Every programmer has his favorite language so this is not to start a war, I&amp;rsquo;m talking of an &lt;em&gt;ultimate programming language&lt;/em&gt; as a perfect idea that the language &lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_(programming_language)&#34;&gt;LISP&lt;/a&gt; illustrate perfectly in my opinion. This language is born in 1958 and as so is one of the first programming language ever created (14 years before &lt;a href=&#34;https://en.wikipedia.org/wiki/The_C_Programming_Language&#34;&gt;C&lt;/a&gt; and 32 years before &lt;a href=&#34;https://en.wikipedia.org/wiki/Python_(programming_language)&#34;&gt;Python&lt;/a&gt; that you probably know for example). Its syntax is very simple, parenthesis, functions arguments&amp;hellip; and that&amp;rsquo;s all!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-lisp&#34; data-lang=&#34;lisp&#34;&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;fonction&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;arg1&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;arg2&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;arg3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;People think LISP is an ultimate language because some of his core concepts come directly from the dreams of &lt;a href=&#34;https://en.wikipedia.org/wiki/Ada_Lovelace&#34;&gt;Ada Lovelace&lt;/a&gt; : There are no differences between the data (inputs of our algorithms) and the language in which we process these inputs (the code we write). To put it in another way, we can use this language to modify its own behavior and adapt it to every problem.&lt;/p&gt;
+
+&lt;p&gt;LISP, created in 1958 can not only do everything (you can code a Turing pachine) but it is also possible to modify its syntax as you need to adapt to your problem. Why would we need new languages after this one?&lt;/p&gt;
+
+&lt;p&gt;For reasons that are very similar to why it is powerful : LISP is hard to read, hard to use, hard to master and not necessarly the most efficient language for every application.&lt;/p&gt;
+
+&lt;p&gt;We must not judge a programming language only by what it can do or by its efficiency to do it but also by its ability to communicate an idea, an algorithm, to a computer. And, as it&amp;rsquo;s sometimes forgot, to communicate these algorithms to others humans!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Believing that we need only one programming language is like believing only one art form is sufficient to communicate any idea. It&amp;rsquo;s believing we should stop making movies, tv shows, comics, music because we already have books and it&amp;rsquo;s good enough.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;the-best-way&#34;&gt;The best way&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?ie=UTF8&amp;amp;qid=1534543794&amp;amp;sr=8-1&amp;amp;keywords=godel+escher&#34;&gt;Godel, Escher &amp;amp; Bach&lt;/a&gt; is a famous book which try to connect the mathematician Godel, the artist Escher and the musician Bach. In the introduction to the french version, written by the author, Douglas Hofstadter explain that this french version is not an inferior version, neither a copy of the original version that would have lost some concepts during the process. No, he worked with the translators to make the same book, but in french. He presents this version as another projection of his ideas and that probably by reading the two version (if ever you are fluent in the two languages) you would get closer to the idea he wanted to trasnmit.&lt;/p&gt;
+
+&lt;p&gt;A book or any work of art is only the transmission, as good as possible of what was of a mind of an artist. And sometimes some bugs occurs : When Sam Ramy presents his horror movie &lt;a href=&#34;https://www.youtube.com/watch?v=dtsK7skqk9U&#34;&gt;Evil Dead&lt;/a&gt; and the public laugh in some scenes where it was supposed to be scared, it&amp;rsquo;s a bug (that will be used a lot in the following episodes).&lt;/p&gt;
+
+&lt;p&gt;Many work of art appears nowadays in several formats, sometimes freely adpated. &lt;a href=&#34;https://www.amazon.com/Martian-Young-Readers-ANDY-WEIR/dp/1785034677/ref=sr_1_8?ie=UTF8&amp;amp;qid=1534544231&amp;amp;sr=8-8&amp;amp;keywords=the+martian&#34;&gt;The Martian&lt;/a&gt; first a book is getting stressful and addictive as an audiobook when the main character is telling us, day by day what happen to him. And of course the movie presents incredible sight seeings.&lt;/p&gt;
+
+&lt;p&gt;Some other work of art seem to be stuck to one specific format. In &lt;a href=&#34;https://www.amazon.com/Flowers-Algernon-Daniel-Keyes/dp/015603008X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1534544373&amp;amp;sr=8-1&amp;amp;keywords=flowers+for+algernon&#34;&gt;Flowers for Algernon&lt;/a&gt;, we read the journal of a retarted person who is having a treatment to enhance his IQ. In the begining of the book the writing is very hard to follow and as we turn the pages, the writing evolve with the narrator IQ.&lt;/p&gt;
+
+&lt;p&gt;Some writers use their medium to the limit. As if limited by their own language, they invent a new one. In &lt;a href=&#34;https://www.amazon.com/Horde-Contrevent-Sc-Fiction-French-ebook/dp/B01A6X03EI/ref=sr_1_1?ie=UTF8&amp;amp;qid=1534544565&amp;amp;sr=8-1&amp;amp;keywords=damasio+horde&#34;&gt;La horde du contrevent&lt;/a&gt;, Alain Damasio invent a syntax to describe the wind. With commas, parenthesis and other signs we can see the wind move, hit and kill on the pages of the book.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.github.io/hugo/img/horde.jpg&#34; alt=&#34;La horde du contrevent&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Artists have in every epoch ask the question a programmer starts with : what is the best way to tell my story?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If programming was only about communicating to a computer, no programmer would invent new syntax, new language to describe what he is doing to his peers. A computer doesn&amp;rsquo;t care about that, it&amp;rsquo;s a machine after all.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;think-different&#34;&gt;Think different&lt;/h2&gt;
+
+&lt;p&gt;This far you must understand that there are several languages but, after all, what can make all these languages different? It&amp;rsquo;s still some cooking recipies, a list of instruction, some operation that we repeat, other done if some conditions are validated, etc.&lt;/p&gt;
+
+&lt;p&gt;So of course you can write&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;condition&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;action1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-ruby&#34; data-lang=&#34;ruby&#34;&gt;&lt;span class=&#34;n&#34;&gt;action1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;condition&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;but it&amp;rsquo;s maybe not a good justification for such a post&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;If the only differences between languages were this kind of small syntaxic changes, it would be pointless. But developers are way more creative.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s take an example : How to color a map with France, Belgium, Switzerland and Germany with 3 colors (Red, Blue, Green) without having two adjacent regions with the same color?&lt;/p&gt;
+
+&lt;p&gt;Writing a &lt;em&gt;cooking recipe&lt;/em&gt; to solve this problem would be quite long as we would do what we are doing by hand : We try a color for the first country, use a différent one for the next one, etc. If at one point it&amp;rsquo;s impossible, we go back and we change the colors.&lt;/p&gt;
+
+&lt;p&gt;Another way to solve this problem is to use a &lt;em&gt;declarative language&lt;/em&gt;. For example, with &lt;a href=&#34;https://en.wikipedia.org/wiki/Prolog&#34;&gt;Prolog&lt;/a&gt;, we can write the following code  :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;First we describe the fact that our colors are not the same&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-prolog&#34; data-lang=&#34;prolog&#34;&gt;&lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;red&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;green&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;).&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;red&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;blue&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;).&lt;/span&gt;
+&lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;green&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;red&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;).&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;green&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;blue&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;).&lt;/span&gt;
+&lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;blue&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;red&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;).&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;blue&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;green&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;).&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Next, we describe which are the neighbouring countries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-prolog&#34; data-lang=&#34;prolog&#34;&gt;&lt;span class=&#34;nf&#34;&gt;coloring&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;France&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Belgique&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Suisse&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Allemagne&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):-&lt;/span&gt;
+&lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;France&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Belgique&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;France&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Suisse&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;France&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Allemagne&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Belgique&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Allemagne&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;span class=&#34;nf&#34;&gt;different&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Suisse&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Allemagne&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Finally, we ask for the solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-prolog&#34; data-lang=&#34;prolog&#34;&gt;&lt;span class=&#34;nf&#34;&gt;coloring&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;France&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Belgique&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Suisse&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;Allemagne&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Where is the algorithm? That&amp;rsquo;s exactly what seems magic with this way of programming : the algorithm &lt;strong&gt;is&lt;/strong&gt; the description of the problem! We call this kind of language &lt;em&gt;declarative&lt;/em&gt;, we declare some rules and after that we can ask questions. One of the most popular declarative language is &lt;a href=&#34;https://en.wikipedia.org/wiki/SQL&#34;&gt;SQL&lt;/a&gt;, a language use by most of the databases.&lt;/p&gt;
+
+&lt;p&gt;There is no restriction on how should work a programming language. The only limits are the programmers imagination. For example in the programming language &lt;a href=&#34;https://www.haskell.org/&#34;&gt;Haskell&lt;/a&gt;, we can define infinite lists! Of course a computer can&amp;rsquo;t display all the elements of the list and crash if we ask for it but the programming language is &lt;em&gt;lazy&lt;/em&gt;, as far as we don&amp;rsquo;t ask, he doesn&amp;rsquo;t try.&lt;/p&gt;
+
+&lt;p&gt;There are also programming language that are real exercice of style like the &lt;em&gt;Shakespeare Programming Language&lt;/em&gt; where we code as if we were writing a Shakespeare play. For example this program writes &amp;ldquo;Hello World&amp;rdquo;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[Romeo](https://en.wikipedia.org/wiki/Romeo &amp;quot;Romeo&amp;quot;), a young man with a remarkable patience.
+[Juliet](https://en.wikipedia.org/wiki/Juliet &amp;quot;Juliet&amp;quot;), a likewise young woman of remarkable grace.
+[Ophelia](https://en.wikipedia.org/wiki/Ophelia &amp;quot;Ophelia&amp;quot;), a remarkable woman much in dispute with Hamlet.
+[Hamlet](https://en.wikipedia.org/wiki/Prince_Hamlet &amp;quot;Prince Hamlet&amp;quot;), the flatterer of Andersen Insulting A/S.
+
+Act I: Hamlet&#39;s insults and flattery.
+Scene I: The insulting of Romeo.
+[Enter Hamlet and Romeo]
+Hamlet:
+You lying stupid fatherless big smelly half-witted coward! You are as
+stupid as the difference between a handsome rich brave hero and thyself!
+Speak your mind!
+You are as brave as the sum of your fat little stuffed misused dusty
+old rotten codpiece and a beautiful fair warm peaceful sunny summer&#39;s
+day. You are as healthy as the difference between the sum of the
+sweetest reddest rose and my father and yourself! Speak your mind!
+You are as cowardly as the sum of yourself and the difference
+between a big mighty proud kingdom and a horse. Speak your mind.
+Speak your mind!
+[Exit Romeo]
+Scene II: The praising of Juliet.
+[Enter Juliet]
+Hamlet:
+Thou art as sweet as the sum of the sum of Romeo and his horse and his
+black cat! Speak thy mind!
+[Exit Juliet]
+Scene III: The praising of Ophelia.
+[Enter Ophelia]
+Hamlet:
+Thou art as lovely as the product of a large rural town and my amazing
+bottomless embroidered purse. Speak thy mind!
+Thou art as loving as the product of the bluest clearest sweetest sky
+and the sum of a squirrel and a white horse. Thou art as beautiful as
+the difference between Juliet and thyself. Speak thy mind!
+[Exeunt Ophelia and Hamlet]
+
+Act II: Behind Hamlet&#39;s back.
+Scene I: Romeo and Juliet&#39;s conversation.
+[Enter Romeo and Juliet]
+Romeo:
+Speak your mind. You are as worried as the sum of yourself and the
+difference between my small smooth hamster and my nose. Speak your
+mind!
+Juliet:
+Speak YOUR mind! You are as bad as Hamlet! You are as small as the
+difference between the square of the difference between my little pony
+and your big hairy hound and the cube of your sorry little
+codpiece. Speak your mind!
+[Exit Romeo]
+Scene II: Juliet and Ophelia&#39;s conversation.
+[Enter Ophelia]
+Juliet:
+Thou art as good as the quotient between Romeo and the sum of a small
+furry animal and a leech. Speak your mind!
+Ophelia:
+Thou art as disgusting as the quotient between Romeo and twice the
+difference between a mistletoe and an oozing infected blister! Speak
+your mind!
+[Exeunt]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And, as strange as it is, this language is powerful enough to write a Turing machine, and as a consequence any algorithm can be written with it. Yes, Microsoft World can be written in Shakespeare Programming Language, and it would be quite amazing.&lt;/p&gt;
+
+&lt;h2 id=&#34;human-communication&#34;&gt;Human communication&lt;/h2&gt;
+
+&lt;p&gt;There are a lot of differences in programming languages as the previous one. And if you can find a lot of programming languages that&amp;rsquo;s partly because of these kind of design choices. It even seems that some paradigms of programming languages have the same roots as the cultural differences in human communication.&lt;/p&gt;
+
+&lt;p&gt;In the book &lt;a href=&#34;https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507/ref=sr_1_1?ie=UTF8&amp;amp;qid=1534546316&amp;amp;sr=8-1&amp;amp;keywords=the+culture+map&#34;&gt;The Culture Map&lt;/a&gt;, Erin Meyer presents 7 criterias to analyse cultural differences :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;communication :&lt;/strong&gt; is the context very important or not&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;feedback :&lt;/strong&gt; direct or indirect negative feedback&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;leading :&lt;/strong&gt; egalitarian or hierarchical&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;deciding :&lt;/strong&gt; consesual or top down&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;trusting :&lt;/strong&gt; according to what is done or via our relationships&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;disagreeing :&lt;/strong&gt; controntation or avoiding confrontation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;time management :&lt;/strong&gt; linear or non-linear&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These criterias seems to correspond also to important programming designs.&lt;/p&gt;
+
+&lt;p&gt;For example, some libraries use a &lt;em&gt;high context&lt;/em&gt;. In &lt;a href=&#34;https://rubyonrails.org/&#34;&gt;Ruby on Rails&lt;/a&gt;, only writing &lt;code&gt;has_many :friends&lt;/code&gt; in a file named &lt;code&gt;user.rb&lt;/code&gt; is enough for the tool to understand that we have a database named &lt;code&gt;Users&lt;/code&gt; and another one &lt;code&gt;Friends&lt;/code&gt; and that the database &lt;code&gt;Friends&lt;/code&gt; will store a reference to the &lt;code&gt;Users&lt;/code&gt; database for each entry. So with only a small line of code we avoid lines of descriptions. And as human communication, this kind of high context suppose that everyone is sharing the same context or some problems will occur quickly.&lt;/p&gt;
+
+&lt;p&gt;How to make feedback is also a classical difference between languages. &lt;em&gt;Variables&lt;/em&gt; have what we call a &lt;em&gt;type&lt;/em&gt;. For example &lt;code&gt;1&lt;/code&gt; is an integer and &lt;code&gt;&amp;quot;1&amp;quot;&lt;/code&gt; a string. Some programming languages are nice, you can write &lt;code&gt;1+&amp;quot;1&amp;quot;&lt;/code&gt; and the language will convert the string in integer to do the sum. Other will be more strict and crash because they can&amp;rsquo;t add a string and an integer.&lt;/p&gt;
+
+&lt;p&gt;More interesting even is the time management. As a cooking recipe, we can think as a programming language as a linear time algorithm where we do the operations line by line in order. But some languages start the next line without waiting for the previous one to finish, they are asynchronous.&lt;/p&gt;
+
+&lt;p&gt;These are only some examples of the differences between languages. Creating a language follow most of the time a need of communicate something in a particular way. We can find the same with books, some authors create a new world full of imaginary creatures to tell their story.&lt;/p&gt;
+
+&lt;p&gt;What is surprising with programming language is that other people will use these weird creations and make it their main tool, even if it requires a lot of adpatation. If very few world created by authors are used by others, for programming language it&amp;rsquo;s very common. Most of the programmers can use several languages and adapt their choice to their needs. It&amp;rsquo;s as if a writer decided to use Italian to write his romance and switched to english for his thriller.&lt;/p&gt;
+
+&lt;h2 id=&#34;communicate-with-machines&#34;&gt;Communicate with machines&lt;/h2&gt;
+
+&lt;p&gt;New languages are of course created also to make execution by machines more efficient.&lt;/p&gt;
+
+&lt;p&gt;With the internet and the Web, it&amp;rsquo;s rarely only one computer which is processing the data but way more in parallel. As a consequence, these last years programming language have been created to make this task easier.&lt;/p&gt;
+
+&lt;p&gt;As a conclusion, there are a lot of programming languages and there will probably be a lot more in the future. Because culture changes, because habits change, because needs change, because it&amp;rsquo;s intersting, because it&amp;rsquo;s entertaining, because it&amp;rsquo;s one of the way humans have found to express their creativity.&lt;/p&gt;
+
+&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
+
+&lt;p&gt;This is a translation of &lt;a href=&#34;https://www.podcastscience.fm/dossiers/2018/04/20/creativite-et-langages-de-programmation-2/&#34;&gt;Podcast Science 319&lt;/a&gt;, a weekly popular science podcast in french.&lt;/p&gt;
+
+&lt;h3 id=&#34;références&#34;&gt;Références&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Semantics#Computer_science&#34;&gt;A lot of different syntaxes to do the same thing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_programming_languages&#34;&gt;Programming languages comparison&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.fr/Seven-Languages-Weeks-Bruce-Tate/dp/193435659X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1524127105&amp;amp;sr=8-1&amp;amp;keywords=seven+languages+in+seven+weeks&#34;&gt;Seven languages in seven weeks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
-  </channel>
+    </channel>
 </rss>
