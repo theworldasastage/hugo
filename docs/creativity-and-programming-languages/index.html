@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en-us" />
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>Creativity and programming languages &middot; The world as a stage</title>
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="http://theworldasastage.github.io/hugo/favicon.ico" />
+    <link rel="canonical" href="http://theworldasastage.github.io/hugo/creativity-and-programming-languages/" />
+
+     <meta name="description" content="Since the second half of the 20th century, we know that every language in which we can write a Turing Machine is a language with which we can write every single" /> 
+
+     
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image" content="http://theworldasastage.github.io/hugo/img/cage-creativity.jpg"/>
+    
+ 
+    <meta name="twitter:title" content="Creativity and programming languages"/>
+    <meta name="twitter:description" content="Since the second half of the 20th century, we know that every language in which we can write a Turing Machine is a language with which we can write every single"/>
+    <meta name="twitter:url" content="http://theworldasastage.github.io/hugo/creativity-and-programming-languages/" />
+    <meta name="twitter:site" content="@nicotupe"/>
+
+    <meta property="og:site_name" content="The world as a stage" />
+    <meta property="og:title" content="Creativity and programming languages &middot; The world as a stage" />
+    <meta property="og:url" content="http://theworldasastage.github.io/hugo/creativity-and-programming-languages/" />
+    <meta property="article:publisher" content="https://www.facebook.com/nicotupe" />
+
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="Since the second half of the 20th century, we know that every language in which we can write a Turing Machine is a language with which we can write every single" />
+
+    <meta property="article:published_time" content="2018-01-28T00:00:00Z" />
+    <meta property="article:tag" content="podcast" /><meta property="article:tag" content="code" /><meta property="article:tag" content="creativity" /><meta property="article:tag" content="La horde du contrevent" />
+
+    <meta property="og:image" content="http://theworldasastage.github.io/hugo/img/cage-creativity.jpg"/>
+
+
+    <meta name="generator" content="Hugo 0.47" />
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="http://theworldasastage.github.io/hugo/built/screen.css" /> 
+    <link rel="stylesheet" type="text/css" href="http://theworldasastage.github.io/hugo/css/casper-two.css" /> 
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css" />
+     <link rel="stylesheet" href="http://theworldasastage.github.io/hugo/overrides.css" />  <link rel="stylesheet" href="http://theworldasastage.github.io/hugo/syntax.css" /> 
+
+     
+
+</head>
+
+
+<body class="post-template">
+  <div class="site-wrapper"> 
+
+<header class="site-header outer">
+  <div class="inner">
+    <nav class="site-nav">
+      <div class="site-nav-left">
+
+        <ul class="nav" role="menu">
+        
+        
+        
+            <li class="" role="menuitem">
+              <a href="/hugo/">Home</a>
+            </li>
+        
+            <li class="" role="menuitem">
+              <a href="/hugo/about/">About me</a>
+            </li>
+        
+            <li class="" role="menuitem">
+              <a href="/hugo/categories/improvisation/">Improvisation</a>
+            </li>
+        
+            <li class="" role="menuitem">
+              <a href="/hugo/tags/podcast/">Podcast</a>
+            </li>
+        
+            <li class="" role="menuitem">
+              <a href="/hugo/categories/science/">Science</a>
+            </li>
+        
+      </ul></div>
+
+      <div class="site-nav-right">
+        <div class="social-links">
+                    <a class="social-link social-link-fb" href="https://www.facebook.com/nicotupe" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg></a>
+
+                    <a class="social-link social-link-tw" href="https://twitter.com/nicotupe" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg></a>
+
+                    <a class="social-link" href="https://github.com/bcoulange" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
+
+                    
+
+                    
+        </div>  
+            
+      </div>
+
+    </nav>  
+
+  </div>
+</header>
+
+<main id="site-main" class="site-main outer" role="main">
+  <div class="inner">
+    
+      <article class="post-full post"> 
+    <header class="post-full-header">
+        <section class="post-full-meta">
+            <time class="post-full-meta-date" datetime="2018-01-28">28 January 2018</time>
+                <span class="date-divider">/</span> <a href="http://theworldasastage.github.io/hugo/tags/podcast/">#podcast</a>&nbsp;<a href="http://theworldasastage.github.io/hugo/tags/code/">#code</a>&nbsp;
+        </section>
+        <h1 class="post-full-title">Creativity and programming languages</h1>
+    </header>
+    
+    <figure class="post-full-image" style="background-image: url(http://theworldasastage.github.io/hugo/img/cage-creativity.jpg)">
+    </figure>
+
+    <section class="post-full-content">
+        <div class="kg-card-markdown">
+        
+
+<p>Since the second half of the 20th century, we know that every language in which we can write a Turing Machine is a language with which we can write every single possible algorithm ever possible to write. Another way to say it is that since many years we know that all the programming language are equivalent, no one is able of more than any other, end of the story.</p>
+
+<p><img src="/img/dropmic.gif" alt="Drop mic" /></p>
+
+<p>As a consequence we could live happy in a world where every programmer is using the same language to talk to machines but it&rsquo;s absolutely not the case. <a href="https://en.wikipedia.org/wiki/List_of_programming_languages">According to Wikipedia</a>, there is more than 700 languages (and with no doubt all programming language ever created is not in this page). And it&rsquo;s only the <em>programming languages</em>, we can add libraries that sometimes modify so much a programming language that you can&rsquo;t recognize it.</p>
+
+<p><img src="/img/programminglang-timeline.jpg" alt="Timeline of programming languages" /></p>
+
+<p>Programming languages are actually the hidden place of a huge creativity. I love art, cinema, theater and it&rsquo;s in this particular field that I&rsquo;ve been the most surprised by all the new idea we can discover.</p>
+
+<p>If you don&rsquo;t believe me, this post is for you, I&rsquo;ll try to answer to these three questions :</p>
+
+<blockquote>
+<p>Why do we still create new languages?</p>
+
+<p>Are they really different?</p>
+
+<p>Why is it a creative activity?</p>
+</blockquote>
+
+<h2 id="the-ultimate-programming-language">The ultimate programming language</h2>
+
+<p>The ultimate programming language has been tried long ago and it didn&rsquo;t stop the creation of new ones. Every programmer has his favorite language so this is not to start a war, I&rsquo;m talking of an <em>ultimate programming language</em> as a perfect idea that the language <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">LISP</a> illustrate perfectly in my opinion. This language is born in 1958 and as so is one of the first programming language ever created (14 years before <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language">C</a> and 32 years before <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> that you probably know for example). Its syntax is very simple, parenthesis, functions arguments&hellip; and that&rsquo;s all!</p>
+<div class="highlight"><pre class="chroma"><code class="language-lisp" data-lang="lisp"><span class="p">(</span><span class="nv">fonction</span> <span class="nv">arg1</span> <span class="nv">arg2</span> <span class="nv">arg3</span><span class="p">)</span></code></pre></div>
+<p>People think LISP is an ultimate language because some of his core concepts come directly from the dreams of <a href="https://en.wikipedia.org/wiki/Ada_Lovelace">Ada Lovelace</a> : There are no differences between the data (inputs of our algorithms) and the language in which we process these inputs (the code we write). To put it in another way, we can use this language to modify its own behavior and adapt it to every problem.</p>
+
+<p>LISP, created in 1958 can not only do everything (you can code a Turing pachine) but it is also possible to modify its syntax as you need to adapt to your problem. Why would we need new languages after this one?</p>
+
+<p>For reasons that are very similar to why it is powerful : LISP is hard to read, hard to use, hard to master and not necessarly the most efficient language for every application.</p>
+
+<p>We must not judge a programming language only by what it can do or by its efficiency to do it but also by its ability to communicate an idea, an algorithm, to a computer. And, as it&rsquo;s sometimes forgot, to communicate these algorithms to others humans!</p>
+
+<blockquote>
+<p>Believing that we need only one programming language is like believing only one art form is sufficient to communicate any idea. It&rsquo;s believing we should stop making movies, tv shows, comics, music because we already have books and it&rsquo;s good enough.</p>
+</blockquote>
+
+<h2 id="the-best-way">The best way</h2>
+
+<p><a href="https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?ie=UTF8&amp;qid=1534543794&amp;sr=8-1&amp;keywords=godel+escher">Godel, Escher &amp; Bach</a> is a famous book which try to connect the mathematician Godel, the artist Escher and the musician Bach. In the introduction to the french version, written by the author, Douglas Hofstadter explain that this french version is not an inferior version, neither a copy of the original version that would have lost some concepts during the process. No, he worked with the translators to make the same book, but in french. He presents this version as another projection of his ideas and that probably by reading the two version (if ever you are fluent in the two languages) you would get closer to the idea he wanted to trasnmit.</p>
+
+<p>A book or any work of art is only the transmission, as good as possible of what was of a mind of an artist. And sometimes some bugs occurs : When Sam Ramy presents his horror movie <a href="https://www.youtube.com/watch?v=dtsK7skqk9U">Evil Dead</a> and the public laugh in some scenes where it was supposed to be scared, it&rsquo;s a bug (that will be used a lot in the following episodes).</p>
+
+<p>Many work of art appears nowadays in several formats, sometimes freely adpated. <a href="https://www.amazon.com/Martian-Young-Readers-ANDY-WEIR/dp/1785034677/ref=sr_1_8?ie=UTF8&amp;qid=1534544231&amp;sr=8-8&amp;keywords=the+martian">The Martian</a> first a book is getting stressful and addictive as an audiobook when the main character is telling us, day by day what happen to him. And of course the movie presents incredible sight seeings.</p>
+
+<p>Some other work of art seem to be stuck to one specific format. In <a href="https://www.amazon.com/Flowers-Algernon-Daniel-Keyes/dp/015603008X/ref=sr_1_1?ie=UTF8&amp;qid=1534544373&amp;sr=8-1&amp;keywords=flowers+for+algernon">Flowers for Algernon</a>, we read the journal of a retarted person who is having a treatment to enhance his IQ. In the begining of the book the writing is very hard to follow and as we turn the pages, the writing evolve with the narrator IQ.</p>
+
+<p>Some writers use their medium to the limit. As if limited by their own language, they invent a new one. In <a href="https://www.amazon.com/Horde-Contrevent-Sc-Fiction-French-ebook/dp/B01A6X03EI/ref=sr_1_1?ie=UTF8&amp;qid=1534544565&amp;sr=8-1&amp;keywords=damasio+horde">La horde du contrevent</a>, Alain Damasio invent a syntax to describe the wind. With commas, parenthesis and other signs we can see the wind move, hit and kill on the pages of the book.</p>
+
+<p><img src="/img/horde.jpg" alt="La horde du contrevent" /></p>
+
+<p>Artists have in every epoch ask the question a programmer starts with : what is the best way to tell my story?</p>
+
+<blockquote>
+<p>If programming was only about communicating to a computer, no programmer would invent new syntax, new language to describe what he is doing to his peers. A computer doesn&rsquo;t care about that, it&rsquo;s a machine after all.</p>
+</blockquote>
+
+<h2 id="think-different">Think different</h2>
+
+<p>This far you must understand that there are several languages but, after all, what can make all these languages different? It&rsquo;s still some cooking recipies, a list of instruction, some operation that we repeat, other done if some conditions are validated, etc.</p>
+
+<p>So of course you can write</p>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">if</span><span class="p">(</span><span class="nx">condition</span><span class="p">){</span><span class="nx">action1</span><span class="p">();}</span>
+</code></pre></div>
+<p>or</p>
+<div class="highlight"><pre class="chroma"><code class="language-ruby" data-lang="ruby"><span class="n">action1</span><span class="p">()</span> <span class="k">if</span> <span class="n">condition</span></code></pre></div>
+<p>but it&rsquo;s maybe not a good justification for such a post&hellip;</p>
+
+<p>If the only differences between languages were this kind of small syntaxic changes, it would be pointless. But developers are way more creative.</p>
+
+<p>Let&rsquo;s take an example : How to color a map with France, Belgium, Switzerland and Germany with 3 colors (Red, Blue, Green) without having two adjacent regions with the same color?</p>
+
+<p>Writing a <em>cooking recipe</em> to solve this problem would be quite long as we would do what we are doing by hand : We try a color for the first country, use a différent one for the next one, etc. If at one point it&rsquo;s impossible, we go back and we change the colors.</p>
+
+<p>Another way to solve this problem is to use a <em>declarative language</em>. For example, with <a href="https://en.wikipedia.org/wiki/Prolog">Prolog</a>, we can write the following code  :</p>
+
+<ul>
+<li>First we describe the fact that our colors are not the same</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-prolog" data-lang="prolog"><span class="nf">different</span><span class="p">(</span><span class="s">red</span><span class="p">,</span><span class="s">green</span><span class="p">).</span> <span class="nf">different</span><span class="p">(</span><span class="s">red</span><span class="p">,</span><span class="s">blue</span><span class="p">).</span>
+<span class="nf">different</span><span class="p">(</span><span class="s">green</span><span class="p">,</span><span class="s">red</span><span class="p">).</span> <span class="nf">different</span><span class="p">(</span><span class="s">green</span><span class="p">,</span><span class="s">blue</span><span class="p">).</span>
+<span class="nf">different</span><span class="p">(</span><span class="s">blue</span><span class="p">,</span><span class="s">red</span><span class="p">).</span> <span class="nf">different</span><span class="p">(</span><span class="s">blue</span><span class="p">,</span><span class="s">green</span><span class="p">).</span></code></pre></div>
+<ul>
+<li>Next, we describe which are the neighbouring countries</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-prolog" data-lang="prolog"><span class="nf">coloring</span><span class="p">(</span><span class="nv">France</span><span class="p">,</span><span class="nv">Belgique</span><span class="p">,</span><span class="nv">Suisse</span><span class="p">,</span><span class="nv">Allemagne</span><span class="p">):-</span>
+<span class="nf">different</span><span class="p">(</span><span class="nv">France</span><span class="p">,</span><span class="nv">Belgique</span><span class="p">),</span>
+<span class="nf">different</span><span class="p">(</span><span class="nv">France</span><span class="p">,</span><span class="nv">Suisse</span><span class="p">),</span>
+<span class="nf">different</span><span class="p">(</span><span class="nv">France</span><span class="p">,</span><span class="nv">Allemagne</span><span class="p">),</span>
+<span class="nf">different</span><span class="p">(</span><span class="nv">Belgique</span><span class="p">,</span><span class="nv">Allemagne</span><span class="p">),</span>
+<span class="nf">different</span><span class="p">(</span><span class="nv">Suisse</span><span class="p">,</span><span class="nv">Allemagne</span><span class="p">)</span></code></pre></div>
+<ul>
+<li>Finally, we ask for the solution</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-prolog" data-lang="prolog"><span class="nf">coloring</span><span class="p">(</span><span class="nv">France</span><span class="p">,</span><span class="nv">Belgique</span><span class="p">,</span><span class="nv">Suisse</span><span class="p">,</span><span class="nv">Allemagne</span><span class="p">)</span></code></pre></div>
+<p>Where is the algorithm? That&rsquo;s exactly what seems magic with this way of programming : the algorithm <strong>is</strong> the description of the problem! We call this kind of language <em>declarative</em>, we declare some rules and after that we can ask questions. One of the most popular declarative language is <a href="https://en.wikipedia.org/wiki/SQL">SQL</a>, a language use by most of the databases.</p>
+
+<p>There is no restriction on how should work a programming language. The only limits are the programmers imagination. For example in the programming language <a href="https://www.haskell.org/">Haskell</a>, we can define infinite lists! Of course a computer can&rsquo;t display all the elements of the list and crash if we ask for it but the programming language is <em>lazy</em>, as far as we don&rsquo;t ask, he doesn&rsquo;t try.</p>
+
+<p>There are also programming language that are real exercice of style like the <em>Shakespeare Programming Language</em> where we code as if we were writing a Shakespeare play. For example this program writes &ldquo;Hello World&rdquo;.</p>
+
+<pre><code>[Romeo](https://en.wikipedia.org/wiki/Romeo &quot;Romeo&quot;), a young man with a remarkable patience.
+[Juliet](https://en.wikipedia.org/wiki/Juliet &quot;Juliet&quot;), a likewise young woman of remarkable grace.
+[Ophelia](https://en.wikipedia.org/wiki/Ophelia &quot;Ophelia&quot;), a remarkable woman much in dispute with Hamlet.
+[Hamlet](https://en.wikipedia.org/wiki/Prince_Hamlet &quot;Prince Hamlet&quot;), the flatterer of Andersen Insulting A/S.
+
+Act I: Hamlet's insults and flattery.
+Scene I: The insulting of Romeo.
+[Enter Hamlet and Romeo]
+Hamlet:
+You lying stupid fatherless big smelly half-witted coward! You are as
+stupid as the difference between a handsome rich brave hero and thyself!
+Speak your mind!
+You are as brave as the sum of your fat little stuffed misused dusty
+old rotten codpiece and a beautiful fair warm peaceful sunny summer's
+day. You are as healthy as the difference between the sum of the
+sweetest reddest rose and my father and yourself! Speak your mind!
+You are as cowardly as the sum of yourself and the difference
+between a big mighty proud kingdom and a horse. Speak your mind.
+Speak your mind!
+[Exit Romeo]
+Scene II: The praising of Juliet.
+[Enter Juliet]
+Hamlet:
+Thou art as sweet as the sum of the sum of Romeo and his horse and his
+black cat! Speak thy mind!
+[Exit Juliet]
+Scene III: The praising of Ophelia.
+[Enter Ophelia]
+Hamlet:
+Thou art as lovely as the product of a large rural town and my amazing
+bottomless embroidered purse. Speak thy mind!
+Thou art as loving as the product of the bluest clearest sweetest sky
+and the sum of a squirrel and a white horse. Thou art as beautiful as
+the difference between Juliet and thyself. Speak thy mind!
+[Exeunt Ophelia and Hamlet]
+
+Act II: Behind Hamlet's back.
+Scene I: Romeo and Juliet's conversation.
+[Enter Romeo and Juliet]
+Romeo:
+Speak your mind. You are as worried as the sum of yourself and the
+difference between my small smooth hamster and my nose. Speak your
+mind!
+Juliet:
+Speak YOUR mind! You are as bad as Hamlet! You are as small as the
+difference between the square of the difference between my little pony
+and your big hairy hound and the cube of your sorry little
+codpiece. Speak your mind!
+[Exit Romeo]
+Scene II: Juliet and Ophelia's conversation.
+[Enter Ophelia]
+Juliet:
+Thou art as good as the quotient between Romeo and the sum of a small
+furry animal and a leech. Speak your mind!
+Ophelia:
+Thou art as disgusting as the quotient between Romeo and twice the
+difference between a mistletoe and an oozing infected blister! Speak
+your mind!
+[Exeunt]
+</code></pre>
+
+<p>And, as strange as it is, this language is powerful enough to write a Turing machine, and as a consequence any algorithm can be written with it. Yes, Microsoft World can be written in Shakespeare Programming Language, and it would be quite amazing.</p>
+
+<h2 id="human-communication">Human communication</h2>
+
+<p>There are a lot of differences in programming languages as the previous one. And if you can find a lot of programming languages that&rsquo;s partly because of these kind of design choices. It even seems that some paradigms of programming languages have the same roots as the cultural differences in human communication.</p>
+
+<p>In the book <a href="https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507/ref=sr_1_1?ie=UTF8&amp;qid=1534546316&amp;sr=8-1&amp;keywords=the+culture+map">The Culture Map</a>, Erin Meyer presents 7 criterias to analyse cultural differences :</p>
+
+<ul>
+<li><strong>communication :</strong> is the context very important or not</li>
+<li><strong>feedback :</strong> direct or indirect negative feedback</li>
+<li><strong>leading :</strong> egalitarian or hierarchical</li>
+<li><strong>deciding :</strong> consesual or top down</li>
+<li><strong>trusting :</strong> according to what is done or via our relationships</li>
+<li><strong>disagreeing :</strong> controntation or avoiding confrontation</li>
+<li><strong>time management :</strong> linear or non-linear</li>
+</ul>
+
+<p>These criterias seems to correspond also to important programming designs.</p>
+
+<p>For example, some libraries use a <em>high context</em>. In <a href="https://rubyonrails.org/">Ruby on Rails</a>, only writing <code>has_many :friends</code> in a file named <code>user.rb</code> is enough for the tool to understand that we have a database named <code>Users</code> and another one <code>Friends</code> and that the database <code>Friends</code> will store a reference to the <code>Users</code> database for each entry. So with only a small line of code we avoid lines of descriptions. And as human communication, this kind of high context suppose that everyone is sharing the same context or some problems will occur quickly.</p>
+
+<p>How to make feedback is also a classical difference between languages. <em>Variables</em> have what we call a <em>type</em>. For example <code>1</code> is an integer and <code>&quot;1&quot;</code> a string. Some programming languages are nice, you can write <code>1+&quot;1&quot;</code> and the language will convert the string in integer to do the sum. Other will be more strict and crash because they can&rsquo;t add a string and an integer.</p>
+
+<p>More interesting even is the time management. As a cooking recipe, we can think as a programming language as a linear time algorithm where we do the operations line by line in order. But some languages start the next line without waiting for the previous one to finish, they are asynchronous.</p>
+
+<p>These are only some examples of the differences between languages. Creating a language follow most of the time a need of communicate something in a particular way. We can find the same with books, some authors create a new world full of imaginary creatures to tell their story.</p>
+
+<p>What is surprising with programming language is that other people will use these weird creations and make it their main tool, even if it requires a lot of adpatation. If very few world created by authors are used by others, for programming language it&rsquo;s very common. Most of the programmers can use several languages and adapt their choice to their needs. It&rsquo;s as if a writer decided to use Italian to write his romance and switched to english for his thriller.</p>
+
+<h2 id="communicate-with-machines">Communicate with machines</h2>
+
+<p>New languages are of course created also to make execution by machines more efficient.</p>
+
+<p>With the internet and the Web, it&rsquo;s rarely only one computer which is processing the data but way more in parallel. As a consequence, these last years programming language have been created to make this task easier.</p>
+
+<p>As a conclusion, there are a lot of programming languages and there will probably be a lot more in the future. Because culture changes, because habits change, because needs change, because it&rsquo;s intersting, because it&rsquo;s entertaining, because it&rsquo;s one of the way humans have found to express their creativity.</p>
+
+<h3 id="notes">Notes</h3>
+
+<p>This is a translation of <a href="https://www.podcastscience.fm/dossiers/2018/04/20/creativite-et-langages-de-programmation-2/">Podcast Science 319</a>, a weekly popular science podcast in french.</p>
+
+<h3 id="références">Références</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Semantics#Computer_science">A lot of different syntaxes to do the same thing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Comparison_of_programming_languages">Programming languages comparison</a></li>
+<li><a href="https://www.amazon.fr/Seven-Languages-Weeks-Bruce-Tate/dp/193435659X/ref=sr_1_1?ie=UTF8&amp;qid=1524127105&amp;sr=8-1&amp;keywords=seven+languages+in+seven+weeks">Seven languages in seven weeks</a></li>
+</ul>
+    
+        </div>
+    </section>
+
+    <footer class="post-full-footer">
+      <section class="author-card">
+        <img class="author-profile-image" src="http://theworldasastage.github.io/hugo/img/avatar-tupe-chaplin.jpg" alt="Author" />
+        <section class="author-card-content">
+            <h4 class="author-card-name"><a href="http://theworldasastage.github.io/">Nicolas Tupégabet</a></h4>
+                <p>Describe yourself..</p>
+        </section>
+      </section>
+    </footer>
+</article>
+    
+    
+    
+
+  </div>
+</main>
+
+
+<aside class="read-next outer">
+  <div class="inner">
+    <div class="read-next-feed">      
+      
+
+      
+      <article class="post-card post"> 
+    
+    <a class="post-card-image-link" href="http://theworldasastage.github.io/hugo/podcast-interviews-at-the-applied-improvisation-network-conference---paris-2018/">
+      <div class="post-card-image" style="background-image: url(http://theworldasastage.github.io/hugo/img/ain-2018.jpg)"></div>
+    </a>
+    
+
+    <div class="post-card-content">
+      <a class="post-card-content-link" href="http://theworldasastage.github.io/hugo/podcast-interviews-at-the-applied-improvisation-network-conference---paris-2018/">
+          <header class="post-card-header">
+              <span class="post-card-tags">
+              #ain 
+              #podcast 
+              #improvisation 
+              #management 
+              #applied improv  </span>
+              
+              <h2 class="post-card-title">Podcast Interviews at the Applied Improvisation Network Conference - Paris 2018</h2>
+          </header>
+          <section class="post-card-excerpt">
+              
+                <p>this is a test </p>
+              
+          </section>
+      </a>
+
+      <footer class="post-card-meta">
+          <img class="author-profile-image" src="http://theworldasastage.github.io/hugo/img/avatar-tupe-chaplin.jpg" alt="Author" />
+          <span class="post-card-author"><a href="/">Nicolas Tupégabet</a></span>
+      </footer>
+    </div>
+</article>
+      
+      
+      <article class="post-card post"> 
+    
+    <a class="post-card-image-link" href="http://theworldasastage.github.io/hugo/humble-and-demanding/">
+      <div class="post-card-image" style="background-image: url(http://theworldasastage.github.io/hugo/img/again-2017.jpg)"></div>
+    </a>
+    
+
+    <div class="post-card-content">
+      <a class="post-card-content-link" href="http://theworldasastage.github.io/hugo/humble-and-demanding/">
+          <header class="post-card-header">
+              <span class="post-card-tags">
+              #Again! 
+              #Improvisation  </span>
+              
+              <h2 class="post-card-title">Humble and Demanding</h2>
+          </header>
+          <section class="post-card-excerpt">
+              
+                <p>Yesterday lunch, you were eating your usual sandwich with this fantastic ham and cheese. You were so real eating this meal.
+With each movement we could feel that you were enjoying it. Sometimes a simple sandwich can evoke a smile. Your co-workers around the table were not paying any particular attention to you but were unconsciously affected by you: their posture was influenced by the dirty plastic bag you left on the middle of the table and by the gestures you make when you eat. ...  </p>
+              
+          </section>
+      </a>
+
+      <footer class="post-card-meta">
+          <img class="author-profile-image" src="http://theworldasastage.github.io/hugo/img/avatar-tupe-chaplin.jpg" alt="Author" />
+          <span class="post-card-author"><a href="/">Nicolas Tupégabet</a></span>
+      </footer>
+    </div>
+</article>
+      
+    </div>
+  </div>
+</aside>
+
+<div class="floating-header">
+  <div class="floating-header-logo">
+    <a href="http://theworldasastage.github.io/">
+      
+      <span>The world as a stage</span>
+    </a>
+  </div>
+  <span class="floating-header-divider">&mdash;</span>
+  <div class="floating-header-title">Creativity and programming languages</div>
+  <div class="floating-header-share">
+    <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/></svg>
+    </div>
+    
+    <a class="floating-header-share-tw" href="https://twitter.com/share?text=Creativity%20and%20programming%20languages&amp;url=http%3a%2f%2ftheworldasastage.github.io%2fhugo%2fcreativity-and-programming-languages%2f"
+          onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+      </a>
+      <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2ftheworldasastage.github.io%2fhugo%2fcreativity-and-programming-languages%2f"
+          onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+      </a>
+  </div>
+
+  <progress class="progress" value="0">
+    <div class="progress-container">
+      <span class="progress-bar"></span>
+    </div>
+  </progress>
+</div>
+
+
+
+<footer class="site-footer outer">
+  <div class="site-footer-content inner">
+    <section class="copyright" style="line-height: 1.3em;">
+      <a href="/">NT</a>  <br>
+      
+    </section>
+    <nav class="site-footer-nav">
+        <a href="/">Latest Posts</a>
+        <a href="https://www.facebook.com/nicotupe" target="_blank" rel="noopener">Facebook</a>
+        <a href="https://twitter.com/nicotupe" target="_blank" rel="noopener">Twitter</a>
+        <a href="https://github.com/bcoulange" target="_blank" rel="noopener">Github</a>
+        
+        
+    </nav>  
+  </div>
+</footer>
+
+</div>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="http://theworldasastage.github.io/hugo/js/jquery.fitvids.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+    <script>
+
+
+
+
+
+$(document).ready(function () {
+    
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+</body></html>

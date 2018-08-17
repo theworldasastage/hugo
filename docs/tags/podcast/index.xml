@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast on The world as a stage</title>
+    <link>http://theworldasastage.github.io/hugo/tags/podcast/</link>
+    <description>Recent content in Podcast on The world as a stage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theworldasastage.github.io/hugo/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcast Interviews at the Applied Improvisation Network Conference - Paris 2018</title>
+      <link>http://theworldasastage.github.io/hugo/podcast-interviews-at-the-applied-improvisation-network-conference---paris-2018/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theworldasastage.github.io/hugo/podcast-interviews-at-the-applied-improvisation-network-conference---paris-2018/</guid>
+      <description>this is a test</description>
+    </item>
+    
+    <item>
+      <title>Creativity and programming languages</title>
+      <link>http://theworldasastage.github.io/hugo/creativity-and-programming-languages/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theworldasastage.github.io/hugo/creativity-and-programming-languages/</guid>
+      <description>Since the second half of the 20th century, we know that every language in which we can write a Turing Machine is a language with which we can write every single possible algorithm ever possible to write. Another way to say it is that since many years we know that all the programming language are equivalent, no one is able of more than any other, end of the story.</description>
+    </item>
+    
+  </channel>
+</rss>

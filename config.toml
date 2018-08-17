@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://theworldasastage.github.io/hugo/"
 theme           = "casper-two"
 languageCode = "en-us"
 disqusShortname = ""
@@ -10,6 +10,8 @@ title = "The world as a stage"
 pygmentsUseClassic=false
 pygmentsCodefences=true
 pygmentsUseClasses=true
+
+publishDir = "docs"
 
 [params]
   title       = "The world as a stage"

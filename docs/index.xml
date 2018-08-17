@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The world as a stage</title>
+    <link>http://theworldasastage.github.io/hugo/</link>
+    <description>Recent content on The world as a stage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theworldasastage.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcast Interviews at the Applied Improvisation Network Conference - Paris 2018</title>
+      <link>http://theworldasastage.github.io/hugo/podcast-interviews-at-the-applied-improvisation-network-conference---paris-2018/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theworldasastage.github.io/hugo/podcast-interviews-at-the-applied-improvisation-network-conference---paris-2018/</guid>
+      <description>this is a test</description>
+    </item>
+    
+    <item>
+      <title>Creativity and programming languages</title>
+      <link>http://theworldasastage.github.io/hugo/creativity-and-programming-languages/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theworldasastage.github.io/hugo/creativity-and-programming-languages/</guid>
+      <description>Since the second half of the 20th century, we know that every language in which we can write a Turing Machine is a language with which we can write every single possible algorithm ever possible to write. Another way to say it is that since many years we know that all the programming language are equivalent, no one is able of more than any other, end of the story.</description>
+    </item>
+    
+    <item>
+      <title>Humble and Demanding</title>
+      <link>http://theworldasastage.github.io/hugo/humble-and-demanding/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theworldasastage.github.io/hugo/humble-and-demanding/</guid>
+      <description>Yesterday lunch, you were eating your usual sandwich with this fantastic ham and cheese. You were so real eating this meal.
+With each movement we could feel that you were enjoying it. Sometimes a simple sandwich can evoke a smile. Your co-workers around the table were not paying any particular attention to you but were unconsciously affected by you: their posture was influenced by the dirty plastic bag you left on the middle of the table and by the gestures you make when you eat.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://theworldasastage.github.io/hugo/about/</link>
+      <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
+      
+      <guid>http://theworldasastage.github.io/hugo/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
+    </item>
+    
+  </channel>
+</rss>
