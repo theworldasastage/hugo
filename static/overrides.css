@@ -1,0 +1,18 @@
+.site-title {
+    font-weight: 200;
+    font-size: 8rem;
+}
+.collection-title {
+    text-transform: uppercase;
+    font-size: 6rem;
+    font-weight: 300;
+}
+.site-header:before {
+    background: rgba(0, 0, 0, 0.5);
+}
+.site-wrapper {
+    min-height: auto;
+}
+.highlight {
+    width: 100%;
+}

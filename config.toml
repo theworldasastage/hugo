@@ -1,0 +1,66 @@
+baseURL = "http://example.org/"
+theme           = "casper-two"
+languageCode = "en-us"
+disqusShortname = ""
+paginate        = 6
+title = "The world as a stage"
+
+# SectionPagesMenu = "main"
+
+pygmentsUseClassic=false
+pygmentsCodefences=true
+pygmentsUseClasses=true
+
+[params]
+  title       = "The world as a stage"
+  subtitle    = ""
+
+  cover       = ""
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = ["overrides.css","syntax.css"]
+  RSSLink = ""
+
+  twitterName = "nicotupe"
+  fbName = "nicotupe"
+  githubName = "bcoulange"
+
+  logo = ""
+  orgName = "NT"
+  orgWebsite = ""
+  orgDescription = ""
+
+  author = "Nicolas Tupégabet"
+  authorAvatar = "img/avatar-tupe-chaplin.jpg"
+  authorLocation = "Barcelona, Spain"
+  authorWebsite = ""
+  authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Improvisation"
+  url = "/categories/improvisation/"
+  weight = 99
+
+[[menu.main]]
+  name = "Science"
+  url = "/categories/science/"
+  weight = 99
+
+[[menu.main]]
+  name = "Podcast"
+  url = "/tags/podcast/"
+  weight = 99
