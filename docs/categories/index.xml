@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
     <title>Categories on The world as a stage</title>
-    <link>https://theworldasastage.github.io/hugo/categories/</link>
+    <link>https://thewoldasastage.com/categories/</link>
     <description>Recent content in Categories on The world as a stage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="https://theworldasastage.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://thewoldasastage.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
         <title>Code</title>
-        <link>https://theworldasastage.github.io/hugo/categories/code/</link>
+        <link>https://thewoldasastage.com/categories/code/</link>
         <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>https://theworldasastage.github.io/hugo/categories/code/</guid>
+        <guid>https://thewoldasastage.com/categories/code/</guid>
         <description></description>
     </item>
     
     <item>
         <title>Improvisation</title>
-        <link>https://theworldasastage.github.io/hugo/categories/improvisation/</link>
+        <link>https://thewoldasastage.com/categories/improvisation/</link>
         <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
         
-        <guid>https://theworldasastage.github.io/hugo/categories/improvisation/</guid>
+        <guid>https://thewoldasastage.com/categories/improvisation/</guid>
         <description></description>
     </item>
     
     <item>
         <title>Science</title>
-        <link>https://theworldasastage.github.io/hugo/categories/science/</link>
+        <link>https://thewoldasastage.com/categories/science/</link>
         <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>https://theworldasastage.github.io/hugo/categories/science/</guid>
+        <guid>https://thewoldasastage.com/categories/science/</guid>
         <description></description>
     </item>
     
