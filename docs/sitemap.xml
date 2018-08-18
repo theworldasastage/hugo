@@ -3,121 +3,121 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/about/</loc>
+    <loc>https://thewoldasastage.com/about/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/reading-list/</loc>
+    <loc>https://thewoldasastage.com/reading-list/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/podcast-interviews-at-the-applied-improvisation-network-conference---paris-2018/</loc>
+    <loc>https://thewoldasastage.com/podcast-interviews-at-the-applied-improvisation-network-conference---paris-2018/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/creativity-and-programming-languages/</loc>
+    <loc>https://thewoldasastage.com/creativity-and-programming-languages/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/humble-and-demanding/</loc>
+    <loc>https://thewoldasastage.com/humble-and-demanding/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/tags/again/</loc>
+    <loc>https://thewoldasastage.com/tags/again/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/tags/ain/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thewoldasastage.com/hugo/tags/applied-improv/</loc>
+    <loc>https://thewoldasastage.com/tags/ain/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thewoldasastage.com/hugo/tags/code/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thewoldasastage.com/hugo/categories/code/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thewoldasastage.com/hugo/tags/creativity/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thewoldasastage.com/hugo/tags/improvisation/</loc>
+    <loc>https://thewoldasastage.com/tags/applied-improv/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/categories/improvisation/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <loc>https://thewoldasastage.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/tags/la-horde-du-contrevent/</loc>
+    <loc>https://thewoldasastage.com/tags/code/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/tags/management/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thewoldasastage.com/hugo/tags/podcast/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thewoldasastage.com/hugo/post/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thewoldasastage.com/hugo/categories/science/</loc>
+    <loc>https://thewoldasastage.com/categories/code/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/tags/</loc>
+    <loc>https://thewoldasastage.com/tags/creativity/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thewoldasastage.com/hugo/</loc>
+    <loc>https://thewoldasastage.com/tags/improvisation/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thewoldasastage.com/categories/improvisation/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thewoldasastage.com/tags/la-horde-du-contrevent/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thewoldasastage.com/tags/management/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thewoldasastage.com/tags/podcast/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thewoldasastage.com/post/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thewoldasastage.com/categories/science/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thewoldasastage.com/tags/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thewoldasastage.com/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
