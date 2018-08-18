@@ -18,7 +18,7 @@ publishDir = "docs"
 
 [params]
   title       = "The world as a stage"
-  subtitle    = ""
+  subtitle    = "Improvisation, science, management and remote working."
 
   cover       = ""
   description = "Here is a description of your site."
@@ -30,6 +30,9 @@ publishDir = "docs"
   twitterName = "nicotupe"
   fbName = "nicotupe"
   githubName = "bcoulange"
+  goodreadsName = "nicotupe"
+  linkedinName = 'baptiste-coulange'
+  mediumName = 'nicotupe'
 
   logo = ""
   orgName = "Nicotupe"
@@ -56,16 +59,27 @@ publishDir = "docs"
   weight = 200
 
 [[menu.main]]
+  name = "About me"
+  url = "/about/"
+  weight = 99
+
+[[menu.main]]
+  name = "Reading list"
+  url = "/reading-list/"
+  weight = 98
+
+
+[[menu.main]]
   name = "Improvisation"
   url = "/categories/improvisation/"
-  weight = 99
+  weight = 97
 
 [[menu.main]]
   name = "Science"
   url = "/categories/science/"
-  weight = 99
+  weight = 97
 
-[[menu.main]]
-  name = "Podcast"
-  url = "/tags/podcast/"
-  weight = 99
+# [[menu.main]]
+#   name = "Podcast"
+#   url = "/tags/podcast/"
+#   weight = 99
