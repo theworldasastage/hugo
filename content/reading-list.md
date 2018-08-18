@@ -3,6 +3,7 @@ date: "2015-04-14T22:17:00+00:00"
 draft: false
 title: "Reading list"
 type: "page"
+image: "img/books.jpg"
 weight: 111
 ---
 
@@ -15,6 +16,10 @@ I'm always reading. I do it obviously because it's fun to discover and learn new
 Every time I go to someone home, the first thing I look at is his library. And the second thing I do is to ask his favorite book. _"You'll never stumble upon the unexpected if you stick only to the familiar"_ said Ed Catmull from Pixar. I discovered most of the books below. Without this random walk I would never have discover all these books about acting and relationships or this fiction using its own language to describe wind or even this statistics professor who use his mathematical skills to do magic. 
 
 All these books had an impact on my life and define who I am today. As I continue to read, this list will continue to evolve. Pick a book and read it to the next one, this list will be waiting here for more recommandation if at one point you have no more reading ideas.
+
+
+{{< partial "mailing" "Subscribe to my newsletter to recieve one new book recommendation every week.">}}
+
 
 
 ### Books that changed my world view
@@ -53,6 +58,8 @@ All these books had an impact on my life and define who I am today. As I continu
 
 Below other books on more specific topics, you can of course read these books even if you think you are not interested about these topics.
 
+{{< partial "mailing" "Subscribe to my newsletter to recieve one new book recommendation every week.">}}
+
 ### Popular Science
 
 Popular science books help you discover how much we know (and don't know) about our world. I can't spend a month without reading one!
@@ -68,6 +75,8 @@ Popular science books help you discover how much we know (and don't know) about 
 **[Actionable Gamification](https://www.amazon.com/Actionable-Gamification-Beyond-Points-Leaderboards/dp/1511744049/ref=sr_1_1?ie=UTF8&qid=1534587678&sr=8-1&keywords=actionable+gamification+beyond+points%2C+badges%2C+and+leaderboards) by Yu-Kai Chou.** Have you ever play Candy Crush or another stupid mobile game? Have you ever wondered why you are addicted to such stupid activity? The answer is gamification and this book is all about that. How to use human psychology to make any activity more addictive. You can use it at work but also in your home to make the chores more exciting.
 
 
+{{< partial "mailing" "Subscribe to my newsletter to recieve one new book recommendation every week.">}}
+
 ### Management and Remote working
 
 Becoming a team leader, I've started reading what others did to make their team work and I discovered a _genra_ full of fantastic books about group and human psychology.
@@ -79,6 +88,8 @@ Becoming a team leader, I've started reading what others did to make their team 
 
 **[Reinventing Organizations](https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/ref=sr_1_1?ie=UTF8&qid=1534588308&sr=8-1&keywords=Reinventing+Organizations) by Frederic Laloux.** This book starts with a history of company organisation stages. The book is worth reading only for this first chapter as you can discover that this good old business we see as unchanged has evolved a lot in the recent years. The second part of the book is about the future of organisation.
 
+{{< partial "mailing" "Subscribe to my newsletter to recieve one new book recommendation every week.">}}
+
 ### Storytelling
 
 Since I've read _Sapiens_, I tend to see stories everywhere and storytelling in the core of human behaviors. Books on storytelling can come from a lot of different people but they tend to present, each with a different point of view, the same ideas.
@@ -87,6 +98,7 @@ Since I've read _Sapiens_, I tend to see stories everywhere and storytelling in 
 
 **[Free Play: Improvisation in Life and Art](https://www.amazon.com/Free-Play-Improvisation-Life-Art/dp/0874776317/ref=sr_1_3?ie=UTF8&qid=1534588891&sr=8-3&keywords=Free+Play) by Stephen Nachmanovitch.** You need to read this book slowly, it's a journey. Each chapter explore one aspect of creation and the internal struggles any author can have. Between each page you'll think on your attitude towards the same questions, how you can make it evolve, it's a unique experience and you won't read the same book as anyone else.
 
+{{< partial "mailing" "Subscribe to my newsletter to recieve one new book recommendation every week.">}}
 
 ### Fiction
 
@@ -102,6 +114,8 @@ I don't read a lot of fiction, probably because I like how life can be unexpecte
 
 **[Flowers for Algernon](https://www.amazon.com/Flowers-Algernon-Daniel-Keyes/dp/015603008X/ref=sr_1_1?ie=UTF8&qid=1534589672&sr=8-1&keywords=Flowers+for+Algernon) by Daniel Keyes.** A retarded person writes a journal about his journey on an experiment to get a better IQ. As he gets more intelligent his behavior with other changes. It's a very sad story but a fantastic journey on the links between intelligence and emotion, about difference. If you give a chance to this book, it won't leave your mind.
 
+{{< partial "mailing" "Subscribe to my newsletter to recieve one new book recommendation every week.">}}
+
 ### Historical fiction & biographies
 
 My favorite genra is historical fiction and biographies. As I didn't like so much fiction I love to learn about real life stories.
@@ -114,8 +128,9 @@ My favorite genra is historical fiction and biographies. As I didn't like so muc
 
 > "When people die, they cannot be replaced. They leave holes that cannot be filled, for it is the fate the genetic and neural fate of every human being to be a unique individual, to find" - Oliver Sacks
 
+There are enough recommandations for now, start with one of them and you won't stop! 
 
-There are enough recommandations for now, start with one of them and you won't stop!
+{{< partial "mailing" "Subscribe to my newsletter to recieve one new book recommendation every week.">}}
 
 
 

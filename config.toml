@@ -17,8 +17,9 @@ pygmentsUseClasses=true
 publishDir = "docs"
 
 [params]
+  showSubscribe = true
   title       = "The world as a stage"
-  subtitle    = "Improvisation, science, management and remote working."
+  subtitle    = "Improvisation - Remote working - Relationships - Culture"
 
   cover       = ""
   description = "Here is a description of your site."
