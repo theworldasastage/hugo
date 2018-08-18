@@ -19,7 +19,7 @@ publishDir = "docs"
 [params]
   showSubscribe = true
   title       = "The world as a stage"
-  subtitle    = "Improvisation - Remote working - Relationships - Culture"
+  subtitle    = "Improvisation - Remote working - Management - Culture"
 
   cover       = ""
   description = "Here is a description of your site."
