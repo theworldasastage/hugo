@@ -22,7 +22,7 @@ publishDir = "docs"
   subtitle    = "Creativity - Improvisation - Leadership - Remote working"
 
   cover       = ""
-  description = "Here is a description of your site."
+  description = "A blog about creativity, improvisation, leadership and remote working"
   metaDescription = ""
   googleAnalytics = "UA-37300513-2"
   customCSS = ["overrides.css","syntax.css"]
