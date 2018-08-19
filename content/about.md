@@ -10,11 +10,14 @@ weight: 111
 
 ---
 
-> "To succeed, planning alone is insufficient. One must improvise as well." - Isaac Asimov, Foundation
+> "To succeed, planning alone is insufficient. One must improvise as well." - 
+>  Isaac Asimov, Foundation
 
 Hi there and welcome!
 
 I am Baptiste Coulange, and I am the co-founder and remote CTO of [Cornis](http://web.cornis.fr/en/pages/home) since 2011, a company using machine learning and data processing to make wind turbines inspections more efficient. Under the stage name Nicolas Tupégabet (I love anagrams!) I'm a podcaster on the weekly French popular science podcast [Podcast Science](http://podcastscience.fm) created in 2010. I started improvisation more than 10 years ago in France and now improvise through workshops or with the [Barcelona Improv Group community](https://www.barcelonaimprovgroup.com/).
+
+I created this blog to explore creativity, leadership and remote work through the eyes of an improviser!
 
 
 {{< partial "mailing" "Get my new posts sent right to your inbox.">}}
