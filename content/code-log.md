@@ -2,9 +2,8 @@
 comments: false
 date: "2018-08-21"
 draft: true
-noauthor: true
 share: false
-title: "About me"
+title: "Code log"
 type: "page"
 weight: 111
 ---
