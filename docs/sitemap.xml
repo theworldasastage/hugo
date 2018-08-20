@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>http://theworldasastage.com/the-leaders-feedback/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theworldasastage.com/creativity-and-programming-languages/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -57,6 +62,12 @@
   <url>
     <loc>http://theworldasastage.com/tags/applied-improv/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theworldasastage.com/tags/books/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,6 +101,12 @@
   </url>
   
   <url>
+    <loc>http://theworldasastage.com/tags/feedback/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://theworldasastage.com/tags/improvisation/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -104,6 +121,18 @@
   <url>
     <loc>http://theworldasastage.com/tags/la-horde-du-contrevent/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theworldasastage.com/tags/leadership/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theworldasastage.com/categories/leadership/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
