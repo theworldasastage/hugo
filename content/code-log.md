@@ -1,7 +1,8 @@
 ---
 comments: false
-date: "2018-08-21"
+date: "2018-08-20"
 draft: false
+noauthor: false
 share: false
 title: "Code log"
 type: "page"
