@@ -69,10 +69,16 @@ publishDir = "docs"
   url = "/reading-list/"
   weight = 98
 
-[[menu.main]]
-  name = "Science"
-  url = "/categories/science/"
-  weight = 97
+
+# [[menu.main]]
+#   name = "Improvisation"
+#   url = "/categories/improvisation/"
+#   weight = 97
+
+# [[menu.main]]
+#   name = "Science"
+#   url = "/categories/science/"
+#   weight = 97
 
 [[menu.main]]
   name = "Dev"
