@@ -50,14 +50,15 @@ The audience is here to give direct feedback on the committee's propositions.  T
 
 > - Actor : What comes next?
 > - Committee : You are walking in a Jungle
-> <br/>_[Audience go Ding!]_
+> <br/>_[Audience goes Ding!]_
 > - Actor (start walking) : What comes next?
 > - Comittee : You discover a hidden temple
-> <br/>_[Audience go Ding!]_
+> <br/>_[Audience goes Ding!]_
 > - Actor : What comes next?
 > - Comittee : An alien come out of the temple.
-> <br/>_[Audience go Mmmm!]_
+> <br/>_[Audience goes Mmmm!]_
 > - Comittee : You enter the temple!
+> <br/>_[Audience goes Ding!]_
 > - Actor (enters the temple) : What comes next?
 > - etc.
 
