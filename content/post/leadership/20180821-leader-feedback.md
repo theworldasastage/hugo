@@ -3,7 +3,8 @@ title: "The leader's feedback"
 date: 2018-08-20
 image: img/crowd.jpg
 categories: ["leadership"]
-tags: ["leadership","books","improvisation","feedback"]
+type: "post"
+tags: ["leadership","books","feedback"]
 draft: false
 ---
 

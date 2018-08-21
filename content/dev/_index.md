@@ -5,7 +5,6 @@ draft: false
 noauthor: false
 share: false
 title: "Dev"
-type: "post"
 layout: "dev"
 weight: 111
 ---

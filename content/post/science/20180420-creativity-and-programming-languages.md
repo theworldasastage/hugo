@@ -2,7 +2,8 @@
 title: "Creativity and programming languages"
 date: 2018-01-28
 image: img/cage-creativity.jpg
-categories: ["science","code"]
+categories: ["science","dev"]
+type: "post"
 tags: ["podcast","code","creativity","La horde du contrevent"]
 ---
 

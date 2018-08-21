@@ -4,6 +4,7 @@ date: 2018-08-21
 image: img/book-creativity-inc.jpg
 categories: ["books"]
 tags: ["leadership","books"]
+type: "post"
 draft: true
 ---
 

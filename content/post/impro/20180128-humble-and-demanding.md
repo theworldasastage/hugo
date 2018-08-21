@@ -3,6 +3,7 @@ title: "Humble and Demanding"
 date: 2018-01-28
 image: img/again-2017.jpg
 categories: ["Improvisation"]
+type: "post"
 tags: ["Again!","Improvisation"]
 ---
 
