@@ -17,7 +17,7 @@ Every time I go to someone home, the first thing I look at is his library. And t
 
 All these books had an impact on my life and defined who I am today. As I continue to read, this list will continue to evolve. Pick a book and read it to the next one, this list will be waiting here for more recommendations if at one point you have no more reading ideas.
 
-{{< partial "mailing" "Subscribe to my newsletter to receive one new book recommendation every week.">}}
+{{< partial "mailing-with-tag" "Subscribe to my newsletter to receive one new book recommendation every week." "books">}}
 
 ### Books that influenced me
 
@@ -55,7 +55,7 @@ All these books had an impact on my life and defined who I am today. As I contin
 
 Below other books on more specific topics, you can, of course, read these books even if you think you are not interested in these topics.
 
-{{< partial "mailing" "Subscribe to my newsletter to receive one new book recommendation every week.">}}
+{{< partial "mailing-with-tag" "Subscribe to my newsletter to receive one new book recommendation every week." "books">}}
 
 ### Popular Science
 
@@ -72,7 +72,7 @@ Popular science books help you discover how much we know (and don't know) about 
 **[Actionable Gamification](https://www.amazon.com/Actionable-Gamification-Beyond-Points-Leaderboards/dp/1511744049/ref=sr_1_1?ie=UTF8&qid=1534587678&sr=8-1&keywords=actionable+gamification+beyond+points%2C+badges%2C+and+leaderboards) by Yu-Kai Chou.** Have you ever play Candy Crush or another stupid mobile game? Have you ever wondered why you are addicted to such foolish activity? The answer is gamification, and this book is all about that. How to use human psychology to make any activity more addictive. You can use it at work but also in your home to make the chores more exciting.
 
 
-{{< partial "mailing" "Subscribe to my newsletter to receive one new book recommendation every week.">}}
+{{< partial "mailing-with-tag" "Subscribe to my newsletter to receive one new book recommendation every week." "books">}}
 
 ### Management and Remote working
 
@@ -85,7 +85,7 @@ Becoming a team leader, I've started reading what others did to make their teams
 
 **[Reinventing Organizations](https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/ref=sr_1_1?ie=UTF8&qid=1534588308&sr=8-1&keywords=Reinventing+Organizations) by Frederic Laloux.** This book starts with a history of company organization stages. The book is worth reading only for this first chapter as you can discover that this good old business we see as unchanged has evolved a lot in the recent years. The second part of the book is about the future of organizations.
 
-{{< partial "mailing" "Subscribe to my newsletter to receive one new book recommendation every week.">}}
+{{< partial "mailing-with-tag" "Subscribe to my newsletter to receive one new book recommendation every week." "books">}}
 
 ### Storytelling
 
@@ -95,7 +95,7 @@ Since I've read _Sapiens_, I tend to see stories everywhere and storytelling in 
 
 **[Free Play: Improvisation in Life and Art](https://www.amazon.com/Free-Play-Improvisation-Life-Art/dp/0874776317/ref=sr_1_3?ie=UTF8&qid=1534588891&sr=8-3&keywords=Free+Play) by Stephen Nachmanovitch.** You need to read this book slowly, it's a journey. Each chapter explores one aspect of creation and the internal struggles any author can have. Between each page, you'll think about your attitude towards the same questions, how you can make it evolve, it's a unique experience, and you won't read the same book as anyone else.
 
-{{< partial "mailing" "Subscribe to my newsletter to receive one new book recommendation every week.">}}
+{{< partial "mailing-with-tag" "Subscribe to my newsletter to receive one new book recommendation every week." "books">}}
 
 ### Fiction
 
@@ -111,7 +111,7 @@ I don't read a lot of fiction, probably because I like how life can be unexpecte
 
 **[Flowers for Algernon](https://www.amazon.com/Flowers-Algernon-Daniel-Keyes/dp/015603008X/ref=sr_1_1?ie=UTF8&qid=1534589672&sr=8-1&keywords=Flowers+for+Algernon) by Daniel Keyes.** A retarded person writes a journal about his journey on an experiment to get a better IQ. As he gets more intelligent his behavior with other changes. It's a sad story but a fantastic read on the links between intelligence and emotion, about differences. If you give a chance to this book, it won't leave your mind.
 
-{{< partial "mailing" "Subscribe to my newsletter to receive one new book recommendation every week.">}}
+{{< partial "mailing-with-tag" "Subscribe to my newsletter to receive one new book recommendation every week." "books">}}
 
 ### Historical fiction & biographies
 
@@ -127,7 +127,7 @@ My favorite genre is historical fiction and biographies. As I didn't like so muc
 
 There are enough recommendations, for now, start with one of them, and you won't stop! 
 
-{{< partial "mailing" "Subscribe to my newsletter to receive one new book recommendation every week.">}}
+{{< partial "mailing-with-tag" "Subscribe to my newsletter to receive one new book recommendation every week." "books">}}
 
 
 

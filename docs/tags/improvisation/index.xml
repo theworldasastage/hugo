@@ -56,6 +56,8 @@
     &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_c05d187131e01c7607fa4ae0b_32885e90b3&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;clear&#34;&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
+
+    &lt;input type=&#34;hidden&#34; value=&#34;management&#34; name=&#34;SIGNUPWHY&#34; class=&#34;required&#34; id=&#34;mce-SIGNUPWHY&#34;&gt;
 &lt;/form&gt;
 &lt;/div&gt;
 
@@ -164,6 +166,8 @@
     &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_c05d187131e01c7607fa4ae0b_32885e90b3&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;clear&#34;&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
+
+    &lt;input type=&#34;hidden&#34; value=&#34;management&#34; name=&#34;SIGNUPWHY&#34; class=&#34;required&#34; id=&#34;mce-SIGNUPWHY&#34;&gt;
 &lt;/form&gt;
 &lt;/div&gt;
 

@@ -67,7 +67,7 @@ At some point, the committee is no longer able to make an acceptable proposition
 This committee isn't any different from the audience, but in the role of deciding what will happen, they become unaware of what should happen as if we had two minds that cannot efficiently work together. 
 
 Asking for feedback about your management is like asking the audience... _they know_.
-{{< partial "mailing" "Subscribe to receive a weekly summary of new articles on leadership and improvisation!">}}
+{{< partial "mailing-with-tag" "Subscribe to receive a weekly summary of new articles on leadership and improvisation!" "management">}}
 
 And you, how do you ask for feedback on your leadership style?
 

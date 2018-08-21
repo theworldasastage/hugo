@@ -22,7 +22,7 @@ I am Baptiste Coulange, and I am a co-founder and CTO of [Cornis](http://web.cor
 I created this blog to explore creativity, leadership and remote work through the eyes of an improviser!
 
 
-{{< partial "mailing" "Get my new posts sent right to your inbox.">}}
+{{< partial "mailing-with-tag" "Get my new posts sent right to your inbox." "general">}}
 
 
 You can of course also follow me on [Twitter](https://twitter.com/NicoTupe) where I regularly share articles!
