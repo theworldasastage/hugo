@@ -10,8 +10,7 @@ draft: false
 
 Here are some excellent articles I read this week.
 
-# Learn
-## Code
+## Learning
 
 A neverending question for a developer is _how to continue to learn with a full-time job?_. This [article](https://dev.to/beznet/learning-code-while-working-a-full-time-job-365p) tries to answer this question.
 
