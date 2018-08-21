@@ -21,7 +21,17 @@
 
 &lt;p&gt;This is just a code log, where I put code discoveries, problems, etc.&lt;/p&gt;
 
-&lt;h1 id=&#34;augusgt-17th-2o18&#34;&gt;Augusgt 17th, 2O18&lt;/h1&gt;
+&lt;h1 id=&#34;august-21st-2018&#34;&gt;August 21st, 2018&lt;/h1&gt;
+
+&lt;p&gt;Chrome insist to stay on &lt;code&gt;https&lt;/code&gt; when you&amp;rsquo;ve been on https once&amp;hellip; To make him understand you don&amp;rsquo;t want him to force &lt;code&gt;https&lt;/code&gt; you need to :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;go to &lt;a href=&#34;chrome://net-internals/#hsts&#34;&gt;chrome://net-internals/#hsts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In the part &amp;ldquo;Delete domain security policies&amp;rdquo; enter your domain name&lt;/li&gt;
+&lt;li&gt;click on delete&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;august-17th-2o18&#34;&gt;August 17th, 2O18&lt;/h1&gt;
 
 &lt;p&gt;The happiness of Javascript and dates. First, months in Javascript start at 0 :&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;Date&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2018&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// this is the 1st of February...

@@ -13,7 +13,7 @@
     <link rel="canonical" href="http://theworldasastage.com/dev/code-log/" />
 
      <meta name="description" content="This is just a code log, where I put code discoveries, problems, etc.
-Augusgt 17th, 2O18 The happiness of Javascript and dates. First, months in Javascript star" /> 
+August 21st, 2018 Chrome insist to stay on https when you&amp;rsquo;ve been on https once&amp;hell" /> 
 
      
     
@@ -22,7 +22,7 @@ Augusgt 17th, 2O18 The happiness of Javascript and dates. First, months in Javas
  
     <meta name="twitter:title" content="Code log"/>
     <meta name="twitter:description" content="This is just a code log, where I put code discoveries, problems, etc.
-Augusgt 17th, 2O18 The happiness of Javascript and dates. First, months in Javascript star"/>
+August 21st, 2018 Chrome insist to stay on https when you&amp;rsquo;ve been on https once&amp;hell"/>
     <meta name="twitter:url" content="http://theworldasastage.com/dev/code-log/" />
     <meta name="twitter:site" content="@nicotupe"/>
 
@@ -33,7 +33,7 @@ Augusgt 17th, 2O18 The happiness of Javascript and dates. First, months in Javas
 
     <meta property="og:type" content="article" />
     <meta property="og:description" content="This is just a code log, where I put code discoveries, problems, etc.
-Augusgt 17th, 2O18 The happiness of Javascript and dates. First, months in Javascript star" />
+August 21st, 2018 Chrome insist to stay on https when you&amp;rsquo;ve been on https once&amp;hell" />
 
     <meta property="article:published_time" content="2018-08-20T00:00:00Z" />
     
@@ -138,7 +138,17 @@ Augusgt 17th, 2O18 The happiness of Javascript and dates. First, months in Javas
 
 <p>This is just a code log, where I put code discoveries, problems, etc.</p>
 
-<h1 id="augusgt-17th-2o18">Augusgt 17th, 2O18</h1>
+<h1 id="august-21st-2018">August 21st, 2018</h1>
+
+<p>Chrome insist to stay on <code>https</code> when you&rsquo;ve been on https once&hellip; To make him understand you don&rsquo;t want him to force <code>https</code> you need to :</p>
+
+<ul>
+<li>go to <a href="chrome://net-internals/#hsts">chrome://net-internals/#hsts</a></li>
+<li>In the part &ldquo;Delete domain security policies&rdquo; enter your domain name</li>
+<li>click on delete</li>
+</ul>
+
+<h1 id="august-17th-2o18">August 17th, 2O18</h1>
 
 <p>The happiness of Javascript and dates. First, months in Javascript start at 0 :</p>
 <div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">new</span> <span class="nb">Date</span><span class="p">(</span><span class="mi">2018</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">)</span> <span class="c1">// this is the 1st of February...

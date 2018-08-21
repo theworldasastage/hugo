@@ -12,8 +12,16 @@ weight: 111
 
 This is just a code log, where I put code discoveries, problems, etc.
 
+# August 21st, 2018
 
-# Augusgt 17th, 2O18
+Chrome insist to stay on `https` when you've been on https once... To make him understand you don't want him to force `https` you need to : 
+
+- go to [chrome://net-internals/#hsts](chrome://net-internals/#hsts)
+- In the part "Delete domain security policies" enter your domain name
+- click on delete
+
+
+# August 17th, 2O18
 
 The happiness of Javascript and dates. First, months in Javascript start at 0 : 
 
