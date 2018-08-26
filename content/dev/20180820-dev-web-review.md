@@ -2,7 +2,7 @@
 title: "August 20th, 2018 : Dev Web Review"
 date: 2018-08-20
 categories: ["dev web review"]
-tags: ["dev web review","learning code","data science","dataviz","team culture","microservices"]
+tags: ["dev web review","learning code","data science","dataviz","team culture","microservices","web review"]
 type: "dev"
 image: img/dev/data-visualization-pitfalls.png
 draft: false
