@@ -38,11 +38,6 @@
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://theworldasastage.com/creativity-and-programming-languages/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -50,12 +45,6 @@
   <url>
     <loc>http://theworldasastage.com/humble-and-demanding/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -204,12 +193,6 @@
   <url>
     <loc>http://theworldasastage.com/tags/web-review/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/categories/web-review/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

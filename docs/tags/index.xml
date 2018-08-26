@@ -12,15 +12,6 @@
     
     
     <item>
-        <title></title>
-        <link>http://theworldasastage.com/tags/</link>
-        <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
-        
-        <guid>http://theworldasastage.com/tags/</guid>
-        <description></description>
-    </item>
-    
-    <item>
         <title>Again</title>
         <link>http://theworldasastage.com/tags/again/</link>
         <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
@@ -143,6 +134,15 @@
         <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
         
         <guid>http://theworldasastage.com/tags/podcast/</guid>
+        <description></description>
+    </item>
+    
+    <item>
+        <title>Team Culture</title>
+        <link>http://theworldasastage.com/tags/team-culture/</link>
+        <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://theworldasastage.com/tags/team-culture/</guid>
         <description></description>
     </item>
     
