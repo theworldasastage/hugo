@@ -74,6 +74,6 @@ Asking for feedback about your management is like asking the audience... _they k
 And you, how do you ask for feedback on your leadership style?
 
 
-<small>[Photo by davide ragusa.](https://unsplash.com/photos/gcDwzUGuUoI)</small>
+<small>[Photo by Davide Ragusa.](https://unsplash.com/photos/gcDwzUGuUoI)</small>
 
 
