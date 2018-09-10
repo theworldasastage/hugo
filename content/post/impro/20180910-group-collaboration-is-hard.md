@@ -5,7 +5,7 @@ image: img/showstoppers.jpg
 categories: ["Improvisation","Leadership"]
 type: "post"
 tags: ["leadership","Improvisation","teams"]
-draft: true
+draft: false
 weight: 1
 ---
 

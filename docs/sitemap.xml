@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://theworldasastage.com/team-collaboration-is-hard-improvisation-training-can-help./</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theworldasastage.com/dev/code-log/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
@@ -95,13 +100,13 @@
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/categories/dev-web-review/</loc>
+    <loc>http://theworldasastage.com/tags/dev-web-review/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/dev-web-review/</loc>
+    <loc>http://theworldasastage.com/categories/dev-web-review/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -113,14 +118,14 @@
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/categories/improvisation/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <loc>http://theworldasastage.com/tags/improvisation/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/improvisation/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <loc>http://theworldasastage.com/categories/improvisation/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,14 +136,14 @@
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/categories/leadership/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <loc>http://theworldasastage.com/tags/leadership/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/leadership/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <loc>http://theworldasastage.com/categories/leadership/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,7 +167,7 @@
   
   <url>
     <loc>http://theworldasastage.com/post/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -185,8 +190,14 @@
   </url>
   
   <url>
+    <loc>http://theworldasastage.com/tags/teams/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://theworldasastage.com/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
