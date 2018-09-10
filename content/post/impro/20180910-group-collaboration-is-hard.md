@@ -1,5 +1,5 @@
 ---
-title: "Team collaboration is hard, Improvisation training can help."
+title: "Team collaboration is hard, Improvisation training can help"
 date: 2018-09-10
 image: img/showstoppers.jpg
 categories: ["Improvisation","Leadership"]
