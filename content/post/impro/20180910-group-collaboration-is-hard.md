@@ -1,10 +1,10 @@
 ---
 title: "Team collaboration is hard, Improvisation training can help"
 date: 2018-09-10
-image: img/showstoppers.jpg
+image: img/ballet.jpg
 categories: ["Improvisation","Leadership"]
 type: "post"
-tags: ["leadership","Improvisation","teams"]
+tags: ["leadership","improvisation","teams"]
 draft: false
 weight: 1
 ---
@@ -23,7 +23,7 @@ My last time was every meeting. We are all working together on the same project,
 
 Meetings are _improvised group collaboration_: the participants don't exactly know how they will contribute, and their reactions depend on others' behaviors.
 
-We improvise collaboration with others all the time. In our relationship, in a store, at associations, with our family, etc. We take it for granted, we don't we need to learn how to interact with others. After all, this is the activity that we dedicate the most time to. By now, we should be experts!
+We improvise collaboration with others all the time. In our relationship, in a store, at associations, with our family, etc. We take it for granted, we don't need to learn how to interact with others. After all, this is the activity that we dedicate the most time to. By now, we should be experts!
 
 __I think that improvised group collaboration is one of the most difficult human activity.__ 
 
@@ -39,7 +39,7 @@ The last time I've seen a group work together so effectively you couldn't believ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4LZWg2vi6GE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-In this video you can hardly notice any mistake. But the Showstoppers are no different, they have the same problems we have in our meetings : unplanned and strange ideas, people inisisting too much on what they have in mind, misunderstandings on what the story is about, etc. Their difference is that they trained to make their collaboration _flow_.
+In this video you can hardly notice any mistake. But the Showstoppers are no different, they have the same problems we have in our meetings : unplanned and strange ideas, people insisting too much on what they have in mind, misunderstandings on what the story is about, etc. Their difference is that they trained to make their collaboration _flow_.
 
 > Improv is a mission-driven, goal-directed team activity where each participant is, at various times, both a leader and a follower.
 > 
@@ -58,12 +58,13 @@ As long as your work (or life) involves communicating with another human being, 
 
 Each time I am the first to go on stage in an improvised play, I'm scared. When you start your scene, not knowing where the story is going, not knowing if your teammates and the audience will react positively to your offer, you only wish for one thing: _to never have gotten on the stage in the first place_.
 
-Any person proposing something to a team is the same, the idea is still new and needs protection. Improvisers have created the mantra _yes, and_ to protect and build on these new ideas. The _yes, and_, is not just about being nice to a proposition out of kindness. It's about __being the best follower that has ever existed__, to make everything you can to make that idea work, to __make your partner look beautiful__. So, if it fails, _it won't be the mistake of anyone, it will be the learning for everyone._
+Any person proposing something to a team is the same, the idea is still new and needs protection. Improvisers have created the mantra _yes, and_ to protect (saying _yes_) and build on these new ideas (_and_). The _yes, and_, is not just about being nice to a proposition out of kindness. It's about __being the best follower that has ever existed__, to make everything you can to make that idea work, to __make your partner look beautiful__. So, if it fails, _it won't be the mistake of anyone, it will be the learning for everyone._
 
 > Whether it's the kernel of a movie idea or a fledgling internship program, the new needs protection. Business-as-usual does not. Managers do not need to work hard to protect established ideas or ways of doing business. The system is tilted to favor the incumbent. The challenger needs support to find its footing. And protection of the new-of the future, not the past must be a conscious effort. 
 > <small>Ed. Catmull, president of Pixar in "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration."</small>
 
-__Trust__
+### Trust
+
 I was at the [2018 Applied Improvisation Network Conference in Paris](http://appliedimprovisation.network/events/2018-paris/). As we were discussing how to enable a group to be better at problem-solving, a theater director shared his surprise :
 
 > In theater it can take years of work for building trust in a group before we even start to solve problems.
@@ -90,7 +91,7 @@ Embracing mistakes is not only being ok with each error. It is also making mista
 
 When I ask friends to describe how they see improvisation they always tell me that _"it's the liberating activity of doing whatever you want on stage and make fun of it."_ If this were true, the Showstoppers' show would be a mess.
 
-When you go to an improv show, they may ask you for a suggestion, describe the ground rules, ask you to define some precise elements of the drama. It's because improvisers also know that creation and collaboration are only possible under constraints. In a business environment, maintaining the equilibrium between freedom and constraints is difficult but indispensable.
+When you go to an improv show, they may ask you for a suggestion, describe the ground rules, ask you to define some precise elements of the drama (the place, the characters jobs, their secret desires, etc.). It's because improvisers also know that creation and collaboration are only possible under constraints. In a business environment, maintaining the equilibrium between freedom and constraints is difficult but indispensable.
 
 > "The temptation to lead as a chess master, controlling each move of the organization, must give way to an approach as a gardener, enabling rather than directing. A gardening approach to leadership is anything but passive. The leader acts as an "Eyes-On, Hands-Off" enabler who creates and maintains an ecosystem in which the organization operates." 
 > 
@@ -130,6 +131,5 @@ This other video is for you. Here is an example of the kind of improv training t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5U_DwgtEny8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<small>[Photo by Karla Gowlett.](http://www.theshowstoppers.org/gallery/)</small>
 
 
