@@ -39,11 +39,29 @@
     </item>
     
     <item>
+        <title>Communication</title>
+        <link>http://theworldasastage.com/tags/communication/</link>
+        <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://theworldasastage.com/tags/communication/</guid>
+        <description></description>
+    </item>
+    
+    <item>
         <title>Creativity</title>
         <link>http://theworldasastage.com/tags/creativity/</link>
         <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
         
         <guid>http://theworldasastage.com/tags/creativity/</guid>
+        <description></description>
+    </item>
+    
+    <item>
+        <title>Data</title>
+        <link>http://theworldasastage.com/tags/data/</link>
+        <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://theworldasastage.com/tags/data/</guid>
         <description></description>
     </item>
     
@@ -125,24 +143,6 @@
         <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
         
         <guid>http://theworldasastage.com/tags/microservices/</guid>
-        <description></description>
-    </item>
-    
-    <item>
-        <title>Podcast</title>
-        <link>http://theworldasastage.com/tags/podcast/</link>
-        <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
-        
-        <guid>http://theworldasastage.com/tags/podcast/</guid>
-        <description></description>
-    </item>
-    
-    <item>
-        <title>Team Culture</title>
-        <link>http://theworldasastage.com/tags/team-culture/</link>
-        <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-        
-        <guid>http://theworldasastage.com/tags/team-culture/</guid>
         <description></description>
     </item>
     

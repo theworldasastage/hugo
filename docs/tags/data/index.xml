@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+    <title>Data on The world as a stage</title>
+    <link>http://theworldasastage.com/tags/data/</link>
+    <description>Recent content in Data on The world as a stage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://theworldasastage.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+        <title>The 5 informations every figure caption should have</title>
+        <link>http://theworldasastage.com/the-5-informations-every-figure-caption-should-have/</link>
+        <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://theworldasastage.com/the-5-informations-every-figure-caption-should-have/</guid>
+        <description>
+
+&lt;p&gt;Each time I receive a 10 pages document explaining a scientific work on our data with several figures, my first reflex is to scroll and look at all the pictures without reading any text. This is no different from not reading the manual when you buy a new phone: &lt;em&gt;we are smart enough to understand&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://theworldasastage.com/img/beeers.png&#34; alt=&#34;Beeers&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is for sure the number of beers of each type produced each year since 2000.&lt;/p&gt;
+
+&lt;p&gt;Of course afterward, I read the text carefully and realize how wrong I was. Even sometimes I&amp;rsquo;m not sure anymore of what really shows this figure. So you can imagine that when this remarkable result is transferred to a presentation, its real meaning is definitely lost.&lt;/p&gt;
+
+&lt;p&gt;__I believe that figures in a document must be self-explaining and engaging: __
+&lt;strong&gt;- Anyone should be able to understand them without reading the rest of the text.&lt;/strong&gt;
+&lt;strong&gt;- Anyone should be able to understand why you are showing this.&lt;/strong&gt;
+&lt;strong&gt;- The description must lead us to want to know more by reading the surrounding text.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To achieve that, here is the checklist of 5 elements I tend to put in &lt;em&gt;every&lt;/em&gt; figure (We are now sharing figures on computers, it&amp;rsquo;s not a problem anymore to have a 10 lines description).&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Factual description.&lt;/strong&gt; What are the different elements presented? what are the axes? what are the color for? etc.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This figure shows the number of beer brand depending on their color for three different kinds of beers: Pilsner (on top), Porter (middle) and Scotch Ale (on the bottom). The data is computed thanks to &lt;a href=&#34;http://www.brewerydb.com/&#34;&gt;brewerydb&lt;/a&gt;. The y-axis corresponds to the number beer brand of a given color. The x-axis corresponds to the different colors (represented by their SRM color) and the color correspond to the color of the beer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;An example on how to read the figure.&lt;/strong&gt; Even with the factual description, it can be hard to understand how to read a chart so an example will help.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;For example, for a Pilsner with an SRM color of 10, the database count 50 different brands.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Why this figure is significant, what we can see?&lt;/strong&gt; If you are showing a picture, it&amp;rsquo;s because you consider it&amp;rsquo;s worth noticing. So develop your point of view, tell us what you interpret in this figure.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Comparing these three kinds of beers we can see that the primary color of each type is very different: the average SRM of Pilsner is 10, the one of Porter is 0, and the one of Scotch Ale is distributed between 0 and 22. Also, Scotch Ale is distributed between 0 and 22.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Your interpretation.&lt;/strong&gt; Here we want your opinion on the figure. You produced it, so you probably have your own idea of what to interpret.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This figure was created to test if with only the color of a beer we can determine its kind how different beer colors can be. We can see that some types like Pilsner can be associated with an exact color. Others, like Scotch Ale, are way more difficult to interpret only a given color.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Your questionings.&lt;/strong&gt; This part is optional. Most of the time a good figure brings the next questions, and the end of the description is the excellent place to place them.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As the color does not seem enough to interpret the kind of beer, it could be interesting to explore the color versus the BMI of the beer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;beyond-the-caption&#34;&gt;beyond the caption&lt;/h2&gt;
+
+&lt;p&gt;This is only about the caption, &lt;a href=&#34;https://www.data-to-viz.com/caveats.html&#34;&gt;the way you present your data is as important and can bring a lot of misunderstandings&lt;/a&gt;. But since we never stop producing figures when we work on data, ensuring good captions is an efficient way to ensure that everyone looking at your document got your point.&lt;/p&gt;
+
+&lt;p&gt;What are your good practices about figures caption?&lt;/p&gt;
+
+
+&lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+   
+&lt;/style&gt;
+&lt;div id=&#34;mc_embed_signup&#34;&gt;
+&lt;form action=&#34;https://theworldasastage.us19.list-manage.com/subscribe/post?u=c05d187131e01c7607fa4ae0b&amp;amp;id=32885e90b3&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34; novalidate&gt;
+    &lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;
+  &lt;label for=&#34;mce-EMAIL&#34;&gt;
+    Subscribe to the newsletter for more tips!
+  &lt;/label&gt;
+  &lt;input type=&#34;email&#34; value=&#34;&#34; name=&#34;EMAIL&#34; class=&#34;email&#34; id=&#34;mce-EMAIL&#34; placeholder=&#34;email address&#34; required&gt;
+    
+    &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_c05d187131e01c7607fa4ae0b_32885e90b3&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;clear&#34;&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;input type=&#34;hidden&#34; value=&#34;management&#34; name=&#34;SIGNUPWHY&#34; class=&#34;required&#34; id=&#34;mce-SIGNUPWHY&#34;&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    </channel>
+</rss>
