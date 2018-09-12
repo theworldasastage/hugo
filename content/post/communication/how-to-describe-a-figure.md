@@ -17,9 +17,12 @@ This is for sure the number of beers of each type produced each year since 2000.
 Of course afterward, I read the text carefully and realize how wrong I was. Even sometimes I'm not sure anymore of what really shows this figure. So you can imagine that when this remarkable result is transferred to a presentation, its real meaning is definitely lost.
 
 __I believe that figures in a document must be self-explaining and engaging: __
-__- Anyone should be able to understand them without reading the rest of the text.__
-__- Anyone should be able to understand why you are showing this.__
-__- The description must lead us to want to know more by reading the surrounding text.__
+
+> - Anyone should be able to understand them without reading the rest of the text.
+> 
+> - Anyone should be able to understand why you are showing this.
+> 
+> - The description must lead us to want to know more by reading the surrounding text.
 
 To achieve that, here is the checklist of 5 elements I tend to put in _every_ figure (We are now sharing figures on computers, it's not a problem anymore to have a 10 lines description).
 
