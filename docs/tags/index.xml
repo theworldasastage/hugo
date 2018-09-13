@@ -6,10 +6,19 @@
     <description>Recent content in Tags on The world as a stage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://theworldasastage.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+        <title>Acting</title>
+        <link>https://theworldasastage.com/tags/acting/</link>
+        <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://theworldasastage.com/tags/acting/</guid>
+        <description></description>
+    </item>
     
     <item>
         <title>Again</title>
@@ -23,7 +32,7 @@
     <item>
         <title>Books</title>
         <link>https://theworldasastage.com/tags/books/</link>
-        <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
         
         <guid>https://theworldasastage.com/tags/books/</guid>
         <description></description>
@@ -134,15 +143,6 @@
         <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
         
         <guid>https://theworldasastage.com/tags/learning-code/</guid>
-        <description></description>
-    </item>
-    
-    <item>
-        <title>Microservices</title>
-        <link>https://theworldasastage.com/tags/microservices/</link>
-        <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-        
-        <guid>https://theworldasastage.com/tags/microservices/</guid>
         <description></description>
     </item>
     
