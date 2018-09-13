@@ -8,7 +8,7 @@ image: img/dev/data-visualization-pitfalls.png
 draft: false
 ---
 
-Here are some excellent articles I read this week.
+Here are some excellent articles I've read this week.
 
 ## Learning
 
