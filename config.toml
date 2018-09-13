@@ -85,6 +85,11 @@ publishDir = "docs"
   url = "/dev/"
   weight = 96
 
+[[menu.main]]
+  name = "Books"
+  url = "/tags/books/"
+  weight = 95
+
 # [[menu.main]]
 #   name = "Podcast"
 #   url = "/tags/podcast/"
