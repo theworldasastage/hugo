@@ -3,230 +3,264 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://theworldasastage.com/team-collaboration-is-hard-improvisation-training-can-help/</loc>
+    <loc>https://theworldasastage.com/team-collaboration-is-hard-improvisation-training-can-help/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/dev/code-log/</loc>
+    <loc>https://theworldasastage.com/dev/code-log/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/dev/</loc>
+    <loc>https://theworldasastage.com/dev/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/dev/to-follow/</loc>
+    <loc>https://theworldasastage.com/dev/to-follow/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/about/</loc>
+    <loc>https://theworldasastage.com/about/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/reading-list/</loc>
+    <loc>https://theworldasastage.com/reading-list/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/the-5-informations-every-figure-caption-should-have/</loc>
+    <loc>https://theworldasastage.com/dev/20180913-dev-web-review/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/dev/20180820-dev-web-review/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/the-leaders-feedback/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/creativity-and-programming-languages/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/humble-and-demanding/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/again/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/books/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/code/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/communication/</loc>
+    <loc>https://theworldasastage.com/the-5-informations-every-figure-caption-should-have/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/categories/communication/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://theworldasastage.com/dev/20180827-dev-web-review/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/creativity/</loc>
+    <loc>https://theworldasastage.com/dev/20180820-dev-web-review/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/the-leaders-feedback/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/creativity-and-programming-languages/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/humble-and-demanding/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/again/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/data/</loc>
+    <loc>https://theworldasastage.com/tags/books/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/code/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/communication/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/data-science/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <loc>https://theworldasastage.com/categories/communication/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/dataviz/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/categories/dev/</loc>
+    <loc>https://theworldasastage.com/tags/creativity/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/dev-web-review/</loc>
+    <loc>https://theworldasastage.com/tags/data/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/data-science/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/categories/dev-web-review/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <loc>https://theworldasastage.com/tags/dataviz/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/feedback/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/improvisation/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/categories/improvisation/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/la-horde-du-contrevent/</loc>
+    <loc>https://theworldasastage.com/categories/dev/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/leadership/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/categories/leadership/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/learning-code/</loc>
+    <loc>https://theworldasastage.com/tags/dev-web-review/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/microservices/</loc>
+    <loc>https://theworldasastage.com/categories/dev-web-review/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/feedback/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/podcast/</loc>
+    <loc>https://theworldasastage.com/tags/improvisation/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/categories/improvisation/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/la-horde-du-contrevent/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/post/</loc>
+    <loc>https://theworldasastage.com/tags/leadership/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/categories/science/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <loc>https://theworldasastage.com/categories/leadership/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/team-culture/</loc>
+    <loc>https://theworldasastage.com/tags/learning-code/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theworldasastage.com/tags/teams/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theworldasastage.com/tags/web-review/</loc>
+    <loc>https://theworldasastage.com/tags/microservices/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/ml/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/netflix/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/notebook/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/podcast/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/post/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/python/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/categories/science/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/team-culture/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/teams/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/web-review/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

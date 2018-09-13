@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
     <title>The world as a stage</title>
-    <link>http://theworldasastage.com/</link>
+    <link>https://theworldasastage.com/</link>
     <description>Recent content on The world as a stage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://theworldasastage.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://theworldasastage.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
         <title>Team collaboration is hard, Improvisation training can help</title>
-        <link>http://theworldasastage.com/team-collaboration-is-hard-improvisation-training-can-help/</link>
+        <link>https://theworldasastage.com/team-collaboration-is-hard-improvisation-training-can-help/</link>
         <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/team-collaboration-is-hard-improvisation-training-can-help/</guid>
+        <guid>https://theworldasastage.com/team-collaboration-is-hard-improvisation-training-can-help/</guid>
         <description>
 
 &lt;blockquote&gt;
@@ -41,7 +41,7 @@
 
 &lt;p&gt;&lt;strong&gt;I think that improvised group collaboration is one of the most difficult human activity.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Instead of considering myself as an expert, I now try to stay &lt;a href=&#34;http://theworldasastage.com/humble-and-demanding/&#34;&gt;humble and demanding&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Instead of considering myself as an expert, I now try to stay &lt;a href=&#34;https://theworldasastage.com/humble-and-demanding/&#34;&gt;humble and demanding&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Humble&lt;/em&gt; because, as most people, I&amp;rsquo;ve never really worked on &lt;em&gt;collaboration&lt;/em&gt; except in day to day interactions. So, as for any activity I have to be humble and eager to learn how to be better at it.&lt;/p&gt;
 
@@ -187,10 +187,10 @@
     
     <item>
         <title>Code log</title>
-        <link>http://theworldasastage.com/dev/code-log/</link>
+        <link>https://theworldasastage.com/dev/code-log/</link>
         <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/dev/code-log/</guid>
+        <guid>https://theworldasastage.com/dev/code-log/</guid>
         <description>
 
 &lt;p&gt;This is just a code log, where I put code discoveries, problems, etc.&lt;/p&gt;
@@ -232,10 +232,10 @@
     
     <item>
         <title>Dev : List of websites I follow</title>
-        <link>http://theworldasastage.com/dev/to-follow/</link>
+        <link>https://theworldasastage.com/dev/to-follow/</link>
         <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/dev/to-follow/</guid>
+        <guid>https://theworldasastage.com/dev/to-follow/</guid>
         <description>
 
 &lt;h1 id=&#34;best-articles&#34;&gt;Best articles&lt;/h1&gt;
@@ -305,10 +305,10 @@
     
     <item>
         <title>About me</title>
-        <link>http://theworldasastage.com/about/</link>
+        <link>https://theworldasastage.com/about/</link>
         <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/about/</guid>
+        <guid>https://theworldasastage.com/about/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;To succeed, planning alone is insufficient. One must improvise as well.&amp;rdquo; -
  Isaac Asimov, Foundation&lt;/p&gt;
@@ -350,10 +350,10 @@
     
     <item>
         <title>Reading list</title>
-        <link>http://theworldasastage.com/reading-list/</link>
+        <link>https://theworldasastage.com/reading-list/</link>
         <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/reading-list/</guid>
+        <guid>https://theworldasastage.com/reading-list/</guid>
         <description>
 
 &lt;blockquote&gt;
@@ -655,16 +655,70 @@
     </item>
     
     <item>
-        <title>The 5 informations every figure caption should have</title>
-        <link>http://theworldasastage.com/the-5-informations-every-figure-caption-should-have/</link>
+        <title>Setember 12th, 2018 : Dev Web Review</title>
+        <link>https://theworldasastage.com/dev/20180913-dev-web-review/</link>
         <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/the-5-informations-every-figure-caption-should-have/</guid>
+        <guid>https://theworldasastage.com/dev/20180913-dev-web-review/</guid>
+        <description>
+
+&lt;p&gt;Here are some excellent articles I read this week.&lt;/p&gt;
+
+&lt;h2 id=&#34;dataviz&#34;&gt;Dataviz&lt;/h2&gt;
+
+&lt;p&gt;An &lt;a href=&#34;https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1&#34;&gt;interesting article&lt;/a&gt; on how to make animated figures with Python. Not sure of the use case but good to know.&lt;/p&gt;
+
+&lt;p&gt;And since we are talking about figures, &lt;a href=&#34;https://towardsdatascience.com/storytelling-for-data-scientists-317c2723aa31&#34;&gt;another one&lt;/a&gt; about how to make your figure storytelling better. I also &lt;a href=&#34;https://theworldasastage.com/the-5-informations-every-figure-caption-should-have/&#34;&gt;wrote an article on what informations to put in every figure captions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally I discovered an awesome JS library for graphs : &lt;a href=&#34;https://www.anychart.com/&#34;&gt;AnyCharts&lt;/a&gt;. They have all kind of graphs, heatmaps, Gandt charts, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h2&gt;
+
+&lt;p&gt;Machine learning is used a lot to classify but way less for other applications. &lt;a href=&#34;https://hackernoon.com/key-point-detection-in-flower-images-using-deep-learning-66a06aadc765&#34;&gt;This article&lt;/a&gt; presents an exemple of the use of deep learning to find keypoints on flower images.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/deep-learning-studio-got-an-update-i-especially-liked-feature-1-cf53555e794d?source=rss----7f60cf5620c9---4&#34;&gt;Deep Learning Studio&lt;/a&gt; is a visual tool to build neural networks, train them and test them.&lt;/p&gt;
+
+&lt;h2 id=&#34;lol&#34;&gt;LOL&lt;/h2&gt;
+
+&lt;p&gt;Here is the testimony of the person who invented autocorrect on the original iPhone : &lt;a href=&#34;https://www.wired.com/story/opinion-i-invented-autocorrect/&#34;&gt;&amp;ldquo;I Invented the Iphone&amp;rsquo;s autocorrect. Sorry about that, and you&amp;rsquo;re welcome&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+   
+&lt;/style&gt;
+&lt;div id=&#34;mc_embed_signup&#34;&gt;
+&lt;form action=&#34;https://theworldasastage.us19.list-manage.com/subscribe/post?u=c05d187131e01c7607fa4ae0b&amp;amp;id=32885e90b3&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34; novalidate&gt;
+    &lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;
+  &lt;label for=&#34;mce-EMAIL&#34;&gt;
+    Subscribe to the newsletter to recieve new updates
+  &lt;/label&gt;
+  &lt;input type=&#34;email&#34; value=&#34;&#34; name=&#34;EMAIL&#34; class=&#34;email&#34; id=&#34;mce-EMAIL&#34; placeholder=&#34;email address&#34; required&gt;
+    
+    &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_c05d187131e01c7607fa4ae0b_32885e90b3&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;clear&#34;&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;input type=&#34;hidden&#34; value=&#34;dev-review&#34; name=&#34;SIGNUPWHY&#34; class=&#34;required&#34; id=&#34;mce-SIGNUPWHY&#34;&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+        <title>The 5 informations every figure caption should have</title>
+        <link>https://theworldasastage.com/the-5-informations-every-figure-caption-should-have/</link>
+        <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://theworldasastage.com/the-5-informations-every-figure-caption-should-have/</guid>
         <description>
 
 &lt;p&gt;Each time I receive a 10 pages document explaining a scientific work on our data with several figures, my first reflex is to scroll and look at all the pictures without reading any text. This is no different from not reading the manual when you buy a new phone: &lt;em&gt;we are smart enough to understand&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://theworldasastage.com/img/beeers.png&#34; alt=&#34;Beeers&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.com/img/beeers.png&#34; alt=&#34;Beeers&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is for sure the number of beers of each type produced each year since 2000.&lt;/p&gt;
 
@@ -753,11 +807,85 @@
     </item>
     
     <item>
+        <title>August 27th, 2018 : Dev Web Review</title>
+        <link>https://theworldasastage.com/dev/20180827-dev-web-review/</link>
+        <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://theworldasastage.com/dev/20180827-dev-web-review/</guid>
+        <description>
+
+&lt;h2 id=&#34;netflix-and-jupyter-notebooks&#34;&gt;Netflix and Jupyter Notebooks&lt;/h2&gt;
+
+&lt;p&gt;Working on data, we have sometimes very contradictory needs :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Being able to change views, to test new experiments very quicly&lt;/li&gt;
+&lt;li&gt;Follow precisely everything we do&lt;/li&gt;
+&lt;li&gt;Give the ability to most of people (particularly outside of tech team) to access and play with the data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All that make our data experiments quickly a mess. &lt;a href=&#34;https://medium.com/netflix-techblog/notebook-innovation-591ee3221233&#34;&gt;Netflix presents in this article&lt;/a&gt; how they use Jupyter Notebook to make their work more effective. A lot of ideas from their infrastructure are very inspiring.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning&#34;&gt;Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;coding-a-boardgame&#34;&gt;Coding a boardgame&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m a board game geek and &lt;a href=&#34;https://hackernoon.com/9-fascinating-things-i-learned-while-coding-up-the-rules-of-a-board-game-81df3330b938&#34;&gt;this article&lt;/a&gt; is a perfect encounter between board games and coding. Graham Lea present how he implemented Forbidden Island and the IA playing it and what he learned form it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.com/img/forbidden-island.jpg&#34; alt=&#34;Forbidden Island&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s very interesting to see, by the example, how hard to code a simple game can be.&lt;/p&gt;
+
+&lt;h3 id=&#34;dev-bad-habits&#34;&gt;Dev bad habits&lt;/h3&gt;
+
+&lt;p&gt;This &lt;a href=&#34;https://dev.to/lewismenelaws/bad-habits-developers-should-fix-53n9&#34;&gt;article&lt;/a&gt; presents some bad habits developers tend to gave and should try to avoid. As often, you take what you want from them but we can all learn something for sure!&lt;/p&gt;
+
+&lt;h3 id=&#34;data-visualisation&#34;&gt;Data visualisation&lt;/h3&gt;
+
+&lt;p&gt;Another funny experiment. &lt;a href=&#34;https://towardsdatascience.com/what-would-the-london-tube-map-look-like-if-data-scientists-designed-it-cfcc38bf2c76?source=rss----7f60cf5620c9---4&#34;&gt;Keith McNulty has tried to use classical datascientist approach to represent the metro of London&lt;/a&gt;. This is a very efficient way to show how hand craft visuallisation can be needed to make a representation be effective.&lt;/p&gt;
+
+&lt;h2 id=&#34;random-links&#34;&gt;Random links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/levivm/exposing-localhost-server-to-the-internet-in-one-minute-2713&#34;&gt;Make your web server accessible from internet in one minute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zen-of-programming.com/design/&#34;&gt;A little course on webdesign&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/statistical-learning-for-data-science-b61b263c1196&#34;&gt;A good article on statistical learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8&#34;&gt;The top 5 magic commands for jupyter notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/silver-gold-electrum-3-data-techniques-for-multi-task-deep-learning-2655004970a2&#34;&gt;How to make a multitask deep learning algorithm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+   
+&lt;/style&gt;
+&lt;div id=&#34;mc_embed_signup&#34;&gt;
+&lt;form action=&#34;https://theworldasastage.us19.list-manage.com/subscribe/post?u=c05d187131e01c7607fa4ae0b&amp;amp;id=32885e90b3&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34; novalidate&gt;
+    &lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;
+  &lt;label for=&#34;mce-EMAIL&#34;&gt;
+    Subscribe to the newsletter to recieve new updates
+  &lt;/label&gt;
+  &lt;input type=&#34;email&#34; value=&#34;&#34; name=&#34;EMAIL&#34; class=&#34;email&#34; id=&#34;mce-EMAIL&#34; placeholder=&#34;email address&#34; required&gt;
+    
+    &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_c05d187131e01c7607fa4ae0b_32885e90b3&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;clear&#34;&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;input type=&#34;hidden&#34; value=&#34;dev-review&#34; name=&#34;SIGNUPWHY&#34; class=&#34;required&#34; id=&#34;mce-SIGNUPWHY&#34;&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
         <title>August 20th, 2018 : Dev Web Review</title>
-        <link>http://theworldasastage.com/dev/20180820-dev-web-review/</link>
+        <link>https://theworldasastage.com/dev/20180820-dev-web-review/</link>
         <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/dev/20180820-dev-web-review/</guid>
+        <guid>https://theworldasastage.com/dev/20180820-dev-web-review/</guid>
         <description>
 
 &lt;p&gt;Here are some excellent articles I read this week.&lt;/p&gt;
@@ -766,7 +894,7 @@
 
 &lt;p&gt;A neverending question for a developer is &lt;em&gt;how to continue to learn with a full-time job?&lt;/em&gt;. This &lt;a href=&#34;https://dev.to/beznet/learning-code-while-working-a-full-time-job-365p&#34;&gt;article&lt;/a&gt; tries to answer this question.&lt;/p&gt;
 
-&lt;p&gt;Some ideas are perfect are they are simple to start and beneficial like the &lt;a href=&#34;http://theworldasastage.com/dev/code-log/&#34;&gt;coding log&lt;/a&gt; where you journal every day about what you learn in code. And it&amp;rsquo;s even better if this coding log is public since you can share with other your foundings, your questions, your practices.&lt;/p&gt;
+&lt;p&gt;Some ideas are perfect are they are simple to start and beneficial like the &lt;a href=&#34;https://theworldasastage.com/dev/code-log/&#34;&gt;coding log&lt;/a&gt; where you journal every day about what you learn in code. And it&amp;rsquo;s even better if this coding log is public since you can share with other your foundings, your questions, your practices.&lt;/p&gt;
 
 &lt;h2 id=&#34;data-science&#34;&gt;Data science&lt;/h2&gt;
 
@@ -778,7 +906,7 @@
 
 &lt;p&gt;Data visualization is storytelling. Unfortunately too many times, we don&amp;rsquo;t think on the story we are transmitting when we create a data visualization. &lt;a href=&#34;https://www.data-to-viz.com/caveats.html&#34;&gt;Data to viz&lt;/a&gt; is an incredible resource about how to do a data visualization and the common pitfalls to avoid. I highly recommend putting this one on your favorites. Here are 8 traps from the website as an example.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://theworldasastage.com/img/dev/data-visualization-pitfalls.png&#34; alt=&#34;Data vizualisation pitfalls&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.com/img/dev/data-visualization-pitfalls.png&#34; alt=&#34;Data vizualisation pitfalls&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;microservices-culture&#34;&gt;Microservices culture&lt;/h2&gt;
 
@@ -845,10 +973,10 @@
     
     <item>
         <title>The leader&#39;s feedback</title>
-        <link>http://theworldasastage.com/the-leaders-feedback/</link>
+        <link>https://theworldasastage.com/the-leaders-feedback/</link>
         <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/the-leaders-feedback/</guid>
+        <guid>https://theworldasastage.com/the-leaders-feedback/</guid>
         <description>
 
 &lt;p&gt;I recently read the &lt;a href=&#34;https://blog.knowyourcompany.com/announcing-a-guide-to-one-on-one-meetings-for-managers-and-employees-63d123a91db&#34;&gt;Guide to One to One Meetings&lt;/a&gt; by &lt;a href=&#34;https://blog.knowyourcompany.com/@clairejlew&#34;&gt;Claire Lew&lt;/a&gt; from &lt;a href=&#34;https://knowyourcompany.com/&#34;&gt;Know Your Company&lt;/a&gt;.&lt;/p&gt;
@@ -955,19 +1083,19 @@
     
     <item>
         <title>Creativity and programming languages</title>
-        <link>http://theworldasastage.com/creativity-and-programming-languages/</link>
+        <link>https://theworldasastage.com/creativity-and-programming-languages/</link>
         <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/creativity-and-programming-languages/</guid>
+        <guid>https://theworldasastage.com/creativity-and-programming-languages/</guid>
         <description>
 
 &lt;p&gt;Since the second half of the 20th century, we know that every language in which we can write a Turing Machine is a language with which we can write every single possible algorithm ever possible to write. Another way to say it is that for many years we know that all the programming language are equivalent, no one is able of more than any other, end of the story.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://theworldasastage.com/img/dropmic.gif&#34; alt=&#34;Drop mic&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.com/img/dropmic.gif&#34; alt=&#34;Drop mic&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As a consequence, we could live happily in a world where every programmer is using the same language to talk to machines, but it&amp;rsquo;s entirely not the case. &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_programming_languages&#34;&gt;According to Wikipedia&lt;/a&gt;, there are more than 700 languages (and with no doubt all programming language ever created is not on this page). And it&amp;rsquo;s only the &lt;em&gt;programming languages&lt;/em&gt;, we can add libraries that sometimes modify so much a programming language that you can&amp;rsquo;t recognize it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://theworldasastage.com/img/programminglang-timeline.jpg&#34; alt=&#34;Timeline of programming languages&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.com/img/programminglang-timeline.jpg&#34; alt=&#34;Timeline of programming languages&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Programming languages are actually the hidden place of considerable creativity. I love art, cinema, theater and it&amp;rsquo;s in this particular field that I&amp;rsquo;ve been the most surprised by all the new idea we can discover.&lt;/p&gt;
 
@@ -1009,7 +1137,7 @@
 
 &lt;p&gt;Some writers use their medium to the limit. As if limited by their own language, they invent a new one. In &lt;a href=&#34;https://www.amazon.com/Horde-Contrevent-Sc-Fiction-French-ebook/dp/B01A6X03EI/ref=sr_1_1?ie=UTF8&amp;amp;qid=1534544565&amp;amp;sr=8-1&amp;amp;keywords=damasio+horde&#34;&gt;La horde du contrevent&lt;/a&gt;, Alain Damasio invents a syntax to describe the wind. With commas, parenthesis and other signs, we can see the wind move, hit and kill on the pages of the book.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://theworldasastage.com/img/horde.jpg&#34; alt=&#34;La horde du contrevent&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.com/img/horde.jpg&#34; alt=&#34;La horde du contrevent&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Artists have in every epoch ask the question a programmer starts with: what is the best way to tell my story?&lt;/p&gt;
 
@@ -1176,10 +1304,10 @@ your mind!
     
     <item>
         <title>Humble and Demanding</title>
-        <link>http://theworldasastage.com/humble-and-demanding/</link>
+        <link>https://theworldasastage.com/humble-and-demanding/</link>
         <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/humble-and-demanding/</guid>
+        <guid>https://theworldasastage.com/humble-and-demanding/</guid>
         <description>
 
 &lt;p&gt;Yesterday lunch, you were eating your usual sandwich with this fantastic ham and cheese. You were so &lt;strong&gt;real&lt;/strong&gt; eating this meal.&lt;/p&gt;
@@ -1234,7 +1362,7 @@ your mind!
 &lt;p&gt;&lt;em&gt;Again! Productions&lt;/em&gt; teachers of the workshop, &lt;a href=&#34;https://www.ianparizot.com/&#34;&gt;Ian Parizot&lt;/a&gt; &amp;amp;
 Emmanuel De Chavigny, have an educational background in theater in addition to their improvisation training and experience. It makes their workshop (and their courses) rigorous and highly demanding. I don&amp;rsquo;t think I&amp;rsquo;ve ever met another group that sets such high standards in improv as they do. The teachers expect a lot from you and this pushed me further to improve as an improviser.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://theworldasastage.com/img/again-2017.jpg&#34; alt=&#34;Crédit photo : Luis-carlos Davila&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.com/img/again-2017.jpg&#34; alt=&#34;Crédit photo : Luis-carlos Davila&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It seems that &lt;em&gt;Again! Productions&lt;/em&gt; vision is that improvisational theater doesn&amp;rsquo;t need to be a subculture comparing to classical theater and that a good improv show can bring you just as much emotions, story and beautiful ideas.&lt;/p&gt;
 

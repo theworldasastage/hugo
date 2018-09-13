@@ -1,4 +1,4 @@
-baseURL = "http://theworldasastage.com/"
+baseURL = "https://theworldasastage.com/"
 theme           = "casper-two"
 languageCode = "en-us"
 disqusShortname = "the-world-as-a-stage"

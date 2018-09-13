@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
     <title>Learning Code on The world as a stage</title>
-    <link>http://theworldasastage.com/tags/learning-code/</link>
+    <link>https://theworldasastage.com/tags/learning-code/</link>
     <description>Recent content in Learning Code on The world as a stage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://theworldasastage.com/tags/learning-code/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://theworldasastage.com/tags/learning-code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
         <title>August 20th, 2018 : Dev Web Review</title>
-        <link>http://theworldasastage.com/dev/20180820-dev-web-review/</link>
+        <link>https://theworldasastage.com/dev/20180820-dev-web-review/</link>
         <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://theworldasastage.com/dev/20180820-dev-web-review/</guid>
+        <guid>https://theworldasastage.com/dev/20180820-dev-web-review/</guid>
         <description>
 
 &lt;p&gt;Here are some excellent articles I read this week.&lt;/p&gt;
@@ -25,7 +25,7 @@
 
 &lt;p&gt;A neverending question for a developer is &lt;em&gt;how to continue to learn with a full-time job?&lt;/em&gt;. This &lt;a href=&#34;https://dev.to/beznet/learning-code-while-working-a-full-time-job-365p&#34;&gt;article&lt;/a&gt; tries to answer this question.&lt;/p&gt;
 
-&lt;p&gt;Some ideas are perfect are they are simple to start and beneficial like the &lt;a href=&#34;http://theworldasastage.com/dev/code-log/&#34;&gt;coding log&lt;/a&gt; where you journal every day about what you learn in code. And it&amp;rsquo;s even better if this coding log is public since you can share with other your foundings, your questions, your practices.&lt;/p&gt;
+&lt;p&gt;Some ideas are perfect are they are simple to start and beneficial like the &lt;a href=&#34;https://theworldasastage.com/dev/code-log/&#34;&gt;coding log&lt;/a&gt; where you journal every day about what you learn in code. And it&amp;rsquo;s even better if this coding log is public since you can share with other your foundings, your questions, your practices.&lt;/p&gt;
 
 &lt;h2 id=&#34;data-science&#34;&gt;Data science&lt;/h2&gt;
 
@@ -37,7 +37,7 @@
 
 &lt;p&gt;Data visualization is storytelling. Unfortunately too many times, we don&amp;rsquo;t think on the story we are transmitting when we create a data visualization. &lt;a href=&#34;https://www.data-to-viz.com/caveats.html&#34;&gt;Data to viz&lt;/a&gt; is an incredible resource about how to do a data visualization and the common pitfalls to avoid. I highly recommend putting this one on your favorites. Here are 8 traps from the website as an example.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://theworldasastage.com/img/dev/data-visualization-pitfalls.png&#34; alt=&#34;Data vizualisation pitfalls&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.com/img/dev/data-visualization-pitfalls.png&#34; alt=&#34;Data vizualisation pitfalls&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;microservices-culture&#34;&gt;Microservices culture&lt;/h2&gt;
 

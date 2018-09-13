@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+    <title>Notebook on The world as a stage</title>
+    <link>https://theworldasastage.com/tags/notebook/</link>
+    <description>Recent content in Notebook on The world as a stage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://theworldasastage.com/tags/notebook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+        <title>August 27th, 2018 : Dev Web Review</title>
+        <link>https://theworldasastage.com/dev/20180827-dev-web-review/</link>
+        <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://theworldasastage.com/dev/20180827-dev-web-review/</guid>
+        <description>
+
+&lt;h2 id=&#34;netflix-and-jupyter-notebooks&#34;&gt;Netflix and Jupyter Notebooks&lt;/h2&gt;
+
+&lt;p&gt;Working on data, we have sometimes very contradictory needs :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Being able to change views, to test new experiments very quicly&lt;/li&gt;
+&lt;li&gt;Follow precisely everything we do&lt;/li&gt;
+&lt;li&gt;Give the ability to most of people (particularly outside of tech team) to access and play with the data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All that make our data experiments quickly a mess. &lt;a href=&#34;https://medium.com/netflix-techblog/notebook-innovation-591ee3221233&#34;&gt;Netflix presents in this article&lt;/a&gt; how they use Jupyter Notebook to make their work more effective. A lot of ideas from their infrastructure are very inspiring.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning&#34;&gt;Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;coding-a-boardgame&#34;&gt;Coding a boardgame&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m a board game geek and &lt;a href=&#34;https://hackernoon.com/9-fascinating-things-i-learned-while-coding-up-the-rules-of-a-board-game-81df3330b938&#34;&gt;this article&lt;/a&gt; is a perfect encounter between board games and coding. Graham Lea present how he implemented Forbidden Island and the IA playing it and what he learned form it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://theworldasastage.com/img/forbidden-island.jpg&#34; alt=&#34;Forbidden Island&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s very interesting to see, by the example, how hard to code a simple game can be.&lt;/p&gt;
+
+&lt;h3 id=&#34;dev-bad-habits&#34;&gt;Dev bad habits&lt;/h3&gt;
+
+&lt;p&gt;This &lt;a href=&#34;https://dev.to/lewismenelaws/bad-habits-developers-should-fix-53n9&#34;&gt;article&lt;/a&gt; presents some bad habits developers tend to gave and should try to avoid. As often, you take what you want from them but we can all learn something for sure!&lt;/p&gt;
+
+&lt;h3 id=&#34;data-visualisation&#34;&gt;Data visualisation&lt;/h3&gt;
+
+&lt;p&gt;Another funny experiment. &lt;a href=&#34;https://towardsdatascience.com/what-would-the-london-tube-map-look-like-if-data-scientists-designed-it-cfcc38bf2c76?source=rss----7f60cf5620c9---4&#34;&gt;Keith McNulty has tried to use classical datascientist approach to represent the metro of London&lt;/a&gt;. This is a very efficient way to show how hand craft visuallisation can be needed to make a representation be effective.&lt;/p&gt;
+
+&lt;h2 id=&#34;random-links&#34;&gt;Random links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/levivm/exposing-localhost-server-to-the-internet-in-one-minute-2713&#34;&gt;Make your web server accessible from internet in one minute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zen-of-programming.com/design/&#34;&gt;A little course on webdesign&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/statistical-learning-for-data-science-b61b263c1196&#34;&gt;A good article on statistical learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8&#34;&gt;The top 5 magic commands for jupyter notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/silver-gold-electrum-3-data-techniques-for-multi-task-deep-learning-2655004970a2&#34;&gt;How to make a multitask deep learning algorithm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+   
+&lt;/style&gt;
+&lt;div id=&#34;mc_embed_signup&#34;&gt;
+&lt;form action=&#34;https://theworldasastage.us19.list-manage.com/subscribe/post?u=c05d187131e01c7607fa4ae0b&amp;amp;id=32885e90b3&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34; novalidate&gt;
+    &lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;
+  &lt;label for=&#34;mce-EMAIL&#34;&gt;
+    Subscribe to the newsletter to recieve new updates
+  &lt;/label&gt;
+  &lt;input type=&#34;email&#34; value=&#34;&#34; name=&#34;EMAIL&#34; class=&#34;email&#34; id=&#34;mce-EMAIL&#34; placeholder=&#34;email address&#34; required&gt;
+    
+    &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_c05d187131e01c7607fa4ae0b_32885e90b3&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;clear&#34;&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;input type=&#34;hidden&#34; value=&#34;dev-review&#34; name=&#34;SIGNUPWHY&#34; class=&#34;required&#34; id=&#34;mce-SIGNUPWHY&#34;&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    </channel>
+</rss>
