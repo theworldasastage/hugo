@@ -8,14 +8,13 @@ tags: ["podcast","tech","dev","tutorial"]
 draft: true
 ---
 
+With [Podcast Science](http://podcastscience.fm), I host, record and broadcast a popular science podcast in French every week since 2010. We had a lot of trial and error to establish a setup that allowed us to : 
 
-With friends at [Podcast Science](http://podcastscience.fm), I host, record and broadcast a popular science podcast in French every week since 2010. We had a lot of trial and error to establish a setup that allowed us to : 
-
-- Host and record a podcast with participants in different places
+- Host and record a podcast with participants in different places (we have people every week from France, Switzerland, Spain and US)
 - Broadcast it live
-- Play sounds and Jingle
+- Play sounds and jingles
 
-Here is a tutorial to do the same setup as us.
+Here is a fully detailed step-by-step tutorial with animated gif on how to setup your computer to make it a real live podcast studio!
 
 ## Configuration
 
@@ -26,12 +25,12 @@ To use our setup you must use a __Mac__ since we couldn't find any equivalents o
 - [Skype](https://skype.com) (0$ ) or any other audio communication tool like [Discord](https://discordapp.com/) (0$ ) , [Appear](https://appear.in) (0$ ), etc.
 - [Farrago](https://rogueamoeba.com/farrago/) (39$ ) to play jingles. You can also use any other software that can play a sound like [iTunes](https://itunes.apple.com/) (0$ ) or [Spotify](http://spotify.com) (0$ )
 
-As you may have notice, all the paid applications we use come from Rogue Amobea, in our experience these app are the most reliable we've found (and you'll hate to have a technical problem when you start your live podcast...).
+As you may have noticed, all the paid applications we use come from Rogue Amoeba, in our experience these app are the most reliable we've found (and you'll hate to have a technical problem when you start your live podcast...).
 
 so if you want several of them you can buy bundles : 
 
 - Audio Hijack and Loopback bundle for 130$
-- The Ultimate Podcast Bundle for 170$ (with another app called Fission which is perfect to edit the metadatas of a MP3 before posting it on your feed).
+- The Ultimate Podcast Bundle for 170$ (with another app called Fission which is perfect to edit the meta data of a MP3 before posting it on your feed).
 
 You also need a Mic. For one person, [Zoom H2N](https://www.amazon.com/Zoom-H2N-H2n-Handy-Recorder/dp/B005CQ2ZY6?keywords=zoom+H2&qid=1536820944&s=Musical+Instruments&sr=1-4&ref=sr_1_4) (170$ ) or [Blue Yeti](https://www.amazon.com/Blue-Yeti-USB-Microphone-Blackout/dp/B00N1YPXW2?keywords=yeti+blue&qid=1536820897&sr=8-5&ref=sr_1_5) (130$, often discounted on Amazon) are very good options.
 
@@ -59,7 +58,7 @@ First we'll add the mics (1 in the figure). To do that click open the source lib
 
 ![](/img/podcast/tutorial-3.gif)
 
-Now you have to configure your source to connect it to your mic. Clic on the mic you just added to make the menu "Audio Source" appear. If you use the internal mic of your Mac, no more configuration to do. But if you use a more complex mic you should open the "Advanced" part on the menu to select which sources you exactly want.
+Now you have to configure your source to connect it to your mic. Click on the mic you just added to make the menu "Audio Source" appear. If you use the internal mic of your Mac, no more configuration to do. But if you use a more complex mic you should open the "Advanced" part on the menu to select which sources you exactly want.
 
 ![](/img/podcast/tutorial-4.png)
 
@@ -75,7 +74,7 @@ Be very careful that, as in the example, your recorders are connected to only __
 
 <img src="/img/podcast/tutorial-7.png" width="50%">
 
-Now you need to configure your recorder. As for the input device, clic on each recorder element to configure it. If you plan on editing your podcast, don't pick MP3 for the format as it's compressed. At PodcastScience, our recorders have the following configuration : 
+Now you need to configure your recorder. As for the input device, click on each recorder element to configure it. If you plan on editing your podcast, don't pick MP3 for the format as it's compressed. At PodcastScience, our recorders have the following configuration : 
 
 - Quality : custom
 - Format : Wav
@@ -97,26 +96,26 @@ In Audio Hijack, add an "Output Device" to the main window. Move it so that it's
 
 No you need to be sure that Skype uses this new input. You have to go in the preference panel of Skype and pick "Loopback audio" as the input. I don't put any capture of Skype interface in this post since Skype loves to change its interface every other month.
 
-__First Test!__ Your configuration is not finished but you can start testing it : Talk with our mic and check if someone we call on Skype can hear usd that we record an (and if you are alone you can call the Skype test call). To do that, click on the red button (__As long as the red button is not clicked, nothing is recorded and you can't be heard__) and then call your friend on Skype. You should see the "tubes" on Audio Hijack become orange as you speak.
+__First Test!__ Your configuration is not finished but you can start testing it : Talk with our mic and check if someone you call on Skype can hear you and that you get a record (and if you are alone you can call the Skype test call). To do that, click on the red button (__As long as you don't click the red button, nothing will be recorded and you won't be heard__) and then call your friend on Skype. You should see the "tubes" on Audio Hijack become orange as you speak.
 
 ![](/img/podcast/tutorial-10.gif)
 
-If your friend can hear you, this is a good news (be sure he hear you from the good mic...).
+If your friend can hear you, this is good news (be sure he hear you from the mic you want to test).
 
-Now let's check the recorded files. To find them, click on "Recordings", then
+Now let's check the recorded files. To find them, click on "Recordings," then
 "Actions" and finally "Reveal in Finder" to open a Finder window on the folder of your recordings. You should have one file per recorder. If you can find the find and hear your voice, that's a win!
 
 ![](/img/podcast/tutorial-11.gif)
 
 We still need to record the voice of the people on Skype. To do that we'll build a parallel configuration on the same Audio Hijack window.
 
-In the source library, pick "Application" and drag it to the main window __without connecting it to anything__. Click on it and pick "Skype". In "Advanced", uncheck "Include Audio Input" (You already record the audio input so you don't need it a second time).
+In the source library, pick "Application" and drag it to the main window __without connecting it to anything__. Click on it and pick "Skype." In "Advanced," uncheck "Include Audio Input" (You already record the audio input so you don't need it a second time).
 
 ![](/img/podcast/tutorial-12.gif)
 
-And, as before, you need to add a "Recorder" (with the same config as before) to record what comes from Skype. 
+You need now to add a "Recorder" (with the same config as before) to record what comes from Skype. 
 
-If you stop here, you won't hear anything anymore on Skype because the sound of Skype is captured by Audio Hijack. You have to add a new "Output Device" with your headset to get the output again.
+If you stop here, you won't hear anything anymore on Skype because Audio Hijack captures the sound of Skype. You have to add a new "Output Device" with your headset to get the output again.
 
 ![](/img/podcast/tutorial-13.gif)
 
@@ -132,22 +131,22 @@ Here are the link between the initial figure and your configuration.
 
 ## Jingles!
 
-To be able to play sounds in a configuration like Podcast Science (several people in different places) with only one computer is way more complicated than it seems. But hopefully Audio Hijack makes this again quite easy. 
+To be able to play sounds in a configuration like Podcast Science (several people in different places) with only one computer is way more complicated than it seems. However, hopefully, Audio Hijack makes this smooth. 
 
-The main issue is that we want the sounds to be heard by us _and_ the other people on Skype. And, we don't want to hear our own voice in the mic (which is also a Skype input). So we'll have to add the sounds in our setup twice : once for us, and once for the people remote.
+The main issue is that we want the sounds to be heard by us _and_ the other people on Skype. Moreover, we don't want to hear our own voice in the mic (which is also a Skype input). So we'll have to add the sounds in our setup twice: once for us, and once for the people remote.
 
-You can play your jingles from any app, I'll use Farrago because it's a very convenient tool to play quick sounds when you need them.
+You can play your jingles from any app; I'll use Farrago because it's a very convenient tool to play quick sounds when you need them.
 
 So, in Audio Hijack, you'll create two "Application" sources : 
 
-- the first one is connected to Loopback (to go in Skype)
-- the second one is connected to our headset
+- the first one connects to Loopback (to go in Skype)
+- the second one connects to our headset
 
-Note that I don't connect Farrago to the recorders since I don't want to record them, I'll add them directly in the editing for a better sound quality.
+Note that I don't connect Farrago to the recorders since I don't want to record them, I'll add them directly in the editing for better sound quality.
 
 ![](/img/podcast/tutorial-16.gif)
 
-You have two "Farrago" boxes but they represent the same application, this is where the magic of Audio Hijack occurs. If you play a sound and start recording you should see the tubes become orange again.
+You have two "Farrago" boxes, but they represent the same application, this is where the magic of Audio Hijack occurs. If you play a sound and start recording, you should see the tubes become orange again.
 
 ![](/img/podcast/tutorial-17.gif)
 
@@ -161,15 +160,25 @@ This is our final configuration (without broadcast) for Podcast Science.
 
 ## Live broadcast
 
+Last and easiest step: Live Broadcast. Audio Hijack (still him) can also manage the broadcast as soon as you use a [Icecast](http://icecast.org/) (We rent ours on [Infomaniak](https://www.infomaniak.com/fr)).
+
+To add a broadcast to your configuration, you need to add a new "Skype Application" block and a "Broadcast" block.
+
+![](/img/podcast/tutorial-19.gif)
+
+You then have to configure these two blocks. For Skype, no configuration should be required (be sure that "include audio input" is checked under the advanced panel). On the broadcast block, your configuration depends on your Icecast server, only the setup part is very important, the metadata part is for display only.
+
+Some options will still be similar : 
+
+- Port : 8000
+- Encoding format : Custom
+    + Format : MP3
+    + Bit rate : 96kbps
+    + Bit rate mode : constant bitrate
+    + Sample rate : 44100 Hz
+    + Channels : Stereo
 
 
+This is it! You know how to host, record and broadcast a podcast. If you have any comments on this procedure, feel free to share them on the comments below! 
 
-
-
-
-
-
-
-
-
-
+{{< partial "mailing-with-tag" "Subscribe to my newsletter to receive my next articles!" "podcast">}}
