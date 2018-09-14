@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en-us" />
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>Tutorial : How to host, record and broadcast a podcast with distributed members &middot; The world as a stage</title>
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://theworldasastage.com/favicon.ico" />
+    <link rel="canonical" href="https://theworldasastage.com/tutorial--how-to-host-record-and-broadcast-a-podcast-with-distributed-members/" />
+
+     <meta name="description" content="With Podcast Science, I host, record and broadcast a popular science podcast in French every week since 2010. We had a lot of trial and error to establish a set" /> 
+
+     
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image" content="https://theworldasastage.com/img/podcast.jpg"/>
+    
+ 
+    <meta name="twitter:title" content="Tutorial : How to host, record and broadcast a podcast with distributed members"/>
+    <meta name="twitter:description" content="With Podcast Science, I host, record and broadcast a popular science podcast in French every week since 2010. We had a lot of trial and error to establish a set"/>
+    <meta name="twitter:url" content="https://theworldasastage.com/tutorial--how-to-host-record-and-broadcast-a-podcast-with-distributed-members/" />
+    <meta name="twitter:site" content="@nicotupe"/>
+
+    <meta property="og:site_name" content="The world as a stage" />
+    <meta property="og:title" content="Tutorial : How to host, record and broadcast a podcast with distributed members &middot; The world as a stage" />
+    <meta property="og:url" content="https://theworldasastage.com/tutorial--how-to-host-record-and-broadcast-a-podcast-with-distributed-members/" />
+    <meta property="article:publisher" content="https://www.facebook.com/nicotupe" />
+
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="With Podcast Science, I host, record and broadcast a popular science podcast in French every week since 2010. We had a lot of trial and error to establish a set" />
+
+    <meta property="article:published_time" content="2018-09-14T00:00:00Z" />
+    <meta property="article:tag" content="podcast" /><meta property="article:tag" content="dev" /><meta property="article:tag" content="tutorial" />
+
+    <meta property="og:image" content="https://theworldasastage.com/img/podcast.jpg"/>
+
+
+    <meta name="generator" content="Hugo 0.47" />
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="https://theworldasastage.com/built/screen.css" /> 
+    <link rel="stylesheet" type="text/css" href="https://theworldasastage.com/css/casper-two.css" /> 
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css" />
+     <link rel="stylesheet" href="https://theworldasastage.com/overrides.css" />  <link rel="stylesheet" href="https://theworldasastage.com/syntax.css" /> 
+
+     
+
+
+    
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:984434,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"c05d187131e01c7607fa4ae0b","lid":"32885e90b3"}) })</script>
+
+</head>
+
+
+<body class="post-template">
+  <div class="site-wrapper"> 
+
+<header class="site-header outer">
+  <div class="inner">
+    <nav class="site-nav">
+      <div class="site-nav-left">
+
+        <ul class="nav" role="menu">
+        
+        
+        
+            <li class="" role="menuitem">
+              <a href="/">Home</a>
+            </li>
+        
+            <li class="" role="menuitem">
+              <a href="/about/">About me</a>
+            </li>
+        
+            <li class="" role="menuitem">
+              <a href="/reading-list/">Reading list</a>
+            </li>
+        
+            <li class="" role="menuitem">
+              <a href="/dev/">Dev</a>
+            </li>
+        
+            <li class="" role="menuitem">
+              <a href="/tags/books/">Books</a>
+            </li>
+        
+      </ul></div>
+
+      <div class="site-nav-right">
+        <div class="social-links">
+                    <a class="social-link social-link-fb" href="https://www.facebook.com/nicotupe" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg></a>
+
+                    <a class="social-link social-link-tw" href="https://twitter.com/nicotupe" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg></a>
+
+                    <a class="social-link" href="https://github.com/bcoulange" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
+
+                    <a class="social-link" href="https://www.linkedin.com/in/baptiste-coulange" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 50 512 512"><path d="M150.65,100.682c0,27.992-22.508,50.683-50.273,50.683c-27.765,0-50.273-22.691-50.273-50.683 C50.104,72.691,72.612,50,100.377,50C128.143,50,150.65,72.691,150.65,100.682z M143.294,187.333H58.277V462h85.017V187.333z M279.195,187.333h-81.541V462h81.541c0,0,0-101.877,0-144.181c0-38.624,17.779-61.615,51.807-61.615 c31.268,0,46.289,22.071,46.289,61.615c0,39.545,0,144.181,0,144.181h84.605c0,0,0-100.344,0-173.915 s-41.689-109.131-99.934-109.131s-82.768,45.369-82.768,45.369V187.333z" /></svg></a>
+
+                    <a class="social-link" href="https://medium.com/@nicotupe" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 195"><path d="M46.5340803,65.2157554 C46.6968378,63.6076572 46.0836,62.018231 44.8828198,60.93592 L32.6512605,46.2010582 L32.6512605,44 L70.6302521,44 L99.9859944,108.380952 L125.794585,44 L162,44 L162,46.2010582 L151.542017,56.2281011 C150.640424,56.9153477 150.193188,58.0448862 150.380019,59.1628454 L150.380019,132.837155 C150.193188,133.955114 150.640424,135.084652 151.542017,135.771899 L161.755369,145.798942 L161.755369,148 L110.38282,148 L110.38282,145.798942 L120.963119,135.527337 C122.002801,134.487948 122.002801,134.182246 122.002801,132.592593 L122.002801,73.0417402 L92.585901,147.755438 L88.6106443,147.755438 L54.3622782,73.0417402 L54.3622782,123.115814 C54.0767278,125.221069 54.7759199,127.3406 56.2581699,128.863022 L70.0186741,145.55438 L70.0186741,147.755438 L31,147.755438 L31,145.55438 L44.7605042,128.863022 C46.2319621,127.338076 46.8903838,125.204485 46.5340803,123.115814 L46.5340803,65.2157554 Z"/></svg></a>
+        </div>  
+        
+        <a class="subscribe-button" href="https://theworldasastage.com/index.xml">RSS</a>
+            
+      </div>
+
+    </nav>  
+
+  </div>
+</header>
+
+<main id="site-main" class="site-main outer" role="main">
+  <div class="inner">
+    
+      <article class="post-full post"> 
+    <header class="post-full-header">
+        <section class="post-full-meta">
+            <time class="post-full-meta-date" datetime="2018-09-14">14 September 2018</time>
+                <span class="date-divider">/</span> <a href="https://theworldasastage.com/tags/podcast/">#podcast</a>&nbsp;<a href="https://theworldasastage.com/tags/dev/">#dev</a>&nbsp;<a href="https://theworldasastage.com/tags/tutorial/">#tutorial</a>&nbsp;
+        </section>
+        <h1 class="post-full-title">Tutorial : How to host, record and broadcast a podcast with distributed members</h1>
+    </header>
+    
+    <figure class="post-full-image" style="background-image: url(https://theworldasastage.com/img/podcast.jpg)">
+    </figure>
+
+    <section class="post-full-content">
+        <div class="kg-card-markdown">
+        
+
+<p>With <a href="http://podcastscience.fm">Podcast Science</a>, I host, record and broadcast a popular science podcast in French every week since 2010. We had a lot of trial and error to establish a setup that allowed us to :</p>
+
+<ul>
+<li>Host and record a podcast with participants in different places (we have people every week from France, Switzerland, Spain and US)</li>
+<li>Broadcast it live</li>
+<li>Play sounds and jingles</li>
+</ul>
+
+<p>Here is a fully detailed step-by-step tutorial with animated gif on how to setup your computer to make it a real live podcast studio!</p>
+
+<h2 id="configuration">Configuration</h2>
+
+<p>To use our setup you must use a <strong>Mac</strong> since we couldn&rsquo;t find any equivalents of the main softwares we need. You need to get the following softwares (they all have a trial version) :</p>
+
+<ul>
+<li><a href="https://rogueamoeba.com/audiohijack/">Audio Hijack</a> (59$) to do about everything, this is <em>THE</em> mandatory element of our setup. This software is awesome.</li>
+<li><a href="https://rogueamoeba.com/loopback/">Loopback</a> ( 99$ ) to be able to connect audio as you want, this is also mandatory and I don&rsquo;t know any free equivalent (<a href="https://rogueamoeba.com/freebies/soundflower/">Soundflower</a> was doing the job for free but seems dead).</li>
+<li><a href="https://skype.com">Skype</a> (0$ ) or any other audio communication tool like <a href="https://discordapp.com/">Discord</a> (0$ ) , <a href="https://appear.in">Appear</a> (0$ ), etc.</li>
+<li><a href="https://rogueamoeba.com/farrago/">Farrago</a> (39$ ) to play jingles. You can also use any other software that can play a sound like <a href="https://itunes.apple.com/">iTunes</a> (0$ ) or <a href="http://spotify.com">Spotify</a> (0$ )</li>
+</ul>
+
+<p>As you may have noticed, all the paid applications we use come from Rogue Amoeba, in our experience these app are the most reliable we&rsquo;ve found (and you&rsquo;ll hate to have a technical problem when you start your live podcast&hellip;).</p>
+
+<p>so if you want several of them you can buy bundles :</p>
+
+<ul>
+<li>Audio Hijack and Loopback bundle for 130$</li>
+<li>The Ultimate Podcast Bundle for 170$ (with another app called Fission which is perfect to edit the meta data of a MP3 before posting it on your feed).</li>
+</ul>
+
+<p>You also need a Mic. For one person, <a href="https://www.amazon.com/Zoom-H2N-H2n-Handy-Recorder/dp/B005CQ2ZY6?keywords=zoom+H2&amp;qid=1536820944&amp;s=Musical+Instruments&amp;sr=1-4&amp;ref=sr_1_4">Zoom H2N</a> (170$ ) or <a href="https://www.amazon.com/Blue-Yeti-USB-Microphone-Blackout/dp/B00N1YPXW2?keywords=yeti+blue&amp;qid=1536820897&amp;sr=8-5&amp;ref=sr_1_5">Blue Yeti</a> (130$, often discounted on Amazon) are very good options.</p>
+
+<h2 id="hosting-and-recording">Hosting and recording</h2>
+
+<p>The first step is to make the podcast happen : to be able to talk to other folks and to record the conversation.</p>
+
+<p>If you are alone in your podcast, there are a lot of easier configurations but the one I&rsquo;m presenting here will allow you to do much more :</p>
+
+<ul>
+<li>You will be able to host a podcast with several people (at your home or online)</li>
+<li>You will be able to play jingles (next part)</li>
+<li>You will be able to broadcast (last part)</li>
+</ul>
+
+<p>We&rsquo;ll use Audio Hijack and our objective is to create a configuration similar to the one below.</p>
+
+<p><img src="/img/podcast/tutorial-1.jpg" width="50%"/></p>
+
+<p>We&rsquo;ll have one or several mics (1) that we will record in different files (2). All these voices will be sent in Skype (3) so that the other podcast member online we hear us. We&rsquo;ll get the voice of the other people through Skype to record it (4) and finally make us able to hear them (5).</p>
+
+<p>Audio Hijack allows you to do all that almost as easily as the figure. First open the software and go to <code>Session &gt; New Session</code> (Cmd+N). You will have a new window asking for the kind of Session you want to create, pick &ldquo;New Blank Session&rdquo;.</p>
+
+<p><img src="/img/podcast/tutorial-2.jpg" alt="" /></p>
+
+<p>First we&rsquo;ll add the mics (1 in the figure). To do that click open the source library (by clicking on &ldquo;show library&rdquo; if it&rsquo;s closed). Pick the source &ldquo;Input device&rdquo;, click and drag it anywhere in the main window as in the gif below.</p>
+
+<p><img src="/img/podcast/tutorial-3.gif" alt="" /></p>
+
+<p>Now you have to configure your source to connect it to your mic. Click on the mic you just added to make the menu &ldquo;Audio Source&rdquo; appear. If you use the internal mic of your Mac, no more configuration to do. But if you use a more complex mic you should open the &ldquo;Advanced&rdquo; part on the menu to select which sources you exactly want.</p>
+
+<p><img src="/img/podcast/tutorial-4.png" alt="" /></p>
+
+<p>Use the same method to add as many inputs as you need for each mic you have. In this example I have two inputs.</p>
+
+<p><img src="/img/podcast/tutorial-5.png" alt="" /></p>
+
+<p>Now we need a recorder to record our audio. As for the input, click and drag on the recorder to add it on the main window and connect the &ldquo;Recorders&rdquo; to the inputs as presented in the gif.</p>
+
+<p><img src="/img/podcast/tutorial-6.gif" alt="" /></p>
+
+<p>Be very careful that, as in the example, your recorders are connected to only <strong>one</strong> input. The connexion is the little &ldquo;tube&rdquo; between the square elements.</p>
+
+<p><img src="/img/podcast/tutorial-7.png" width="50%"></p>
+
+<p>Now you need to configure your recorder. As for the input device, click on each recorder element to configure it. If you plan on editing your podcast, don&rsquo;t pick MP3 for the format as it&rsquo;s compressed. At PodcastScience, our recorders have the following configuration :</p>
+
+<ul>
+<li>Quality : custom</li>
+<li>Format : Wav</li>
+<li>Type : 24bits</li>
+<li>Sample Rate : Auto</li>
+<li>Channels : Mono (our mics are mono, if yours are stereo, pick stereo)</li>
+</ul>
+
+<p>The configuration process is illustrated by the gif below.</p>
+
+<p><img src="/img/podcast/tutorial-8.gif" alt="" /></p>
+
+<p>So now we have mics that we record (yay!), we still have to send this voices to skype so your friends can hear you. In an ideal world, we should be able to open Skype and pick &ldquo;Audio Hijack&rdquo; as a source but this is impossible&hellip; Here come the need of Loopback.</p>
+
+<p>As soon as you installed Loopback, you should have a new window open, <strong>you have nothing to configure here</strong>, close it and go back to Audio Hijack. Loopback is like a virtual cable, so instead of connecting directly Audio Hijack to Skype you do it through Loopback : You first connect Audio Hijack to Loopback and then Loopback to Skype.</p>
+
+<p>In Audio Hijack, add an &ldquo;Output Device&rdquo; to the main window. Move it so that it&rsquo;s connected to all your inputs&rsquo; recorders. Then click on it to configure it and pick &ldquo;Loopback Audio&rdquo;. All this is presented in the gif below.</p>
+
+<p><img src="/img/podcast/tutorial-9.gif" alt="" /></p>
+
+<p>No you need to be sure that Skype uses this new input. You have to go in the preference panel of Skype and pick &ldquo;Loopback audio&rdquo; as the input. I don&rsquo;t put any capture of Skype interface in this post since Skype loves to change its interface every other month.</p>
+
+<p><strong>First Test!</strong> Your configuration is not finished but you can start testing it : Talk with our mic and check if someone you call on Skype can hear you and that you get a record (and if you are alone you can call the Skype test call). To do that, click on the red button (<strong>As long as you don&rsquo;t click the red button, nothing will be recorded and you won&rsquo;t be heard</strong>) and then call your friend on Skype. You should see the &ldquo;tubes&rdquo; on Audio Hijack become orange as you speak.</p>
+
+<p><img src="/img/podcast/tutorial-10.gif" alt="" /></p>
+
+<p>If your friend can hear you, this is good news (be sure he hear you from the mic you want to test).</p>
+
+<p>Now let&rsquo;s check the recorded files. To find them, click on &ldquo;Recordings,&rdquo; then
+&ldquo;Actions&rdquo; and finally &ldquo;Reveal in Finder&rdquo; to open a Finder window on the folder of your recordings. You should have one file per recorder. If you can find the find and hear your voice, that&rsquo;s a win!</p>
+
+<p><img src="/img/podcast/tutorial-11.gif" alt="" /></p>
+
+<p>We still need to record the voice of the people on Skype. To do that we&rsquo;ll build a parallel configuration on the same Audio Hijack window.</p>
+
+<p>In the source library, pick &ldquo;Application&rdquo; and drag it to the main window <strong>without connecting it to anything</strong>. Click on it and pick &ldquo;Skype.&rdquo; In &ldquo;Advanced,&rdquo; uncheck &ldquo;Include Audio Input&rdquo; (You already record the audio input so you don&rsquo;t need it a second time).</p>
+
+<p><img src="/img/podcast/tutorial-12.gif" alt="" /></p>
+
+<p>You need now to add a &ldquo;Recorder&rdquo; (with the same config as before) to record what comes from Skype.</p>
+
+<p>If you stop here, you won&rsquo;t hear anything anymore on Skype because Audio Hijack captures the sound of Skype. You have to add a new &ldquo;Output Device&rdquo; with your headset to get the output again.</p>
+
+<p><img src="/img/podcast/tutorial-13.gif" alt="" /></p>
+
+<p>Your setup is complete! You can test it by pushing the red button and calling someone. All the &ldquo;tubes&rdquo; should become orange as people speak and you should find all the recorded files at the end of the call.</p>
+
+<p><img src="/img/podcast/tutorial-14.gif" alt="" /></p>
+
+<p>Here are the link between the initial figure and your configuration.</p>
+
+<p><img src="/img/podcast/tutorial-1.jpg" width="50%"/></p>
+
+<p><img src="/img/podcast/tutorial-15.png" alt="" /></p>
+
+<h2 id="jingles">Jingles!</h2>
+
+<p>To be able to play sounds in a configuration like Podcast Science (several people in different places) with only one computer is way more complicated than it seems. However, hopefully, Audio Hijack makes this smooth.</p>
+
+<p>The main issue is that we want the sounds to be heard by us <em>and</em> the other people on Skype. Moreover, we don&rsquo;t want to hear our own voice in the mic (which is also a Skype input). So we&rsquo;ll have to add the sounds in our setup twice: once for us, and once for the people remote.</p>
+
+<p>You can play your jingles from any app; I&rsquo;ll use Farrago because it&rsquo;s a very convenient tool to play quick sounds when you need them.</p>
+
+<p>So, in Audio Hijack, you&rsquo;ll create two &ldquo;Application&rdquo; sources :</p>
+
+<ul>
+<li>the first one connects to Loopback (to go in Skype)</li>
+<li>the second one connects to our headset</li>
+</ul>
+
+<p>Note that I don&rsquo;t connect Farrago to the recorders since I don&rsquo;t want to record them, I&rsquo;ll add them directly in the editing for better sound quality.</p>
+
+<p><img src="/img/podcast/tutorial-16.gif" alt="" /></p>
+
+<p>You have two &ldquo;Farrago&rdquo; boxes, but they represent the same application, this is where the magic of Audio Hijack occurs. If you play a sound and start recording, you should see the tubes become orange again.</p>
+
+<p><img src="/img/podcast/tutorial-17.gif" alt="" /></p>
+
+<p><strong>Note:</strong> You may have one of the two blocs that stop working when you start Audio Hijack. Just delete it (right click and delete) and create a new one.</p>
+
+<p>So now you can play sounds during your podcast! You can use the same methods to add sources that only you and/or other people can hear. For example, at Podcast Science, I can monitor our live broadcast when I need by connecting Google Chrome as an input of my headset.</p>
+
+<p>This is our final configuration (without broadcast) for Podcast Science.</p>
+
+<p><img src="/img/podcast/tutorial-18.png" alt="" /></p>
+
+<h2 id="live-broadcast">Live broadcast</h2>
+
+<p>Last and easiest step: Live Broadcast. Audio Hijack (still him) can also manage the broadcast as soon as you use a <a href="http://icecast.org/">Icecast</a> (We rent ours on <a href="https://www.infomaniak.com/fr">Infomaniak</a>).</p>
+
+<p>To add a broadcast to your configuration, you need to add a new &ldquo;Skype Application&rdquo; block and a &ldquo;Broadcast&rdquo; block.</p>
+
+<p><img src="/img/podcast/tutorial-19.gif" alt="" /></p>
+
+<p>You then have to configure these two blocks. For Skype, no configuration should be required (be sure that &ldquo;include audio input&rdquo; is checked under the advanced panel). On the broadcast block, your configuration depends on your Icecast server, only the setup part is very important, the metadata part is for display only.</p>
+
+<p>Some options will still be similar :</p>
+
+<ul>
+<li>Port : 8000</li>
+<li>Encoding format : Custom
+
+<ul>
+<li>Format : MP3</li>
+<li>Bit rate : 96kbps</li>
+<li>Bit rate mode : constant bitrate</li>
+<li>Sample rate : 44100 Hz</li>
+<li>Channels : Stereo</li>
+</ul></li>
+</ul>
+
+<p>This is it! You know how to host, record and broadcast a podcast. If you have any comments on this procedure, feel free to share them on the comments below!</p>
+
+
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+   
+</style>
+<div id="mc_embed_signup">
+<form action="https://theworldasastage.us19.list-manage.com/subscribe/post?u=c05d187131e01c7607fa4ae0b&amp;id=32885e90b3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+  <label for="mce-EMAIL">
+    Subscribe to my newsletter to receive my next articles!
+  </label>
+  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c05d187131e01c7607fa4ae0b_32885e90b3" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+
+    <input type="hidden" value="podcast" name="SIGNUPWHY" class="required" id="mce-SIGNUPWHY">
+</form>
+</div>
+
+
+    
+        </div>
+    </section>
+
+    <footer class="post-full-footer">
+      <section class="author-card">
+        <img class="author-profile-image" src="https://theworldasastage.com/img/avatar-festiblog.jpg" alt="Author" />
+        <section class="author-card-content">
+            <h4 class="author-card-name"><a href="https://theworldasastage.com/">Baptiste Coulange</a></h4>
+                <p>CTO at @cornis_SAS / socially acceptable maths nerd of @podcastscience / always improvising</p>
+        </section>
+      </section>
+    </footer>
+</article>
+    
+    
+    
+
+<div id="disqus_thread"></div>
+<script>
+
+
+
+
+var disqus_config = function () {
+this.page.url = "https:\/\/theworldasastage.com\/tutorial--how-to-host-record-and-broadcast-a-podcast-with-distributed-members\/";  
+this.page.identifier = "https:\/\/theworldasastage.com\/tutorial--how-to-host-record-and-broadcast-a-podcast-with-distributed-members\/"; 
+};
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = 'https://the-world-as-a-stage.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+  </div>
+</main>
+
+
+<aside class="read-next outer">
+  <div class="inner">
+    <div class="read-next-feed">      
+      
+<article class="read-next-card" style="background-color: #090a0b;">
+    <header class="read-next-card-header">
+        <small class="read-next-card-header-sitetitle">&mdash; The world as a stage &mdash;</small>
+        
+        <h3 class="read-next-card-header-title"><a href="https://theworldasastage.com/tags/podcast/">#podcast</a></h3>
+    </header>
+    <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
+    </div>
+
+    <div class="read-next-card-content">
+      
+        <ul>
+          <li><a href="https://theworldasastage.com/creativity-and-programming-languages/">Creativity and programming languages</a></li>            
+        
+          <li><a href="https://theworldasastage.com/humble-and-demanding/">Humble and Demanding</a></li>            
+        
+          <li><a href="https://theworldasastage.com/5-great-books-about-acting/">5 great books about acting</a></li>            
+        
+                      
+        
+          <li><a href="https://theworldasastage.com/the-leaders-feedback/">The leader&#39;s feedback</a></li>            
+        </ul>
+    </div>
+    <footer class="read-next-card-footer">
+      
+        <a href="https://theworldasastage.com/tags/podcast/">See all related posts →</a>
+    </footer>
+</article>
+
+
+      
+      <article class="post-card post"> 
+    
+    <a class="post-card-image-link" href="https://theworldasastage.com/team-collaboration-is-hard-improvisation-training-can-help/">
+      <div class="post-card-image" style="background-image: url(https://theworldasastage.com/img/ballet.jpg)"></div>
+    </a>
+    
+
+    <div class="post-card-content">
+      <a class="post-card-content-link" href="https://theworldasastage.com/team-collaboration-is-hard-improvisation-training-can-help/">
+          <header class="post-card-header">
+              <span class="post-card-tags">
+              #leadership 
+              #improvisation 
+              #teams  </span>
+              
+              <h2 class="post-card-title">Team collaboration is hard, Improvisation training can help</h2>
+          </header>
+          <section class="post-card-excerpt">
+              
+                <p>When was the last time you left a meeting frustrated?
+ My last time was every meeting. We are all working together on the same project, but it&rsquo;s always the same :
+ he can&rsquo;t stop talking she always criticizes the new ideas and about minute details before we can even start building on it he brings topics that had nothing to do with the initial agenda she can&rsquo;t stop cracking stupid jokes he doesn&rsquo;t understand the big picture she is obsessed with her pointless ideas etc. ...  </p>
+              
+          </section>
+      </a>
+
+      <footer class="post-card-meta">
+          <img class="author-profile-image" src="https://theworldasastage.com/img/avatar-festiblog.jpg" alt="Author" />
+          <span class="post-card-author"><a href="/">Baptiste Coulange</a></span>
+      </footer>
+    </div>
+</article>
+      
+      
+      <article class="post-card post"> 
+    
+    <a class="post-card-image-link" href="https://theworldasastage.com/5-great-books-about-acting/">
+      <div class="post-card-image" style="background-image: url(https://theworldasastage.com/img/book-audition.jpg)"></div>
+    </a>
+    
+
+    <div class="post-card-content">
+      <a class="post-card-content-link" href="https://theworldasastage.com/5-great-books-about-acting/">
+          <header class="post-card-header">
+              <span class="post-card-tags">
+              #books 
+              #acting 
+              #improvisation  </span>
+              
+              <h2 class="post-card-title">5 great books about acting</h2>
+          </header>
+          <section class="post-card-excerpt">
+              
+                <p>Here are 5 excellent books about acting. More than being only to learn how to acts, these books explore human behaviors and how to bring these behaviors on stage. Also, if you don&rsquo;t perform, since improvisation is anywhere there is human communication you would be surprised how much you can learn from them.
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}  Subscribe to my newsletter to receive one new book recommendation every week. ...  </p>
+              
+          </section>
+      </a>
+
+      <footer class="post-card-meta">
+          <img class="author-profile-image" src="https://theworldasastage.com/img/avatar-festiblog.jpg" alt="Author" />
+          <span class="post-card-author"><a href="/">Baptiste Coulange</a></span>
+      </footer>
+    </div>
+</article>
+      
+    </div>
+  </div>
+</aside>
+
+<div class="floating-header">
+  <div class="floating-header-logo">
+    <a href="https://theworldasastage.com/">
+      
+      <span>The world as a stage</span>
+    </a>
+  </div>
+  <span class="floating-header-divider">&mdash;</span>
+  <div class="floating-header-title">Tutorial : How to host, record and broadcast a podcast with distributed members</div>
+  <div class="floating-header-share">
+    <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/></svg>
+    </div>
+    
+    <a class="floating-header-share-tw" href="https://twitter.com/share?text=Tutorial%20%3a%20How%20to%20host%2c%20record%20and%20broadcast%20a%20podcast%20with%20distributed%20members&amp;url=https%3a%2f%2ftheworldasastage.com%2ftutorial--how-to-host-record-and-broadcast-a-podcast-with-distributed-members%2f"
+          onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+      </a>
+      <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2ftheworldasastage.com%2ftutorial--how-to-host-record-and-broadcast-a-podcast-with-distributed-members%2f"
+          onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+      </a>
+  </div>
+
+  <progress class="progress" value="0">
+    <div class="progress-container">
+      <span class="progress-bar"></span>
+    </div>
+  </progress>
+</div>
+
+
+
+<footer class="site-footer outer">
+  <div class="site-footer-content inner">
+    <section class="copyright" style="line-height: 1.3em;">
+      <a href="/">Nicotupe</a>  <br>
+      
+    </section>
+    <nav class="site-footer-nav">
+        <a href="/">Latest Posts</a>
+        <a href="https://www.podcastscience.fm/Page%28/post/podcast/how-to-host-record-boradcast-an-international-podcast.md%29" target="_blank" rel="noopener">PodcastScience</a>
+        <a href="https://goodreads.com/nicotupe" target="_blank" rel="noopener">Goodreads</a>
+        <a href="https://twitter.com/nicotupe" target="_blank" rel="noopener">Twitter</a>
+        <a href="https://github.com/bcoulange" target="_blank" rel="noopener">Github</a>
+        <a href="https://www.linkedin.com/in/baptiste-coulange" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://medium.com/@nicotupe" target="_blank" rel="noopener">Medium</a>
+    </nav>  
+  </div>
+</footer>
+
+</div>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="https://theworldasastage.com/js/jquery.fitvids.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+  <!-- Google Analytics -->
+  <script>
+    var _gaq=[['_setAccount','UA-37300513-2'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+
+
+    <script>
+
+
+
+
+
+$(document).ready(function () {
+    
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+</body></html>

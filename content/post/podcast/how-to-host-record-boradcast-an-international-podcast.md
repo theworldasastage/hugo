@@ -1,11 +1,11 @@
 ---
-title: "Tutorial : How to host, record and broadcast a distributed podcast"
+title: "Tutorial : How to host, record and broadcast a podcast with distributed members"
 date: 2018-09-14
 image: img/podcast.jpg
 categories: ["podcast"]
 type: "post"
-tags: ["podcast","tech","dev","tutorial"]
-draft: true
+tags: ["podcast","dev","tutorial"]
+draft: false
 ---
 
 With [Podcast Science](http://podcastscience.fm), I host, record and broadcast a popular science podcast in French every week since 2010. We had a lot of trial and error to establish a setup that allowed us to : 
@@ -36,9 +36,9 @@ You also need a Mic. For one person, [Zoom H2N](https://www.amazon.com/Zoom-H2N-
 
 ## Hosting and recording
 
-The first step is to make the podcast happen : to be able to talk with other folks and to record the conversation.
+The first step is to make the podcast happen : to be able to talk to other folks and to record the conversation.
 
-If you are alone in your podcast, there are a lot of easier configuration but the one I'm presenting here will allow you to do way more : 
+If you are alone in your podcast, there are a lot of easier configurations but the one I'm presenting here will allow you to do much more : 
 
 - You will be able to host a podcast with several people (at your home or online)
 - You will be able to play jingles (next part)
