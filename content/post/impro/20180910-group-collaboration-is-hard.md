@@ -35,7 +35,7 @@ _Demanding_ because it's possible to improve it and make a group collaborate in 
 
 ## When a group shines
 
-The last time I've seen a group work together so effectively you couldn't believe it was not scripted was in the improvised musical show of [The Showstoppers](http://www.theshowstoppers.org/).
+The last time I've seen a group work together so effectively you couldn't believe it was not scripted was in the improvised musical show of [The Showstoppers](http://www.theshowstoppers.org/). This video is long but just watch 30sec at the middle of the show to get an idea of what can improvise a group in front of an audience.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4LZWg2vi6GE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -102,7 +102,7 @@ When you go to an improv show, they may ask you for a suggestion, describe the g
 > There are no gods, no nations, no money and no human rights, except in our collective imagination." 
 > <small>Yuval Noah Harari, Sapiens: A Brief History of Humankind</small>
 
-The importance of storytelling in organizations is not a new idea. A lot of books have explored how to build a compelling story. Even some events like [TED talks](https://www.ted.com) have mastered the formula to the point that it's always efficient... but tend to be predictible as we all now see the recurring pattern.
+The importance of storytelling in organizations is not a new idea. A lot of books have explored how to build a compelling story. Even some events like [TED talks](https://www.ted.com) have mastered the formula to the point that it's always efficient... but tend to be predictible as we all now see the recurring pattern. If you're not sure of the pattern you can watch this TEDx Video about... nothing but using all the TED communications rules to make it attractive.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8S0FDjFBj8o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
