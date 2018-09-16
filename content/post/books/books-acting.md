@@ -15,7 +15,7 @@ Here are 5 excellent books about acting. More than being only to learn how to ac
 
 ## [Audition: Everything an Actor Needs to Know to Get the Part](https://www.goodreads.com/book/show/787895.Audition)
 
-<img src="/img/book-audition.jpg"/>
+<img src="/img/book-audition.jpg" style="max-width:200px"/>
 
 Michael Shurtleff has been casting director for Broadway, and this is his book on advice on how to succeed at an audition. I was surprised when I first read it how most of his advice goes way beyond the theater world. They are useful for improv of course but also to understand and be more present in our day to day relationships.
 
@@ -24,7 +24,7 @@ Michael Shurtleff has been casting director for Broadway, and this is his book o
 
 ## [Respect for Acting](https://www.goodreads.com/book/show/140502.Respect_for_Acting)
 
-<img src="/img/book-respect-for-acting.jpg"/>
+<img src="/img/book-respect-for-acting.jpg" style="max-width:200px"/>
 
 Uta Hagen is a well-known actress. Her book has a strong connexion with Audition, but it's written from the point of view of an actress instead of a director. She gives much valuable advice on how to be more present on stage.
 
@@ -34,7 +34,7 @@ Uta Hagen is a well-known actress. Her book has a strong connexion with Audition
 
 ## [The Great Acting Teachers and Their Methods](https://www.goodreads.com/book/show/237165.The_Great_Acting_Teachers_and_Their_Methods_Career_Development_Series_)
 
-<img src="/img/book-acting-teachers.jpg"/>
+<img src="/img/book-acting-teachers.jpg" style="max-width:200px"/>
 
 This book introduces several great acting teachers and describes their methods and their influence on the history of acting. It's a great way to understand better modern acting as all these teachers have influenced it. It's also a fantastic way to find very different approaches on the job of acting.
 
@@ -43,7 +43,7 @@ This book introduces several great acting teachers and describes their methods a
 
 ## [An Actor's trick](https://www.goodreads.com/book/show/1570409.An_Actor_s_Tricks)
 
-<img src="/img/book-an-actor-trick.jpg"/>
+<img src="/img/book-an-actor-trick.jpg" style="max-width:200px"/>
 
 Oriental and Western theater have influenced Yoshi Oida. This book has a very different tone than most American inspired acting books. Instead of trying to describe a method, he presents his way of acting as an example and proposes to learn by experimenting. 
 
@@ -53,7 +53,7 @@ Oriental and Western theater have influenced Yoshi Oida. This book has a very di
 
 ## [Free Play: Improvisation in Life and Art](https://www.goodreads.com/book/show/9386.Free_Play?ac=1&from_search=true)
 
-<img src="/img/book-free-play.jpg"/>
+<img src="/img/book-free-play.jpg" style="max-width:200px"/>
 
 This last book is not an acting book. Stephen Nachmanovitch writes about the creative process. I've taken my time to read this book since each chapter is an opportunity to think about one aspect of creativity. Also, as an improviser, spontaneous creation is part of the process, so this book is not far from acting. Just give it a try, chapter by chapter, it's worth the experience.
 

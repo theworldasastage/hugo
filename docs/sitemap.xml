@@ -90,13 +90,13 @@
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/tags/books/</loc>
+    <loc>https://theworldasastage.com/categories/books/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/categories/books/</loc>
+    <loc>https://theworldasastage.com/tags/books/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -114,13 +114,13 @@
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/tags/communication/</loc>
+    <loc>https://theworldasastage.com/categories/communication/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/categories/communication/</loc>
+    <loc>https://theworldasastage.com/tags/communication/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -150,20 +150,14 @@
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/tags/dev/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://theworldasastage.com/categories/dev/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/tags/dev-web-review/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <loc>https://theworldasastage.com/tags/dev/</loc>
+    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -174,19 +168,25 @@
   </url>
   
   <url>
+    <loc>https://theworldasastage.com/tags/dev-web-review/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://theworldasastage.com/tags/feedback/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/tags/improvisation/</loc>
+    <loc>https://theworldasastage.com/categories/improvisation/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/categories/improvisation/</loc>
+    <loc>https://theworldasastage.com/tags/improvisation/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -198,13 +198,13 @@
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/tags/leadership/</loc>
+    <loc>https://theworldasastage.com/categories/leadership/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/categories/leadership/</loc>
+    <loc>https://theworldasastage.com/tags/leadership/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -240,13 +240,13 @@
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/tags/podcast/</loc>
+    <loc>https://theworldasastage.com/categories/podcast/</loc>
     <lastmod>2018-09-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://theworldasastage.com/categories/podcast/</loc>
+    <loc>https://theworldasastage.com/tags/podcast/</loc>
     <lastmod>2018-09-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
