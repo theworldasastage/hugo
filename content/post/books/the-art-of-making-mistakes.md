@@ -5,7 +5,7 @@ image: img/book-mistakes.jpg
 categories: ["books"]
 tags: ["books","creativity","improvisation","mistakes"]
 type: "post"
-draft: true
+draft: false
 ---
 
 As a Chief Technical Officer, I see my job as trying to notice as fast as possible my new mistakes and adapt.
