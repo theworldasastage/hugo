@@ -50,6 +50,8 @@ As every book about creativity will tell, mistakes are at the heart of inspirati
 > What if I fall, mess up?
 > <small>Marianna Räsänen in The Art of Making Mistakes</small>
 
+To know more about this book, you can check [my review](/the-art-of-making-mistakes-book-review/).
+
 ## [Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy?ac=1&from_search=true)
 
 <img src="/img/book-h2g2.jpg" style="max-width:200px"/>

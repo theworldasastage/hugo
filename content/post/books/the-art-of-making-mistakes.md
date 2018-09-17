@@ -8,7 +8,7 @@ type: "post"
 draft: false
 ---
 
-As a Chief Technical Officer, I see my job as trying to notice as fast as possible my new mistakes and adapt.
+As a Chief Technical Officer, I see my job as trying to notice as fast as possible our new mistakes and adapt.
 
 Working in an unknown environment with new technologies, avoiding mistakes is impossible. We do mistakes, all the time.
 

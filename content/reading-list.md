@@ -57,6 +57,14 @@ Below other books on more specific topics, you can, of course, read these books 
 
 {{< partial "mailing-with-tag" "Subscribe to my newsletter to receive one new book recommendation every week." "books">}}
 
+### Lists
+
+Here are some other list of books published on the blog : 
+
+- [5 great books about acting](/5-great-books-about-acting/)
+- [5 great books about creativity](/5-great-books-about-creativity/)
+
+
 ### Popular Science
 
 Popular science books help you discover how much we know (and don't know) about our world. I can't spend a month without reading one!

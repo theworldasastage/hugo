@@ -490,6 +490,15 @@
 
 
 
+&lt;h3 id=&#34;lists&#34;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;Here are some other list of books published on the blog :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://theworldasastage.com/5-great-books-about-acting/&#34;&gt;5 great books about acting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://theworldasastage.com/5-great-books-about-creativity/&#34;&gt;5 great books about creativity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&#34;popular-science&#34;&gt;Popular Science&lt;/h3&gt;
 
 &lt;p&gt;Popular science books help you discover how much we know (and don&amp;rsquo;t know) about our world. I can&amp;rsquo;t spend a month without reading one!&lt;/p&gt;
@@ -750,7 +759,7 @@
         <guid>https://theworldasastage.com/the-art-of-making-mistakes-book-review/</guid>
         <description>
 
-&lt;p&gt;As a Chief Technical Officer, I see my job as trying to notice as fast as possible my new mistakes and adapt.&lt;/p&gt;
+&lt;p&gt;As a Chief Technical Officer, I see my job as trying to notice as fast as possible our new mistakes and adapt.&lt;/p&gt;
 
 &lt;p&gt;Working in an unknown environment with new technologies, avoiding mistakes is impossible. We do mistakes, all the time.&lt;/p&gt;
 
