@@ -76,6 +76,6 @@ Anna-Lena Østern is one of the pioneers of drama education in Finland. She shar
 > Most of the mistakes I can recall, though, have a feeling of shame attached to them. Something connected to not being observant enough, not being understanding enough, and sometimes being too naive, or not being authentic or true to myself, not listening to my gut feeling, or simply trying to be something I am not in order to please.
 > <small>Anna-Lena Østern</small>
 
-If you want to read more and learn about mistakes, I highly recommend grabbing this book. All the texts are unique and give a new point of view on this very particular subject.
+If you want to read more and learn about mistakes, I highly recommend [grabbing this book](http://draamatyo.fi/tuote/the-art-of-making-mistakes/). All the texts are unique and give a new point of view on this very particular subject.
 
 {{< partial "mailing-with-tag" "Subscribe to the newsletter to receive new book recommendations every week." "books">}}
