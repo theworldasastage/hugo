@@ -238,18 +238,56 @@
         <guid>https://theworldasastage.com/dev/to-follow/</guid>
         <description>
 
-&lt;h1 id=&#34;best-articles&#34;&gt;Best articles&lt;/h1&gt;
+&lt;h1 id=&#34;pinned-articles&#34;&gt;Pinned articles&lt;/h1&gt;
 
-&lt;p&gt;Here is a collection of article every dev should read :&lt;/p&gt;
+&lt;p&gt;This are great resources I often go to or I transmit to new people on my team.&lt;/p&gt;
+
+&lt;h3 id=&#34;dataviz-webdesign&#34;&gt;Dataviz &amp;amp; webdesign&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.data-to-viz.com/&#34;&gt;How to do a vizualization of your data&lt;/a&gt; : A fanstastic website on how to represent your data and the things to avoid.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webdesign.tutsplus.com/articles/cognitive-biases-you-need-to-master-to-design-better-websites--cms-30742&#34;&gt;Cognitive biases you need to master to design better websites&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://theworldasastage.com/the-5-informations-every-figure-caption-should-have/&#34;&gt;The 5 information every figure caption should have&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;machine-learning&#34;&gt;Machine learning&lt;/h3&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/watching-modern-ai-methods-in-action-929e106d6a7c&#34;&gt;How work modern Machine Learning&lt;/a&gt; : quick and visual guide to the most common algorithms&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b&#34;&gt;Statistics for people in a hurry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;dev&#34;&gt;Dev&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/10-free-courses-to-learn-docker-for-programmers-and-devops-engineers-7ff2781fd6e0&#34;&gt;10 free courses to learn Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/git-from-zero-to-hero-starting-with-foundations-e42e49b524c5&#34;&gt;Git from zero to hero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/iriskatastic/top-10-errors-javascript-errors-to-be-aware-of--3hhf&#34;&gt;Top 10 javascript errors to be aware of&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;communities&#34;&gt;Communities&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/&#34;&gt;Dev.to (dev)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/&#34;&gt;Hacker Noon (dev)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://thewatercooler.io/&#34;&gt;The Watercooler (Not free, management)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;general&#34;&gt;General&lt;/h1&gt;
 
-&lt;h2 id=&#34;companies&#34;&gt;Companies&lt;/h2&gt;
+&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.knowyourcompany.com/&#34;&gt;Know Your Company (leadership)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yukaichou.com/&#34;&gt;Yu-Kai Chou (Gamification)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.codinghorror.com/&#34;&gt;Coding horror&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.allthingsdistributed.com/&#34;&gt;Werner Vogels (CTO Amazon.com) blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://freakonometrics.hypotheses.org/&#34;&gt;Freakonometrics (stats, data)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fibretigre.blogspot.com/&#34;&gt;Fibre Tigre (video games)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.destroyallsoftware.com/blog&#34;&gt;Destroy all software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;companies&#34;&gt;Companies&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://engineering.linkedin.com/blog&#34;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
@@ -261,23 +299,23 @@
 &lt;li&gt;&lt;a href=&#34;https://hacks.mozilla.org/&#34;&gt;Mozilla&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;blogs&#34;&gt;Blogs&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.knowyourcompany.com/&#34;&gt;Know Your Company&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://yukaichou.com/&#34;&gt;Yu-Kai Chou&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.codinghorror.com/&#34;&gt;Coding horror&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.allthingsdistributed.com/&#34;&gt;Werner Vogels (CTO Amazon.com) blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://freakonometrics.hypotheses.org/&#34;&gt;Freakonometrics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/&#34;&gt;Dev.to&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fibretigre.blogspot.com/&#34;&gt;Fibre Tigre&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.destroyallsoftware.com/blog&#34;&gt;Destroy all software&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/&#34;&gt;Hacker Noon&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h1 id=&#34;data&#34;&gt;Data&lt;/h1&gt;
 
-&lt;h2 id=&#34;companies-1&#34;&gt;Companies&lt;/h2&gt;
+&lt;h3 id=&#34;data-analysis-and-viz-examples&#34;&gt;Data analysis and viz examples&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fivethirtyeight.com/&#34;&gt;FiveThirtyEight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://flowingdata.com/&#34;&gt;Flowing Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;blogs-1&#34;&gt;Blogs&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://data36.com/&#34;&gt;Data 36&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/intuitionmachine&#34;&gt;Intuition Machine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;companies-1&#34;&gt;Companies&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/airbnb-engineering&#34;&gt;Airbnb Engineering&lt;/a&gt;&lt;/li&gt;
@@ -285,20 +323,6 @@
 &lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/&#34;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ai.googleblog.com/&#34;&gt;Google AI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://deepmind.com/blog/&#34;&gt;Deepmind&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;data-analysis-and-viz-examples&#34;&gt;Data analysis and viz examples&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://fivethirtyeight.com/&#34;&gt;FiveThirtyEight&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://flowingdata.com/&#34;&gt;Flowing Data&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;blogs-1&#34;&gt;Blogs&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://data36.com/&#34;&gt;Data 36&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/intuitionmachine&#34;&gt;Intuition Machine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -655,6 +679,70 @@
     </item>
     
     <item>
+        <title>Setember 17th, 2018 : This week around the web</title>
+        <link>https://theworldasastage.com/dev/20180917-this-week-around-the-web/</link>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://theworldasastage.com/dev/20180917-this-week-around-the-web/</guid>
+        <description>
+
+&lt;h2 id=&#34;online-wellbeing&#34;&gt;Online wellbeing&lt;/h2&gt;
+
+&lt;p&gt;Working more and more online in a distributed company, we have to share some wellbeing rules of how we use online tools that don&amp;rsquo;t seem intuitive to everyone. And I&amp;rsquo;ve never seen a written list of a lot of this culture shared by a lot of people I can meet online. &lt;a href=&#34;https://dev.to/nicotupe/online-wellbeing--what-are-your-rules-4ihb&#34;&gt;I&amp;rsquo;ve created a post on DEV to try to establish a list of this rules, can you share yours?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;learning&#34;&gt;Learning&lt;/h2&gt;
+
+&lt;p&gt;I believe that a developer must never stop learning. But we don&amp;rsquo;t always want to be in front of a screen and we don&amp;rsquo;t always have the energy to read technical books. And believe it or not, some developers like to meet friends. &lt;a href=&#34;https://dzone.com/articles/why-programmers-should-play-boardgames&#34;&gt;This article&lt;/a&gt; explains why every developper should play board games and even share a list of excellent board games to start with.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://slackhq.com/pixars-ed-catmull-on-taking-risks-and-checking-your-ego&#34;&gt;This blog post&lt;/a&gt; from Slack share Ed. Catmull (Pixar Co-Founder) views on ego and creativity.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Sometimes, magic happens. And by magic, I mean the ego has left the room.
+&lt;small&gt;Ed Catmull&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And to finish &lt;a href=&#34;https://slackhq.com/pixars-ed-catmull-on-taking-risks-and-checking-your-ego&#34;&gt;an article&lt;/a&gt; talking about Ockham, Bayes and Shannon and their link with Machine Learning had to be on this list!&lt;/p&gt;
+
+&lt;h2 id=&#34;machine-learning&#34;&gt;Machine learning&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;All models are wrong, some are useful.
+&lt;small&gt;George Box&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This quote is often forgotten as we love to believe in stories. This is the initial point of &lt;a href=&#34;https://slackhq.com/pixars-ed-catmull-on-taking-risks-and-checking-your-ego&#34;&gt;this interesting article&lt;/a&gt;. Is there a space-time universe that is influenced by planets? We actually don&amp;rsquo;t know and it&amp;rsquo;s probably not true&amp;hellip; but describing the world with this model gives excellent result to compute what will happen on a given experiment. Not being to attached to models is a good way to be open to new ones, even if their initial asumptions are very different from the previous ones.&lt;/p&gt;
+
+&lt;h2 id=&#34;containers&#34;&gt;Containers&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dev.to/adnanrahic/containers-vs-serverless-from-a-devops-standpoint-e4n&#34;&gt;This article&lt;/a&gt; present a point of view of the advantages and disadvantages of serverless and containers. And to start with containers, &lt;a href=&#34;https://hackernoon.com/10-free-courses-to-learn-docker-for-programmers-and-devops-engineers-7ff2781fd6e0&#34;&gt;this other article&lt;/a&gt; gives a list of 10 free courses on Docker.&lt;/p&gt;
+
+
+&lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+   
+&lt;/style&gt;
+&lt;div id=&#34;mc_embed_signup&#34;&gt;
+&lt;form action=&#34;https://theworldasastage.us19.list-manage.com/subscribe/post?u=c05d187131e01c7607fa4ae0b&amp;amp;id=32885e90b3&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34; novalidate&gt;
+    &lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;
+  &lt;label for=&#34;mce-EMAIL&#34;&gt;
+    Subscribe to the newsletter to recieve new updates
+  &lt;/label&gt;
+  &lt;input type=&#34;email&#34; value=&#34;&#34; name=&#34;EMAIL&#34; class=&#34;email&#34; id=&#34;mce-EMAIL&#34; placeholder=&#34;email address&#34; required&gt;
+    
+    &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_c05d187131e01c7607fa4ae0b_32885e90b3&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;clear&#34;&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;input type=&#34;hidden&#34; value=&#34;dev-review&#34; name=&#34;SIGNUPWHY&#34; class=&#34;required&#34; id=&#34;mce-SIGNUPWHY&#34;&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
         <title>Tutorial : How to host, record and broadcast a podcast with distributed members</title>
         <link>https://theworldasastage.com/tutorial--how-to-host-record-and-broadcast-a-podcast-with-distributed-members/</link>
         <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
@@ -992,11 +1080,11 @@
     </item>
     
     <item>
-        <title>Setember 12th, 2018 : Dev Web Review</title>
-        <link>https://theworldasastage.com/dev/20180913-dev-web-review/</link>
+        <title>Setember 12th, 2018 : This week around the web</title>
+        <link>https://theworldasastage.com/dev/20180913-this-week-around-the-web/</link>
         <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
         
-        <guid>https://theworldasastage.com/dev/20180913-dev-web-review/</guid>
+        <guid>https://theworldasastage.com/dev/20180913-this-week-around-the-web/</guid>
         <description>
 
 &lt;p&gt;Here are some excellent articles I&amp;rsquo;ve read this week.&lt;/p&gt;
@@ -1144,11 +1232,11 @@
     </item>
     
     <item>
-        <title>August 27th, 2018 : Dev Web Review</title>
-        <link>https://theworldasastage.com/dev/20180827-dev-web-review/</link>
+        <title>August 27th, 2018 : This week around the web</title>
+        <link>https://theworldasastage.com/dev/20180827-this-week-around-the-web/</link>
         <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
         
-        <guid>https://theworldasastage.com/dev/20180827-dev-web-review/</guid>
+        <guid>https://theworldasastage.com/dev/20180827-this-week-around-the-web/</guid>
         <description>
 
 &lt;h2 id=&#34;netflix-and-jupyter-notebooks&#34;&gt;Netflix and Jupyter Notebooks&lt;/h2&gt;
@@ -1218,11 +1306,11 @@
     </item>
     
     <item>
-        <title>August 20th, 2018 : Dev Web Review</title>
-        <link>https://theworldasastage.com/dev/20180820-dev-web-review/</link>
+        <title>August 20th, 2018 : This week around the web</title>
+        <link>https://theworldasastage.com/dev/20180820-this-week-around-the-web/</link>
         <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
         
-        <guid>https://theworldasastage.com/dev/20180820-dev-web-review/</guid>
+        <guid>https://theworldasastage.com/dev/20180820-this-week-around-the-web/</guid>
         <description>
 
 &lt;p&gt;Here are some excellent articles I&amp;rsquo;ve read this week.&lt;/p&gt;

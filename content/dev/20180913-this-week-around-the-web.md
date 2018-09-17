@@ -1,5 +1,5 @@
 ---
-title: "Setember 12th, 2018 : Dev Web Review"
+title: "Setember 12th, 2018 : This week around the web"
 date: 2018-09-12
 categories: ["dev web review"]
 tags: ["python","dataviz","ml"]

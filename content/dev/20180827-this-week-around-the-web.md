@@ -1,5 +1,5 @@
 ---
-title: "August 27th, 2018 : Dev Web Review"
+title: "August 27th, 2018 : This week around the web"
 date: 2018-08-29
 categories: ["dev web review"]
 tags: ["netflix","notebook","web review"]
