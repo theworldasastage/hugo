@@ -5,7 +5,7 @@ image: img/book-hairball.jpg
 categories: ["books"]
 tags: ["books","creativity","improvisation","mathematics"]
 type: "post"
-draft: true
+draft: false
 ---
 
 Here are five great books about creativity. These are very good books where you can experience different aspect of creativity: How it became a culture in a creative company like Pixar (Creativity Inc), how one person can fight to maintain it in a huge industry (Orbiting the Giant Hairball), the importance of mistakes in the creative process (The Art of Making Mistakes), how an author can make crazy idea with everyday things (H2G2) and finally in the best example of Art&Science I know, magic (Magical Mathematics).
