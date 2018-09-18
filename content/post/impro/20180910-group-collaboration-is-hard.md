@@ -85,7 +85,7 @@ Embracing mistakes is not only being ok with each error. It is also making mista
 > 
 > Keith used the logic of success to get me to make mistakes. He relieved me of the stress of fear of failure by giving me permission to make mistakes. He created an environment where I could take risk and learn.
 > 
-> <small>Patti Stiles in "The art of making mistakes."</small>
+> <small>Patti Stiles in "The art of making mistakes" ([Review](/the-art-of-making-mistakes-book-review/))</small>
 
 ### Freedom and Constraints
 

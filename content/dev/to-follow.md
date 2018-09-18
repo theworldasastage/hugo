@@ -13,6 +13,9 @@ weight: 111
 # Pinned articles
 This are great resources I often go to or I transmit to new people on my team.
 
+### General
+- [You Aren't So Smart: Cognitive Biases are Making Sure of It](https://www.kdnuggets.com/2018/09/practical-cognitive-biases.html)
+
 ### Dataviz & webdesign
 - [How to do a vizualization of your data](https://www.data-to-viz.com/) : A fanstastic website on how to represent your data and the things to avoid.
 - [Cognitive biases you need to master to design better websites](https://webdesign.tutsplus.com/articles/cognitive-biases-you-need-to-master-to-design-better-websites--cms-30742)
