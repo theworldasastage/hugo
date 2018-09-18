@@ -78,4 +78,6 @@ Anna-Lena Østern is one of the pioneers of drama education in Finland. She shar
 
 If you want to read more and learn about mistakes, I highly recommend [grabbing this book](http://draamatyo.fi/tuote/the-art-of-making-mistakes/). All the texts are unique and give a new point of view on this very particular subject.
 
+This book is part of the list of [5 great books on creativity](/5-great-books-about-creativity/).
+
 {{< partial "mailing-with-tag" "Subscribe to the newsletter to receive new book recommendations every week." "books">}}
