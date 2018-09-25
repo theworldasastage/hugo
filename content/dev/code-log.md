@@ -12,6 +12,34 @@ weight: 111
 
 This is just a code log, where I put code discoveries, problems, etc.
 
+# September 25th, 2018
+
+Let's play with the fantastics `pipe` and `alias` commands.
+
+For example if you want to look for `something` in your command line history, you can use the command :
+
+```
+history | grep something
+```
+
+Remarks on this syntax : 
+- `history` is the first command, this gives you your command line history
+- `|` is a special operator called "pipe" that can join input and output of commands. Here he will transmit the history to the input of `grep` which will do a research on this text.
+- And `grep` will look for the word you asked in the text
+
+Even better, since as programmers we are lazy, we probably don't want to type all that to just do a research. That's where we need `alias`. An alias is a word that will be replaced by a given code snippet.
+
+For example with : 
+
+```
+alias hg='history | grep' 
+```
+
+When you'll now type `hg something`, it will actually execute `history | grep something`.
+
+And if you want to keep your alias for next sessions, you have to store it in your terminal config file. If you use Zsh, it's the file `~/.zshrc`
+
+
 # August 21st, 2018
 
 Chrome insist to stay on `https` when you've been on https once... To make him understand you don't want him to force `https` you need to : 

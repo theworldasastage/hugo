@@ -59,6 +59,9 @@ This last book is not an acting book. Stephen Nachmanovitch writes about the cre
 
 > We disappear and become a carrier wave, a vehicle for the music that plays us. The power of creative spontaneity develops into an explosion that liberates us from outmoded frames of reference and from memory that is clogged with old facts and old feelings. Addiction, procrastination, and fear are blown away by this carrier wave, and our music becomes a message about big Self .
 > <small>Nachmanovitch, Stephen. Free Play: Improvisation in Life and Art</small>
+
+[More books recommendation on #books](/tags/books/)
+
 {{< partial "mailing-with-tag" "Subscribe to the newsletter to receive new book recommendations every week." "books">}}
 
 

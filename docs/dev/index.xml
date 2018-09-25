@@ -21,6 +21,31 @@
 
 &lt;p&gt;This is just a code log, where I put code discoveries, problems, etc.&lt;/p&gt;
 
+&lt;h1 id=&#34;september-25th-2018&#34;&gt;September 25th, 2018&lt;/h1&gt;
+
+&lt;p&gt;Let&amp;rsquo;s play with the fantastics &lt;code&gt;pipe&lt;/code&gt; and &lt;code&gt;alias&lt;/code&gt; commands.&lt;/p&gt;
+
+&lt;p&gt;For example if you want to look for &lt;code&gt;something&lt;/code&gt; in your command line history, you can use the command :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;history | grep something
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Remarks on this syntax :
+- &lt;code&gt;history&lt;/code&gt; is the first command, this gives you your command line history
+- &lt;code&gt;|&lt;/code&gt; is a special operator called &amp;ldquo;pipe&amp;rdquo; that can join input and output of commands. Here he will transmit the history to the input of &lt;code&gt;grep&lt;/code&gt; which will do a research on this text.
+- And &lt;code&gt;grep&lt;/code&gt; will look for the word you asked in the text&lt;/p&gt;
+
+&lt;p&gt;Even better, since as programmers we are lazy, we probably don&amp;rsquo;t want to type all that to just do a research. That&amp;rsquo;s where we need &lt;code&gt;alias&lt;/code&gt;. An alias is a word that will be replaced by a given code snippet.&lt;/p&gt;
+
+&lt;p&gt;For example with :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;alias hg=&#39;history | grep&#39; 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;When you&amp;rsquo;ll now type &lt;code&gt;hg something&lt;/code&gt;, it will actually execute &lt;code&gt;history | grep something&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;And if you want to keep your alias for next sessions, you have to store it in your terminal config file. If you use Zsh, it&amp;rsquo;s the file &lt;code&gt;~/.zshrc&lt;/code&gt;&lt;/p&gt;
+
 &lt;h1 id=&#34;august-21st-2018&#34;&gt;August 21st, 2018&lt;/h1&gt;
 
 &lt;p&gt;Chrome insist to stay on &lt;code&gt;https&lt;/code&gt; when you&amp;rsquo;ve been on https once&amp;hellip; To make him understand you don&amp;rsquo;t want him to force &lt;code&gt;https&lt;/code&gt; you need to :&lt;/p&gt;
