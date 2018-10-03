@@ -28,12 +28,12 @@ This training lasted 2H with a group of 5 people.
 
 I organise this workshop in different parts that I will present below.
 
-- Before : A form to have my team start thinking of the topic
-- A brief introduction of the training and the objective
-- A warm-up : As in sport we need to warm-up our bodies and minds
-- Short Games : Theater use games to explore topics, these games are good to work on a particular subject.
-- Scenes : Using what we learned during the games, we practice in some short scenes.
-- What's next : At the end we decide what to apply in our work
+- __Before :__ A form to have my team start thinking of the topic
+- __Introduction :__ A brief presentation of the training and the objective
+- __A warm-up :__ As in sport we need to warm-up our bodies and minds
+- __Exercises :__ Theater use games to explore topics, these games are good to work on a particular subject.
+- __Scenework :__ Using what we learned during the games, we practice in some short scenes.
+- __What's next :__ At the end we decide what to apply in our work
 
 > The most important part of Short Games and Scenes are the debrief. Contrary to usual learning, in improv and when you learn about your behaviour it's by debriefing as a group on what just happened that you can discover what are your reflexes and actions that you want to be more aware of.
 
@@ -145,7 +145,7 @@ Finally, to close this training, the group decide together what they will do in 
 {{< partial "mailing-with-tag" "Subscribe to the newsletter to receive a mail each new article about improvisation tools applied to businesses." "management">}}
 
 
-## Ressources
+## More
 
 Here are some resources to go further on the topic of idea generation and creativity.
 

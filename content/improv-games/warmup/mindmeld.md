@@ -5,7 +5,7 @@ categories: ["improv-game"]
 tags: ["warmup","improv-game"]
 type: "improv-game"
 image: img/dance.jpg
-source: "Discovered at the Barcelona Improv Group."
+source: "Discovered with the Barcelona Improv Group."
 draft: false
 ---
 
