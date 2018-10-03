@@ -125,6 +125,8 @@ __You are convinced, and you want to start using these tools__
 
 My best advice is to find some improv training or workshops near your home to discover the process of improv training. If you prefer to read, you can check out the book [Training to imagine](https://www.amazon.fr/Training-Imagine-Improvisational-Techniques-Creativity-ebook/dp/B015YFJ8GC/ref=sr_1_1?ie=UTF8&qid=1536582204&sr=8-1&keywords=training+to+imagine) to get a guided help on how to start applying improvisation in your organization.
 
+And of course you can check the [trainings](/tags/training/) I do with my team.
+
 __Too long, didn't read! Just watched the Showstoppers video, they are fantastic!__
 
 This other video is for you. Here is an example of the kind of improv training that makes the Showstoppers so amazing.
