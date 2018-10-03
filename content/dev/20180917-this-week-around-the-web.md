@@ -7,7 +7,7 @@ type: "dev"
 image: ""
 draft: false
 ---
-
+ 
 ## Online wellbeing
 
 Working more and more online in a distributed company, we have to share some wellbeing rules of how we use online tools that don't seem intuitive to everyone. And I've never seen a written list of a lot of this culture shared by a lot of people I can meet online. [I've created a post on DEV to try to establish a list of this rules, can you share yours?](https://dev.to/nicotupe/online-wellbeing--what-are-your-rules-4ihb)

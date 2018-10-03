@@ -16,3 +16,15 @@
 .highlight {
     width: 100%;
 }
+
+.improv-game{
+  background-color: #DDDDDD;
+  border-radius: 10px;
+  padding: 20px;
+  width: 100%;
+  margin:10px;
+}
+
+.improv-game h3{
+  color:black;
+}

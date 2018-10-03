@@ -6,7 +6,7 @@ categories: ["Improvisation","Leadership"]
 type: "post"
 tags: ["leadership","improvisation","teams"]
 draft: false
-weight: 1
+weight: 0
 ---
 
 > When was the last time you left a meeting frustrated? 

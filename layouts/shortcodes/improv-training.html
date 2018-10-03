@@ -1,0 +1,8 @@
+{{ with .Site.GetPage (.Get 0) }}
+  <div class="improv-game">
+    <a href="{{ .Permalink }}">
+      <h3>{{.Title}}</h3>
+    </a>
+    {{.Summary}}
+  </div>      
+{{end}}

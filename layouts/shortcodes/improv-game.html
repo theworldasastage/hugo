@@ -1,0 +1,10 @@
+{{ with .Site.GetPage (.Get 0) }}
+  <div class="improv-game">
+    <h3>{{.Title}}</h3>
+    <small>
+      <i><b>source: </b></i>{{.Params.source}}
+    </small>
+    {{.Summary}}
+    <small><a href="{{.URL}}">More details on the details, process and debrief >></a></small>
+  </div>
+{{end}}
