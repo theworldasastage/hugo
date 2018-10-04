@@ -31,12 +31,12 @@ This training lasted 2H with a group of 5 people.
 
 Here are the different moments of the training : 
 
-- [__Before: __]({{<ref "#question" >}}) A form to have my team start thinking of the topic
+- [__Before:__]({{<ref "#question" >}}) A form to have my team start thinking of the topic
 - [__Introduction :__]({{<ref "#presentation" >}}) A brief presentation of the training and the objective
-- [__Warm-up: __]({{<ref "#warmup" >}}) As in sport we need to warm-up our bodies and minds
-- [__Exercises: __]({{<ref "#exercise" >}}) Theater use games to explore topics, these games are good to work on a particular subject.
-- [__Scenework: __]({{<ref "#scenework" >}}) Using what we learned during the games, we practice in some short scenes.
-- [__What's next: __]({{<ref "#next" >}}) At the end we decide what to apply in our work
+- [__Warm-up:__]({{<ref "#warmup" >}}) As in sport we need to warm-up our bodies and minds
+- [__Exercises:__]({{<ref "#exercise" >}}) Theater use games to explore topics, these games are good to work on a particular subject.
+- [__Scenework:__]({{<ref "#scenework" >}}) Using what we learned during the games, we practice in some short scenes.
+- [__What's next:__]({{<ref "#next" >}}) At the end we decide what to apply in our work
 
 > The most critical part of exercises and scene work are the debrief. Contrary to usual learning, in improv and when you learn by yourself about your behavior. It's by discussing what just happened on stage that we can be more aware of our natural reactions.
 
