@@ -9,9 +9,9 @@ source: "Discovered with Ian Parizot"
 draft: false
 ---
 
-Two players do a scene. They must say one sentence at a time : Player A starts with a sentence, Player B answer with another sentence, and so on.
+Two players do a scene. They must say one sentence at a time: Player A starts with a sentence, Player B answer with another sentence, and so on.
 
-A good setup to do scene where we concentrate on the listening between players.
+A good setup to do a scene where we concentrate on the listening between players.
 
 <!--more-->
 
@@ -23,17 +23,17 @@ The two players are doing a normal scene. Each player must say one sentence only
 
 
 ### Remarks
-This setup help to analyse what is happening and how each players listen to each other. By saying one sentence at a time, you can discuss if each sentence is connected to the previous one and not blocking.
+This setup helps to analyze what is happening and how each player listens to each other. By saying one sentence at a time, you can discuss if each sentence is connected to the previous one and not blocking.
 
 
-Keith Johnstone in Impro for Storytellers presents a serie of way players are killing stories. This exercice is perfect to notice them and discuss with the group. Here are some of these blocking methods : 
+Keith Johnstone in _Impro for Storytellers_ presents a series of way players are killing stories. This exercise is perfect to notice them and discuss with the group. Here are some of these blocking methods : 
 
-- Blocking : a direct negation to the offer
-- Wimping : Accepting the ideas but don't adding anything on them
-- Cancelling : demanteling what has been established
-- Gossiping : Avoiding interaction by discussing something that happen outside of the scene, arguing on a price, etc.
-- Agreed activities : Doing exactly what the other player ask you to do, killing all interaction that can exists between players.
-- Sidetracking : Adding elements to avoid the actual story
+- Blocking: a direct negation to the offer
+- Wimping: Accepting the ideas but don't add anything on them
+- Canceling: dismantling what has been established
+- Gossiping: Avoiding interaction by discussing something that happens outside of the scene, arguing on a price, etc.
+- Agreed activities: Doing exactly what the other player asks you to do, killing all interaction that can exist between players.
+- Sidetracking: Adding elements to avoid the actual story
 - Being original 
 - Looping 
 - Gagging 

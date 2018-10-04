@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://theworldasastage.com/training-why-dont-i-have-more-ideas/</loc>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://theworldasastage.com/dev/code-log/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
@@ -251,13 +256,13 @@
   
   <url>
     <loc>https://theworldasastage.com/tags/improvisation/</loc>
-    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://theworldasastage.com/categories/improvisation/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -335,7 +340,7 @@
   
   <url>
     <loc>https://theworldasastage.com/post/</loc>
-    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -383,7 +388,13 @@
   
   <url>
     <loc>https://theworldasastage.com/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://theworldasastage.com/tags/training/</loc>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
