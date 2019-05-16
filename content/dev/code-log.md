@@ -12,6 +12,84 @@ weight: 111
 
 This is just a code log, where I put code discoveries, problems, etc.
 
+# October 18th, 2018
+
+I wanted to transform in a JSON in complex cases with nested elements. And surprisingly I couldn't find a method to do that on Google. Here is the method I used.
+
+## The problem
+
+Thanks to JQuery `serializeArray` method, I have a list of key values, for example : 
+
+```javascript
+data = [
+    {name: "key1", value: "value1"},
+    {name: "key2[key3][key4]", value: "value2"},
+    {name: "key2[key3][key5]", value: "value3"},
+    {name: "key6[key7]", value: "value4"}
+]
+```
+
+and I want to convert that in a proper JSON : 
+
+```javascript
+{
+    "key1":"value1",
+    "key2":{
+        "key3":{
+            "key4":"value2",
+            "key5":"value3"
+        }
+    },
+    "key6":{
+        "key7":"value4"
+    }
+}
+```
+
+## The solution
+
+This kind of nested problems can be solved thanks to recurrency and the fact that modifiying a javascript object anywhere modify the object still. 
+
+```javascript
+magicparser = function(cur_output,el){
+    // try a match of the type key[key2]...
+    m = el.name.match(/([^\[]+)\[([^\]]+)\](.*)/) 
+    if(m === null){
+      // it's a direct key->val : "key"
+      cur_output[el.name] = el.value;
+    }else{
+      // it's a key with nested key : "key[key2]..."
+      if(cur_output[m[1]] === undefined)
+        // so we create the entry
+        cur_output[m[1]] = {}
+      // and we go deeper
+      magicparser(cur_output[m[1]],{name: m[2]+m[3], value: el.value})
+    }
+  }
+
+output = {}
+data.forEach(function(el){
+  magicparser(output,el)
+})
+```
+
+# October 16th, 2018
+
+In Pandas I finally found something I'm dreaming of to vizualize data. Imagine you have a dataframe with 3 columns : 
+
+- Money : Your money
+- Year : The year you earned this money
+- Product : With product generated the income
+
+We very often want to just plot `Money` against `Year` with 3 curves and a different color for each one and a beautiful legend.
+
+I used to do a loop for that but it's actually super easy with Pandas and the magic method `unstack` : 
+
+```python
+df.groupby(['Year','Product']).sum().unstack()['Money'].plot()
+```
+
+
 # September 25th, 2018
 
 Let's play with the fantastics `pipe` and `alias` commands.
