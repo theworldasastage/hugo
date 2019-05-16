@@ -14,8 +14,6 @@ weight: 111
 >  Isaac Asimov, Foundation
 
 
-Hi there and welcome!
-
 I am Baptiste Coulange, a co-founder and CTO of [Cornis](http://web.cornis.fr/en/pages/home) since 2011, a company applying machine learning and data processing to efficiently process wind turbine inspections. Under the stage name Nicolas Tupégabet (I love anagrams!) I'm a podcaster on the weekly French popular science podcast [Podcast Science](http://podcastscience.fm) created in 2010. I started improvisation more than 10 years ago in France and now improvise at workshops or with the [Barcelona Improv Group community](https://www.barcelonaimprovgroup.com/).
 
 
