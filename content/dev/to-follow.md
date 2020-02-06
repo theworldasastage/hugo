@@ -4,7 +4,7 @@ date: "2018-08-20"
 draft: false
 noauthor: false
 share: false
-title: "Dev : List of websites I follow"
+title: "Dev : To follow"
 type: "page"
 weight: 111
 ---
@@ -20,6 +20,7 @@ This are great resources I often go to or I transmit to new people on my team.
 - [How to do a vizualization of your data](https://www.data-to-viz.com/) : A fanstastic website on how to represent your data and the things to avoid.
 - [Cognitive biases you need to master to design better websites](https://webdesign.tutsplus.com/articles/cognitive-biases-you-need-to-master-to-design-better-websites--cms-30742)
 - [The 5 information every figure caption should have](/the-5-informations-every-figure-caption-should-have/)
+- [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)
 
 ### Machine learning
 - [How work modern Machine Learning](https://towardsdatascience.com/watching-modern-ai-methods-in-action-929e106d6a7c) : quick and visual guide to the most common algorithms

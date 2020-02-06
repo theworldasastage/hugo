@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "d"
 date: 2018-08-21
 image: img/book-creativity-inc.jpg
 categories: ["books"]
