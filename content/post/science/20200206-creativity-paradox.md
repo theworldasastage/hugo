@@ -96,9 +96,7 @@ And I can conclude that my hypothesis was wrong.
 
 You always need to validate your hypothesis on data you've never looked at before.
 
-{{< partial "contact_form" "To be notified on the next datascience paradox article, subscribe to the newsletter!" "creativity_paradox" >}}
-
-
+{{< partial "mailing-with-tag" "Subscribe to the newsletter to receive new articles." "creativity-paradox">}}
 
 
 
