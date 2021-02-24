@@ -7,7 +7,7 @@ image: "img/books.jpg"
 weight: 111
 ---
 
-> "How to live? A. Read a lot, forget most of what you read, and be slow-witted" - Sarah Bakewell
+> "How to live? A. Read a lot, forget most of what you read, and be slow-witted" - Montaigne
 
 I'm always reading. I do it because it's fun to discover and learn new things. In retrospective, I also read because in each book I find out a bit more about what we are all obsessed about: _Why are we there?_. Each book brings its little insight on how to behave, how to learn, how to be happier.
 
