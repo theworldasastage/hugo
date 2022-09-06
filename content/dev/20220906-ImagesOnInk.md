@@ -1,6 +1,6 @@
 ---
 title: "How to fix the Ink bug that hides choices with images?"
-date: 2018-08-20
+date: 2022-09-06
 categories: [fix"]
 tags: []
 type: "dev"
