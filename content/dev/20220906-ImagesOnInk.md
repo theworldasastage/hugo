@@ -4,7 +4,7 @@ date: 2022-09-06
 categories: [fix"]
 tags: []
 type: "dev"
-image: img/dev/data-visualization-pitfalls.png
+image: img/dance.jpg
 draft: false
 ---
 
