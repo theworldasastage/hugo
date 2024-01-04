@@ -1,0 +1,20 @@
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About me"
+url = "/about/"
+weight = 99
+
+[[main]]
+name = "Reading list"
+url = "/reading-list/"
+weight = 98
+
+
+[[main]]
+name = "Books"
+url = "/tags/books/"
+weight = 95

@@ -1,0 +1,86 @@
+baseURL = "https://theworldasastage.com/"
+theme = "blowfish"
+defaultContentLanguage = "en"
+languageCode = "en-us"
+disqusShortname = "the-world-as-a-stage"
+paginate = 6
+title = "The world as a stage"
+
+googleAnalytics = "UA-37300513-2"
+
+
+# SectionPagesMenu = "main"
+rssLimit = 15
+pygmentsUseClassic = false
+pygmentsCodefences = true
+pygmentsUseClasses = true
+
+publishDir = "docs"
+
+[permalinks]
+posts = "/:slug/"
+
+
+[author]
+name = "Baptiste Coulange"
+image = "img/author.jpg"
+headline = "Socially acceptable maths and improv nerd"
+bio = "Socially acceptable maths and improv nerd"
+links = [{ twitter = "https://twitter.com/nicotupe" }]
+
+
+# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+
+enableRobotsTXT = true
+paginate = 100
+summaryLength = 30
+
+buildDrafts = false
+buildFuture = false
+
+[imaging]
+anchor = 'Center'
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+author = "authors"
+series = "series"
+
+[sitemap]
+changefreq = 'always'
+filename = 'sitemap.xml'
+priority = 0.5
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[related]
+threshold = 0
+toLower = false
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[[related.indices]]
+name = "categories"
+weight = 100
+
+[[related.indices]]
+name = "series"
+weight = 50
+
+[[related.indices]]
+name = "authors"
+weight = 20
+
+[[related.indices]]
+name = "date"
+weight = 10
+
+[[related.indices]]
+applyFilter = false
+name = 'fragmentrefs'
+type = 'fragments'
+weight = 10

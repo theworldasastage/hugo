@@ -1,3 +1,7 @@
 [submodule "themes/casper-two"]
   path = themes/casper-two
   url = https://github.com/eueung/hugo-casper-two
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
