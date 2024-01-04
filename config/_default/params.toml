@@ -115,7 +115,7 @@ showLikes = false
 showTableOfContents = true
 showCards = true
 groupByYear = false
-cardView = true
+cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
 
