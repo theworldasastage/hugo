@@ -73,7 +73,7 @@ showRecent = true
 showRecentItems = 12
 showMoreLink = true
 # showMoreLinkDest = "posts"
-cardView = true
+cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true # only used when layout equals background
 
@@ -115,7 +115,7 @@ showLikes = false
 showTableOfContents = true
 showCards = true
 groupByYear = false
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
 
