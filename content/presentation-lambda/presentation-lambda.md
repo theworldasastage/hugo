@@ -57,7 +57,7 @@ En fait au delà d'aller voir des légendes de l'impro, j'ai pris goût à aller
 
 Tout cela doit vous paraitre un peu décousu mais cela résume pas mal mon expérience : en dehors des Evadés, mes déménagements et ma vie professionnelle ont fait que je n'ai pas eu l'occasion de passer beaucoup de temps avec le même groupe a peaufiner un art mais par contre j'ai eu l'occasion de voir beaucoup d'improvisateurs et de manières d'improviser!
 
-### Watch This Space Improv
+### Watch This Space
 
 Puis j'ai déménagé à Barcelone où j'ai fais plusieurs cours (en anglais) avec le [Barcelona Improv Group](https://www.barcelonaimprovgroup.com) d'inspiration plus américaine (Harold, Armando, etc.) :  du Harold et du Clown en particulier (l'un des membres de BIG est un clown de métier).  J'ai fait parti du groupe qui organisais jam hebdomadaires et spectacles "[Watch This Space](https://www.watchthisspaceimprov.com)". 
 
