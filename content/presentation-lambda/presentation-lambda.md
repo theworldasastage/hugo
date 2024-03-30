@@ -31,7 +31,7 @@ Notre troupe était calqué sur "Les flibustiers de l'imaginaire" : du cabaret p
 
 Quelques temps plus tard j'ai voulu reprendre, j'ai cherché une troupe à Paris et ai rejoint les ["On-Off"](https://www.facebook.com/lacompagnieOnOff/?locale=fr_FR), une troupe de cabaret avec laquelle j'ai joué régulièrement pendant quelques années. 
 
-C'est sur cette période où les dates et la chronologie est assez floue pour moi... 
+C'est sur cette période où les dates et la chronologie est assez floue pour moi, du coup la suite est peut être un peu dans le désordre... 
 
 ### Again! Production
 
@@ -78,7 +78,7 @@ Finalement le Covid et la naissance d'un enfant fait qu'après quelques jams en 
 
 Finalement je déménage à Toulouse où j'ai grandi et où on décide avec ma femme de s'installer après pas mal d'années à déménager ici et là... Je décide de chercher une troupe pour de nouveau improviser et après avoir fait le tour du web sur les troupes Toulousaine, Lambda était de loin la troupe dont le travail me plaisait le plus!
 
-## Pourquoi Lambda (et du coup ce que j'aime)
+## Pourquoi Lambda (et ce que j'aime en impro)
 
 ### Une troupe
 Après tout ça et en revenant à Toulouse, j'étais très content d'avoir vu beaucoup de type d'improvisation différentes et beaucoup de gens différents. Mais l'ambiance d'une troupe qui essaient ensemble de faire vivre un projet sur le plus long terme me manquait. 
@@ -86,14 +86,14 @@ Après tout ça et en revenant à Toulouse, j'étais très content d'avoir vu be
 En particulier travailler à des formats plus risqués et plus ambitieux, repousser les limites de ce qu'on croyait possible en improvisation. Et, petit à petit, faire avancer un peu cet art éphémère avec nos prérégrinations et expérimentations.
 
 ### Histoires improvisées
-Des troupes que j'ai consultées en rentrant à Toulouse, Lambda était une des rares troupes qui mettait en avant qu'ils étaient des raconteurs d'histoires et faisaient de l'improvisation dirigée, deux thèmes qui me parlent particulièrement. De plus,  j'ai pu voir dans vos cours et spectacle cet amour des personnages et des belles scènes. J'aime aussi cette ouverture et recherche de nouvelles inspirations (comme en ce moment le réalisme magique) et cet enthousiasme.
+Des troupes que j'ai consultées en rentrant à Toulouse, Lambda était une des rares troupes qui mettait en avant qu'ils étaient des "raconteurs d'histoires" et faisaient de l'improvisation dirigée, deux thèmes qui me parlent particulièrement. De plus,  j'ai pu voir dans vos cours et spectacle cet amour des personnages et des belles scènes. 
 
 ### Partage
 Les débuts de direction de scène et de cours m'ont aussi donné envie de partager plus cette passion avec des gens qui débutent. J'aime que Lambda travaille dur à partager cette passion et à proposer a pas mal de gens de progresser et apprendre à raconter des histoires avec eux.
 
 ### Ouverture
 
-J'aime aussi qu'il y a des personalités assez différentes à Lambda qui n'ont pas l'air d'aimer exactement les mêmes types d'imrpovisation. Je trouve ça toujours très riche en particulier quand on a des cours de présenter plusieurs facettes de l'improvisation, dans le spectacle vivant il est loin d'y avoir une seule vérité contrairement à ce que des têtes d'ingénieur comme moi ont tendance à penser au début! En particulier je suis fan du format "Lambda Experience" dont je ne connais aucun équivalent.
+J'aime aussi qu'il y a des personalités assez différentes à Lambda qui n'ont pas l'air d'aimer exactement les mêmes types d'imrpovisation. Je trouve ça toujours très riche (en particulier quand on a des cours) de présenter plusieurs facettes de l'improvisation. Dans le spectacle vivant il est loin d'y avoir une seule vérité contrairement à ce que des têtes d'ingénieur comme moi ont tendance à penser au début! En particulier je suis fan du format "Lambda Experience" dont je ne connais aucun équivalent.
 
 j'aime aussi que la troupe soit ouverte vers l'extérieur, que ce soit en organisant des stages accessibles au milieu de l'année ou via les transversales pour faire que les élèves se rencontrent au delà de restriction de "niveaux".
 
