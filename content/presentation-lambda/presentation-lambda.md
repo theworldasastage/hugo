@@ -72,11 +72,14 @@ C'est aussi à Barcelone que j'ai commencé à passer du coté de la direction e
 
 ![Maestro Barcelona](/img/maestro.jpg)
 
-### De retour à Toulouse
+## COVID
 
 Finalement le Covid et la naissance d'un enfant fait qu'après quelques jams en ligne j'ai mis en pause l'impro une année environ. En fait, pour l'anecdote, frustré d'a quel point les outils type Zoom ne sont pas très bon pour faire du travail de scène j'ai développé un outil où on pouvait faire plus de jeu de scène avec en particulier de l'échange entre écrans qui nous a fait faire un spectale en ligne que j'ai trouvé très sympa (pour un spectacle en ligne sur un outil expérimental), c'était la contribution de Watch This Space à cette période difficile pour le spectacle vivant.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jKCjqm4J5uo?si=JsvJ8G4rU_uK3Qr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### De retour à Toulouse
+
 
 Finalement je déménage à Toulouse où j'ai grandi et où on décide avec ma femme de s'installer après pas mal d'années à déménager ici et là... Je décide de chercher une troupe pour de nouveau improviser et après avoir fait le tour du web sur les troupes Toulousaine, Lambda était de loin la troupe dont le travail me plaisait le plus!
 
