@@ -13,7 +13,7 @@ Voici une présentation pour rejoindre Lambda, comme j'ai du mal à faire court,
 
 J'ai commencé l'improvisation il y a un peu moins de 15 ans. Après quelques années de troupe type Cabaret à Paris, j'ai enchainé des periodes de cours ici et là en Europe (en particulier avec l'école Keith Johnstone) sans avoir une troupe fixe du fait de mes déménagements. J'ai eu l'occasion de travailler sur de l'impro type cabaret, de l'impro américaine, du clown et des jams. Niveau cours/direction, j'ai dirigé un Maestro, ai donné des cours type coaching a Barcelone pendant un an environ avant le COVID et ai organisé des jams.
 
-Maintenant plus posé à Toulouse, je cherche à rejoindre une troupe pour évoluer avec un groupe fixe et construire ensemble un projet!
+Maintenant plus posé à Toulouse, je cherche à rejoindre une troupe pour évoluer avec un groupe fixe, construire ensemble des projets et des cours!
 
 
 ## Experiences en impro
