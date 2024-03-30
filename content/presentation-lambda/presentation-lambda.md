@@ -49,6 +49,8 @@ J'ai alors pris l'habitude pendant quelques années d'aller ici et là faire des
 
 ![Steve Jarand Workshop](/img/SteveJarand.jpg)
 
+J'essaie de continuer mais depuis que j'ai des enfants c'est plus compliqué, malgré tout j'ai enfin pu aller faire de la comédie musicale avec [les Showstopper](https://showstopperthemusical.com) récemment!
+
 ### Impro partout, tout le temps
 
 En fait au delà d'aller voir des légendes de l'impro, j'ai pris goût à aller rencontrer des groupes différents ailleurs et voir comment ils faisaient de l'impro. Du coup maintenant quand je voyage j'essaie de contacter les troupes locales pour jouer avec elles le temps d'un soir. Du coup j'ai eu l'occasion de me faire éliminer au Maestro du Loose Moose à Calgary au deuxième round, de faire un peu de chanson avec le musicien incroyable de BATS à San Francisco ou d'aller dans un cours du soir pour débutant à Santa Barbara!
