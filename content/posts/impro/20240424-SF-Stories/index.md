@@ -44,7 +44,7 @@ C'est aussi la marque de fabrique de cette série. Un élément change et on reg
 
 Le setting ici est a mon sens parmi les setting de SF les plus intéressant. Il apporte beaucoup d'éléments de SF mais en restant proche de ce qu'on connait. Et surtout tous ces éléments servent à raconter des histoires de personnages forts et font des liens avec des sujets sociétaux que l'on connait (racisme, discrimination, etc.)
 
-### Du ultra-contemporain
+### Ultra-contemporain
 **Homeland** (2013, Livre 2 de la série Little Brother par Cory Doctorow)
 
 ![Image Wikimedia](https://upload.wikimedia.org/wikipedia/en/3/36/Doctorows_Homeland.png)
@@ -58,7 +58,7 @@ On a moins en tête ça quand on parle de science fiction mais c'est tout aussi 
 
 Autre exemple où Cory Doctorow utilise le saut dans le futur pour parler de sujets très très contemporains.
 
-### Du Space Opera
+### Space Opera
 **Hitchhicker Guide to the Galaxy** (1979-1992, Série de 5 livres par Douglas Adams)
 > La terre étant sur le plan d'une autoroute intergalactique, elle se fait détruire et Arthur Dent est sauvé in extremis par un ami qui s'avère être un alien. S'en suit nombre de péripéties dans un monde loufoque peuplé d'alien de tous genre.
 
@@ -132,7 +132,7 @@ Dans Dune et dans d'autres univers de ce type, on est tellement loin dans le fut
 
 > Caves of Qud est dans un monde où l'eau est une denrée rare (en fait tous les échanges financiers se font avec l'eau), la religion a une place forte et la technologie est présente même si l'on sent bien que cela fait très très longtemps que ces vestiges de la technologie ont été abandonnés et en font des artefacts. C'est donc un monde ou vous vous baladez équipés et habillés comme des tribus d'un ancien temps mais pouvez tomber nez à nez avec une tourelle automatique ou autre micro-processeur.
 
-### Des monstres
+### Monstres
 **Alien** (1979, Film de Ridley Scott)
 > Après avoir trouvé un vaisseau abandonné, l'équipage d'un vaisseau se trouve nez a nez avec une espèce alien parasite bien décidée à erradiquer tous les humains qu'elle croise.
 
@@ -153,7 +153,7 @@ Si dans Alien les humains sont faibles et tentent de survivre au niveau individu
 
 Parfois les monstres sont aussi l'occasion de questionner une fois de plus notre humanité et notre éthique.
 
-### Des Robots, des IA, des Android
+### Robots, IA et Androids
 **The Naked Sun** (1958, Livre 2 de la série des robots de Isaac Asimov)
 > Un monde où les robots sont omniprésents pour faire toutes les taches possibles pour aider les humains. Les humains n'ont alors plus de contact direct et vivent loin les un des autres (communiquant par visio-conférence). Un homme est tué alors qu'il n'y a que des robots dans les parages et les lois de la robotique interdisent de faire du mal aux humains. S'en suit une enquête pour déterminer qui a tué cet humain.
 
@@ -176,7 +176,7 @@ La machine de Von Neumann est un concept théorique souvent utilisé en SF pour 
 Un monde où les android co-existent avec les humains et une histoire d'enquête policière
 
 
-### La SF Militariste
+### SF Militariste
 **Old Man's War** (2005, Livre 1 d'une série par John Scalzi)
 
 ![Image Wikimedia](https://upload.wikimedia.org/wikipedia/en/e/e4/OldMansWar%281stEd%29.jpg)
@@ -187,7 +187,7 @@ Proche du Space Opéra mais pas toujours, ces histoires se focalisent souvent su
 
 Autre exemple notable **Starship Troopers** (1997, film de Paul Verhoeven)
 
-### Les Dystopies
+### Dystopies
 **1984** (1949, Livre de Georges Orwell)
 > Big brother is watching you. Un homme poursuit une relation amoureuse interdite dans un monde où tout est contrôlé.
 
@@ -197,7 +197,7 @@ Autre exemple notable : **A Clockwork Orange** (1962, Livre de Anthony Burgess e
 
 ![Image Wikimedia](https://upload.wikimedia.org/wikipedia/en/7/73/A_Clockwork_Orange_%281971%29.png)
 
-### Le voyage dans le temps
+### Voyage dans le temps
 **The Time Traveler's Wife** (2009, Livre de Audrey Niffenegger)
 
 ![Image Wikimedia](https://upload.wikimedia.org/wikipedia/en/b/bf/TimeTravellersWife.jpg)
@@ -220,7 +220,7 @@ A noter que comme dans tous les sujets de SF il est important d'être très pré
 
 Les boucles temporelles sont aussi souvent utilisées dans la SF. Ici on découvre une civilisation bloquée dans une boucle temporelle depuis une éternité, cela permet, au fil des "reboot" d'en savoir un peu plus sur cette civilization et sur le pourquoi de cette boucle temporelle.
 
-### Le Cyberpunk
+### Cyberpunk
 **Snow Crash** (1992, livre de Neal Stephenson)
 
 ![Image Wikimedia](https://upload.wikimedia.org/wikipedia/en/d/d5/Snowcrash.jpg)
@@ -231,7 +231,7 @@ Le Cyberpunk est un sous-genre de SF Distopienne qui se focalise entre un mélan
 
 D'autres exemples notables : **Neuromancer** (1984, livre de William Gibson qui a largement inspiré le film The Matrix) ou **Ready Player One** (2011, livre de Ernest Cline puis film de Steven Spielberg)
 
-### Les épidémies
+### Épidémies
 **World War Z: An Oral History of the Zombie War** (2006, Livre de Max Brooks)
 > Suite de témoignages au sujet de l'émergence de zombies et la lutte pour la survie de l'humanité.
 
