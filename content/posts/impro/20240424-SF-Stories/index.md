@@ -1,5 +1,5 @@
 ---
-title: "SF Stories"
+title: "Histoires de science fiction"
 date: 2024-04-23
 image: img/again-2017.jpg
 categories: ["Improvisation"]
