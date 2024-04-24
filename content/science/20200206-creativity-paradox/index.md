@@ -5,7 +5,6 @@ image: "img/unsplash/lucia-YYsz1qTnA50-unsplash.jpg"
 categories: ["science","dev"]
 type: "post"
 tags: ["datascience","statistics"]
-weight: 1
 ---
 
 Take a standard 52 deck of cards and draw two cards. Can you find something in common about these two cards?

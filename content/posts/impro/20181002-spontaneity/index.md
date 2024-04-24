@@ -6,7 +6,6 @@ categories: ["Improvisation"]
 type: "post"
 tags: ["Improvisation", "training"]
 draft: false
-weight: 1
 ---
 
 In front of this computer since hours, I'm looking for how to start this article. How the find _the idea_ that will make it meaningful. I turn the music on and the distraction off and begin to look around me to think "outside the box". Two hours ago I planned to write this article about the first improvisation training I did with my team. I've decided to train us on behavior and creativity topics. This training is about what I'm struggling with right now :
