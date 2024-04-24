@@ -38,6 +38,8 @@ pageNotFoundTitle = "404 - Page not found"
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
+showComments = true
+
 autoSwitchAppearance = true
 colorScheme = "Noir"
 enableSearch = true
@@ -65,6 +67,7 @@ showCopyright = true
 showThemeAttribution = true
 showAppearanceSwitcher = true
 showScrollToTop = true
+
 
 [homepage]
 layout = "background" # valid options: page, profile, hero, card, background, custom
