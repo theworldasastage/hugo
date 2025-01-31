@@ -10,7 +10,7 @@ draft: false
 
 Each time I receive a 10 pages document explaining a scientific work on our data with several figures, my first reflex is to scroll and look at all the pictures without reading any text. This is no different from not reading the manual when you buy a new phone: _we are smart enough to understand_.
 
-![Beeers](/img/beeers.png)
+![Beeers](/img/beeeers.png)
 
 This is for sure the number of beers of each type produced each year since 2000.
 
